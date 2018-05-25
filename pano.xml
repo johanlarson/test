@@ -1,419 +1,417 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tour start="node1" appversion="5.2.4" apprev="15996">
+<tour appversion="5.2.4" start="node1" apprev="15996">
   <panorama id="node1">
-    <input height="1936" levelingroll="0" levelbiashidpi="0.400" levelingpitch="0" levelbias="0.400" overlap="1" width="1936" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
-      <level preload="0" height="1936" width="1936" predecode="0"/>
-      <level preload="0" height="968" width="968" predecode="0"/>
-      <level preload="1" height="484" width="484" predecode="1"/>
+    <input levelingroll="0" leveltilesize="510" levelbias="0.400" width="1936" overlap="1" height="1936" levelingpitch="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400">
+      <level preload="0" predecode="0" width="1936" height="1936"/>
+      <level preload="0" predecode="0" width="968" height="968"/>
+      <level preload="1" predecode="1" width="484" height="484"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start pan="9.76073" tilt="0.367284" fov="70" projection="4"/>
-      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
-      <min pan="0" tilt="-90" fov="5"/>
-      <max scaletofit="1" pan="360" fovstereographic="270" tilt="90" fovfisheye="360" fov="120"/>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0.367284" fov="70" pan="9.76073"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
     </view>
-    <userdata tags="images|diveshedgroup" title="Outside Diveshed" copyright="" description="&lt;b>Outside Diveshed&lt;/b>&lt;/br> Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed      " author="" datetime="5/3/18 1:00 PM" source="" info="" comment="" longitude="" customnodeid="" latitude=""/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label textalpha="1" border="1" enabled="1" height="20" borderalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" background="1" wordwrap="1" bordercolor="0x000000" width="180" borderradius="1" backgroundalpha="1"/>
-      <polystyle borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1"/>
-      <hotspot skinid="ht_node" title="Raceways" pan="54.39" description="" id="Point01" tilt="-4.92" url="{node2}" target=""/>
-      <hotspot skinid="ht_node" title="Touch tank" pan="34.46" description="" id="Point02" tilt="-6.28" url="{node8}" target=""/>
-      <hotspot skinid="ht_node" title="Challenger" pan="-176.77" description="" id="Point03" tilt="-2.04" url="{node9}" target=""/>
-      <hotspot skinid="ht_node" title="Dive shed" pan="6.83" description="" id="Point04" tilt="-3.77" url="{node7}" target=""/>
-      <hotspot skinid="ht_node" title="Mudflat outside of dive shed" pan="-87.2" description="" id="Point05" tilt="2.97" url="{node10}" target=""/>
+    <userdata info="" description="&lt;b>Outside Diveshed&lt;/b>&lt;/br> Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed      " comment="" longitude="" author="" copyright="" source="" latitude="" customnodeid="" title="Outside Diveshed" datetime="5/3/18 1:00 PM" tags="images|diveshedgroup"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" enabled="1" borderalpha="1" wordwrap="1" width="180" border="1" height="20" backgroundalpha="1" borderradius="1" bordercolor="0x000000" textalpha="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.2509803921568627" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" url="{node2}" target="" description="" tilt="-9.23" skinid="ht_node" pan="54.62" title="Raceways"/>
+      <hotspot id="Point02" url="{node8}" target="" description="" tilt="-10.51" skinid="ht_node" pan="33.98" title="Touch tank"/>
+      <hotspot id="Point03" url="{node9}" target="" description="" tilt="-4.43" skinid="ht_node" pan="-177.02" title="Challenger"/>
+      <hotspot id="Point04" url="{node7}" target="" description="" tilt="-8.38" skinid="ht_node" pan="6.71" title="Dive shed"/>
+      <hotspot id="Point05" url="{node10}" target="" description="" tilt="3.39" skinid="ht_node" pan="-165.91" title="Mudflat outside of dive shed"/>
+      <hotspot id="Point06" url="{node12}" target="" description="" tilt="-4.31" skinid="ht_node" pan="-75.54" title="Havanna house"/>
     </hotspots>
     <media>
-      <video rotx="-10.000" height="360" roty="13.000" rotz="2.000" width="480" clickmode="2" level="1.000" pansize="10.000" stretch="1.000" mode="3" handcursor="0" tiltsize="10.000" id="Element01" loop="1" pan="21.270" tilt="-23.480" ambientlevel="0.000" field="90.000" fov="25.710">
-        <source url="media/Silver Dapple Dog.mp4"/>
-      </video>
-      <image pan="-23.490" height="1367" id="Element02" tilt="-0.630" rotx="-12.000" stretch="1.000" roty="5.000" width="2048" rotz="-4.000" fov="51.104" handcursor="1" clickmode="4">
-        <source url="media/lightroomedit_7745_compressed.jpg"/>
+      <image id="Element01" handcursor="0" tilt="-2.310" fov="38.100" width="1543" rotx="1.000" clickmode="0" roty="-2.000" height="613" pan="-27.110" rotz="-6.000" stretch="1.000">
+        <source url="media/researchStationGroupPhoto-compressor.jpg"/>
       </image>
     </media>
-    <transition zoomout="0" enabled="0" blendcolor="0x000000" type="crossdissolve" zoomfov="20" zoomoutpause="1" zoomin="0" blendtime="1" softedge="0" zoomspeed="2"/>
-    <control hideabout="0" invertcontrol="1" sensitivity="8" contextprojections="0" lockedkeyboardzoom="0" rubberband="0" dblclickfullscreen="0" lockedmouse="0" speedwheel="1" contextfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" lockedkeyboard="0"/>
+    <transition zoomin="0" zoomout="0" enabled="0" type="crossdissolve" blendtime="1" zoomoutpause="1" zoomfov="20" zoomspeed="2" blendcolor="0x000000" softedge="0"/>
+    <control speedwheel="1" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboard="0" simulatemass="1" contextfullscreen="0" hideabout="0" lockedmouse="0" invertwheel="0" rubberband="0" lockedwheel="0"/>
   </panorama>
   <panorama id="node2">
-    <input height="1936" levelingroll="0" levelbiashidpi="0.400" levelingpitch="0" levelbias="0.400" overlap="1" width="1936" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
-      <level preload="0" height="1936" width="1936" predecode="0"/>
-      <level preload="0" height="968" width="968" predecode="0"/>
-      <level preload="1" height="484" width="484" predecode="1"/>
+    <input levelingroll="0" leveltilesize="510" levelbias="0.400" width="1936" overlap="1" height="1936" levelingpitch="0" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400">
+      <level preload="0" predecode="0" width="1936" height="1936"/>
+      <level preload="0" predecode="0" width="968" height="968"/>
+      <level preload="1" predecode="1" width="484" height="484"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start pan="0" tilt="0" fov="70" projection="4"/>
-      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
-      <min pan="0" tilt="-90" fov="5"/>
-      <max scaletofit="1" pan="360" fovstereographic="270" tilt="90" fovfisheye="360" fov="120"/>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="-7.41253" fov="70" pan="94.1329"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
     </view>
-    <userdata tags="images|diveshedgroup" title="Raceways" copyright="" description="&lt;b>Outside Diveshed&lt;/b>&lt;/br> Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed      " author="" datetime="6/3/18 8:13 AM" source="" info="" comment="" longitude="" customnodeid="" latitude=""/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label textalpha="1" border="1" enabled="1" height="20" borderalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" background="1" wordwrap="1" bordercolor="0x000000" width="180" borderradius="1" backgroundalpha="1"/>
-      <polystyle borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1"/>
-      <hotspot skinid="ht_node" title="Outside diveshed" pan="15.01" description="" id="Point01" tilt="1.51" url="{node1}" target=""/>
-      <hotspot skinid="ht_node" title="Wetlab" pan="131.73" description="" id="Point02" tilt="-0.32" url="{node3}" target=""/>
-      <hotspot skinid="ht_node" title="Dive shed" pan="50.73" description="" id="Point03" tilt="-0.65" url="{node7}" target=""/>
+    <userdata info="" description="&lt;b>Outside Diveshed&lt;/b>&lt;/br> Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed      " comment="" longitude="" author="" copyright="" source="" latitude="" customnodeid="" title="Raceways" datetime="6/3/18 8:13 AM" tags="images|diveshedgroup"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" enabled="1" borderalpha="1" wordwrap="1" width="180" border="1" height="20" backgroundalpha="1" borderradius="1" bordercolor="0x000000" textalpha="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.2509803921568627" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" url="{node1}" target="" description="" tilt="-3" skinid="ht_node" pan="10.29" title="Outside diveshed"/>
+      <hotspot id="Point02" url="{node3}" target="" description="" tilt="-9.66" skinid="ht_node" pan="129.27" title="Wetlab"/>
+      <hotspot id="Point03" url="{node7}" target="" description="" tilt="-5.87" skinid="ht_node" pan="51.47" title="Dive shed"/>
     </hotspots>
     <media/>
-    <transition zoomout="0" enabled="0" blendcolor="0x000000" type="crossdissolve" zoomfov="20" zoomoutpause="1" zoomin="0" blendtime="1" softedge="0" zoomspeed="2"/>
-    <control hideabout="0" invertcontrol="1" sensitivity="8" contextprojections="0" lockedkeyboardzoom="0" rubberband="0" dblclickfullscreen="0" lockedmouse="0" speedwheel="1" contextfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" lockedkeyboard="0"/>
+    <transition zoomin="0" zoomout="0" enabled="0" type="crossdissolve" blendtime="1" zoomoutpause="1" zoomfov="20" zoomspeed="2" blendcolor="0x000000" softedge="0"/>
+    <control speedwheel="1" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboard="0" simulatemass="1" contextfullscreen="0" hideabout="0" lockedmouse="0" invertwheel="0" rubberband="0" lockedwheel="0"/>
   </panorama>
   <panorama id="node3">
-    <input height="1936" levelingroll="0" levelbiashidpi="0.400" levelingpitch="0" levelbias="0.400" overlap="1" width="1936" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
-      <level preload="0" height="1936" width="1936" predecode="0"/>
-      <level preload="0" height="968" width="968" predecode="0"/>
-      <level preload="1" height="484" width="484" predecode="1"/>
+    <input levelingroll="0" leveltilesize="510" levelbias="0.400" width="1936" overlap="1" height="1936" levelingpitch="0" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400">
+      <level preload="0" predecode="0" width="1936" height="1936"/>
+      <level preload="0" predecode="0" width="968" height="968"/>
+      <level preload="1" predecode="1" width="484" height="484"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start pan="1.73081" tilt="-17.2157" fov="70" projection="4"/>
-      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
-      <min pan="0" tilt="-90" fov="5"/>
-      <max scaletofit="1" pan="360" fovstereographic="270" tilt="90" fovfisheye="360" fov="120"/>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="-9.77774" fov="70" pan="149.601"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
     </view>
-    <userdata tags="images|diveshedgroup" title="Wetlab" copyright="" description="&lt;b>Outside Diveshed&lt;/b>&lt;/br> Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed      " author="" datetime="6/3/18 8:11 AM" source="" info="" comment="" longitude="" customnodeid="" latitude=""/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label textalpha="1" border="1" enabled="1" height="20" borderalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" background="1" wordwrap="1" bordercolor="0x000000" width="180" borderradius="1" backgroundalpha="1"/>
-      <polystyle borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1"/>
-      <hotspot skinid="ht_node" title="Raceways" pan="3.13" description="" id="Point01" tilt="-9.37" url="{node2}" target=""/>
-      <hotspot skinid="ht_node" title="Lecture theatre" pan="113.09" description="" id="Point02" tilt="-4.97" url="{node6}" target=""/>
-      <hotspot skinid="ht_node" title="Drylab" pan="179.79" description="" id="Point03" tilt="4.52" url="{node4}" target=""/>
+    <userdata info="" description="&lt;b>Outside Diveshed&lt;/b>&lt;/br> Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed      " comment="" longitude="" author="" copyright="" source="" latitude="" customnodeid="" title="Wetlab" datetime="6/3/18 8:11 AM" tags="images|diveshedgroup"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" enabled="1" borderalpha="1" wordwrap="1" width="180" border="1" height="20" backgroundalpha="1" borderradius="1" bordercolor="0x000000" textalpha="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.2509803921568627" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" url="{node2}" target="" description="" tilt="-17.89" skinid="ht_node" pan="2.57" title="Raceways"/>
+      <hotspot id="Point02" url="{node6}" target="" description="" tilt="-14.99" skinid="ht_node" pan="114.92" title="Lecture theatre"/>
+      <hotspot id="Point03" url="{node4}" target="" description="" tilt="-2.02" skinid="ht_node" pan="180.9" title="Drylab"/>
     </hotspots>
     <media/>
-    <transition zoomout="0" enabled="0" blendcolor="0x000000" type="crossdissolve" zoomfov="20" zoomoutpause="1" zoomin="0" blendtime="1" softedge="0" zoomspeed="2"/>
-    <control hideabout="0" invertcontrol="1" sensitivity="8" contextprojections="0" lockedkeyboardzoom="0" rubberband="0" dblclickfullscreen="0" lockedmouse="0" speedwheel="1" contextfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" lockedkeyboard="0"/>
+    <transition zoomin="0" zoomout="0" enabled="0" type="crossdissolve" blendtime="1" zoomoutpause="1" zoomfov="20" zoomspeed="2" blendcolor="0x000000" softedge="0"/>
+    <control speedwheel="1" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboard="0" simulatemass="1" contextfullscreen="0" hideabout="0" lockedmouse="0" invertwheel="0" rubberband="0" lockedwheel="0"/>
   </panorama>
   <panorama id="node4">
-    <input height="1936" levelingroll="0" levelbiashidpi="0.400" levelingpitch="0" levelbias="0.400" overlap="1" width="1936" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
-      <level preload="0" height="1936" width="1936" predecode="0"/>
-      <level preload="0" height="968" width="968" predecode="0"/>
-      <level preload="1" height="484" width="484" predecode="1"/>
+    <input levelingroll="0" leveltilesize="510" levelbias="0.400" width="1936" overlap="1" height="1936" levelingpitch="0" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400">
+      <level preload="0" predecode="0" width="1936" height="1936"/>
+      <level preload="0" predecode="0" width="968" height="968"/>
+      <level preload="1" predecode="1" width="484" height="484"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start pan="-106.349" tilt="-8.63134" fov="70" projection="4"/>
-      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
-      <min pan="0" tilt="-90" fov="5"/>
-      <max scaletofit="1" pan="360" fovstereographic="270" tilt="90" fovfisheye="360" fov="120"/>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="-18.6957" fov="70" pan="87.0547"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
     </view>
-    <userdata tags="images|diveshedgroup" title="Drylab" copyright="" description="&lt;b>Outside Diveshed&lt;/b>&lt;/br> Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed      " author="" datetime="22/3/18 2:17 PM" source="" info="" comment="" longitude="" customnodeid="" latitude=""/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label textalpha="1" border="1" enabled="1" height="20" borderalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" background="1" wordwrap="1" bordercolor="0x000000" width="180" borderradius="1" backgroundalpha="1"/>
-      <polystyle borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1"/>
-      <hotspot skinid="ht_node" title="Wetlab" pan="-91.11" description="" id="Point01" tilt="-4.22" url="{node3}" target=""/>
-      <hotspot skinid="ht_node" title="Microscope room" pan="-148.97" description="" id="Point02" tilt="1.38" url="{node5}" target=""/>
+    <userdata info="" description="&lt;b>Outside Diveshed&lt;/b>&lt;/br> Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed      " comment="" longitude="" author="" copyright="" source="" latitude="" customnodeid="" title="Drylab" datetime="22/3/18 2:17 PM" tags="images|diveshedgroup"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" enabled="1" borderalpha="1" wordwrap="1" width="180" border="1" height="20" backgroundalpha="1" borderradius="1" bordercolor="0x000000" textalpha="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.2509803921568627" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" url="{node3}" target="" description="" tilt="-18.91" skinid="ht_node" pan="-91.77" title="Wetlab"/>
+      <hotspot id="Point02" url="{node5}" target="" description="" tilt="-4.76" skinid="ht_node" pan="-149.79" title="Microscope room"/>
     </hotspots>
     <media/>
-    <transition zoomout="0" enabled="0" blendcolor="0x000000" type="crossdissolve" zoomfov="20" zoomoutpause="1" zoomin="0" blendtime="1" softedge="0" zoomspeed="2"/>
-    <control hideabout="0" invertcontrol="1" sensitivity="8" contextprojections="0" lockedkeyboardzoom="0" rubberband="0" dblclickfullscreen="0" lockedmouse="0" speedwheel="1" contextfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" lockedkeyboard="0"/>
+    <transition zoomin="0" zoomout="0" enabled="0" type="crossdissolve" blendtime="1" zoomoutpause="1" zoomfov="20" zoomspeed="2" blendcolor="0x000000" softedge="0"/>
+    <control speedwheel="1" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboard="0" simulatemass="1" contextfullscreen="0" hideabout="0" lockedmouse="0" invertwheel="0" rubberband="0" lockedwheel="0"/>
   </panorama>
   <panorama id="node5">
-    <input height="1936" levelingroll="0" levelbiashidpi="0.400" levelingpitch="0" levelbias="0.400" overlap="1" width="1936" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
-      <level preload="0" height="1936" width="1936" predecode="0"/>
-      <level preload="0" height="968" width="968" predecode="0"/>
-      <level preload="1" height="484" width="484" predecode="1"/>
+    <input levelingroll="0" leveltilesize="510" levelbias="0.400" width="1936" overlap="1" height="1936" levelingpitch="0" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400">
+      <level preload="0" predecode="0" width="1936" height="1936"/>
+      <level preload="0" predecode="0" width="968" height="968"/>
+      <level preload="1" predecode="1" width="484" height="484"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start pan="58.7514" tilt="-5.00767" fov="70" projection="4"/>
-      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
-      <min pan="0" tilt="-90" fov="5"/>
-      <max scaletofit="1" pan="360" fovstereographic="270" tilt="90" fovfisheye="360" fov="120"/>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="-15.3919" fov="70" pan="-143.438"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
     </view>
-    <userdata tags="images|diveshedgroup" title="Microscope room" copyright="" description="&lt;b>Outside Diveshed&lt;/b>&lt;/br> Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed      " author="" datetime="22/3/18 2:18 PM" source="" info="" comment="" longitude="" customnodeid="" latitude=""/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label textalpha="1" border="1" enabled="1" height="20" borderalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" background="1" wordwrap="1" bordercolor="0x000000" width="180" borderradius="1" backgroundalpha="1"/>
-      <polystyle borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1"/>
-      <hotspot skinid="ht_node" title="Drylab" pan="51.41" description="" id="Point01" tilt="0.65" url="{node4}" target=""/>
+    <userdata info="" description="&lt;b>Outside Diveshed&lt;/b>&lt;/br> Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed      " comment="" longitude="" author="" copyright="" source="" latitude="" customnodeid="" title="Microscope room" datetime="22/3/18 2:18 PM" tags="images|diveshedgroup"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" enabled="1" borderalpha="1" wordwrap="1" width="180" border="1" height="20" backgroundalpha="1" borderradius="1" bordercolor="0x000000" textalpha="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.2509803921568627" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" url="{node4}" target="" description="" tilt="-11.95" skinid="ht_node" pan="51.42" title="Drylab"/>
     </hotspots>
     <media/>
-    <transition zoomout="0" enabled="0" blendcolor="0x000000" type="crossdissolve" zoomfov="20" zoomoutpause="1" zoomin="0" blendtime="1" softedge="0" zoomspeed="2"/>
-    <control hideabout="0" invertcontrol="1" sensitivity="8" contextprojections="0" lockedkeyboardzoom="0" rubberband="0" dblclickfullscreen="0" lockedmouse="0" speedwheel="1" contextfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" lockedkeyboard="0"/>
+    <transition zoomin="0" zoomout="0" enabled="0" type="crossdissolve" blendtime="1" zoomoutpause="1" zoomfov="20" zoomspeed="2" blendcolor="0x000000" softedge="0"/>
+    <control speedwheel="1" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboard="0" simulatemass="1" contextfullscreen="0" hideabout="0" lockedmouse="0" invertwheel="0" rubberband="0" lockedwheel="0"/>
   </panorama>
   <panorama id="node6">
-    <input height="1936" levelingroll="0" levelbiashidpi="0.400" levelingpitch="0" levelbias="0.400" overlap="1" width="1936" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
-      <level preload="0" height="1936" width="1936" predecode="0"/>
-      <level preload="0" height="968" width="968" predecode="0"/>
-      <level preload="1" height="484" width="484" predecode="1"/>
+    <input levelingroll="0" leveltilesize="510" levelbias="0.400" width="1936" overlap="1" height="1936" levelingpitch="0" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400">
+      <level preload="0" predecode="0" width="1936" height="1936"/>
+      <level preload="0" predecode="0" width="968" height="968"/>
+      <level preload="1" predecode="1" width="484" height="484"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start pan="163.73" tilt="-16.4367" fov="70" projection="4"/>
-      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
-      <min pan="0" tilt="-90" fov="5"/>
-      <max scaletofit="1" pan="360" fovstereographic="270" tilt="90" fovfisheye="360" fov="120"/>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="-6.44759" fov="70" pan="-2.76167"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
     </view>
-    <userdata tags="images|diveshedgroup" title="Lecture theatre" copyright="" description="&lt;b>Outside Diveshed&lt;/b>&lt;/br> Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed      " author="" datetime="5/3/18 8:26 PM" source="" info="" comment="" longitude="" customnodeid="" latitude=""/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label textalpha="1" border="1" enabled="1" height="20" borderalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" background="1" wordwrap="1" bordercolor="0x000000" width="180" borderradius="1" backgroundalpha="1"/>
-      <polystyle borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1"/>
-      <hotspot skinid="ht_node" title="Wetlab" pan="-179.51" description="" id="Point01" tilt="-11.9" url="{node3}" target=""/>
+    <userdata info="" description="&lt;b>Outside Diveshed&lt;/b>&lt;/br> Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed      " comment="" longitude="" author="" copyright="" source="" latitude="" customnodeid="" title="Lecture theatre" datetime="5/3/18 8:26 PM" tags="images|diveshedgroup"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" enabled="1" borderalpha="1" wordwrap="1" width="180" border="1" height="20" backgroundalpha="1" borderradius="1" bordercolor="0x000000" textalpha="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.2509803921568627" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" url="{node3}" target="" description="" tilt="-23.59" skinid="ht_node" pan="-179.67" title="Wetlab"/>
     </hotspots>
     <media/>
-    <transition zoomout="0" enabled="0" blendcolor="0x000000" type="crossdissolve" zoomfov="20" zoomoutpause="1" zoomin="0" blendtime="1" softedge="0" zoomspeed="2"/>
-    <control hideabout="0" invertcontrol="1" sensitivity="8" contextprojections="0" lockedkeyboardzoom="0" rubberband="0" dblclickfullscreen="0" lockedmouse="0" speedwheel="1" contextfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" lockedkeyboard="0"/>
+    <transition zoomin="0" zoomout="0" enabled="0" type="crossdissolve" blendtime="1" zoomoutpause="1" zoomfov="20" zoomspeed="2" blendcolor="0x000000" softedge="0"/>
+    <control speedwheel="1" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboard="0" simulatemass="1" contextfullscreen="0" hideabout="0" lockedmouse="0" invertwheel="0" rubberband="0" lockedwheel="0"/>
   </panorama>
   <panorama id="node7">
-    <input height="1936" levelingroll="0" levelbiashidpi="0.400" levelingpitch="0" levelbias="0.400" overlap="1" width="1936" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
-      <level preload="0" height="1936" width="1936" predecode="0"/>
-      <level preload="0" height="968" width="968" predecode="0"/>
-      <level preload="1" height="484" width="484" predecode="1"/>
+    <input levelingroll="0" leveltilesize="510" levelbias="0.400" width="1936" overlap="1" height="1936" levelingpitch="0" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400">
+      <level preload="0" predecode="0" width="1936" height="1936"/>
+      <level preload="0" predecode="0" width="968" height="968"/>
+      <level preload="1" predecode="1" width="484" height="484"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start pan="-22.8967" tilt="-9.1655" fov="70" projection="4"/>
-      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
-      <min pan="0" tilt="-90" fov="5"/>
-      <max scaletofit="1" pan="360" fovstereographic="270" tilt="90" fovfisheye="360" fov="120"/>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="-17.9681" fov="70" pan="-150.142"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
     </view>
-    <userdata tags="images|diveshedgroup" title="Dive shed" copyright="" description="&lt;b>Outside Diveshed&lt;/b>&lt;/br> Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed      " author="" datetime="6/3/18 7:55 AM" source="" info="" comment="" longitude="" customnodeid="" latitude=""/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label textalpha="1" border="1" enabled="1" height="20" borderalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" background="1" wordwrap="1" bordercolor="0x000000" width="180" borderradius="1" backgroundalpha="1"/>
-      <polystyle borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1"/>
-      <hotspot skinid="ht_node" title="Outside dive shed" pan="-52.06" description="" id="Point01" tilt="4.22" url="{node1}" target=""/>
-      <hotspot skinid="ht_node" title="Raceways" pan="165.88" description="" id="Point02" tilt="1.69" url="{node2}" target=""/>
-      <hotspot skinid="ht_node" title="Touch tank" pan="-104.34" description="" id="Point03" tilt="-0.3" url="{node8}" target=""/>
+    <userdata info="" description="&lt;b>Outside Diveshed&lt;/b>&lt;/br> Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed      " comment="" longitude="" author="" copyright="" source="" latitude="" customnodeid="" title="Dive shed" datetime="6/3/18 7:55 AM" tags="images|diveshedgroup"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" enabled="1" borderalpha="1" wordwrap="1" width="180" border="1" height="20" backgroundalpha="1" borderradius="1" bordercolor="0x000000" textalpha="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.2509803921568627" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" url="{node1}" target="" description="" tilt="-6.41" skinid="ht_node" pan="-53.86" title="Outside dive shed"/>
+      <hotspot id="Point02" url="{node2}" target="" description="" tilt="-5.62" skinid="ht_node" pan="164.6" title="Raceways"/>
+      <hotspot id="Point03" url="{node8}" target="" description="" tilt="-8.13" skinid="ht_node" pan="-118.65" title="Touch tank"/>
     </hotspots>
     <media/>
-    <transition zoomout="0" enabled="0" blendcolor="0x000000" type="crossdissolve" zoomfov="20" zoomoutpause="1" zoomin="0" blendtime="1" softedge="0" zoomspeed="2"/>
-    <control hideabout="0" invertcontrol="1" sensitivity="8" contextprojections="0" lockedkeyboardzoom="0" rubberband="0" dblclickfullscreen="0" lockedmouse="0" speedwheel="1" contextfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" lockedkeyboard="0"/>
+    <transition zoomin="0" zoomout="0" enabled="0" type="crossdissolve" blendtime="1" zoomoutpause="1" zoomfov="20" zoomspeed="2" blendcolor="0x000000" softedge="0"/>
+    <control speedwheel="1" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboard="0" simulatemass="1" contextfullscreen="0" hideabout="0" lockedmouse="0" invertwheel="0" rubberband="0" lockedwheel="0"/>
   </panorama>
   <panorama id="node8">
-    <input height="1936" levelingroll="0" levelbiashidpi="0.400" levelingpitch="0" levelbias="0.400" overlap="1" width="1936" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
-      <level preload="0" height="1936" width="1936" predecode="0"/>
-      <level preload="0" height="968" width="968" predecode="0"/>
-      <level preload="1" height="484" width="484" predecode="1"/>
+    <input levelingroll="0" leveltilesize="510" levelbias="0.400" width="1936" overlap="1" height="1936" levelingpitch="0" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400">
+      <level preload="0" predecode="0" width="1936" height="1936"/>
+      <level preload="0" predecode="0" width="968" height="968"/>
+      <level preload="1" predecode="1" width="484" height="484"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start pan="0" tilt="0" fov="70" projection="4"/>
-      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
-      <min pan="0" tilt="-90" fov="5"/>
-      <max scaletofit="1" pan="360" fovstereographic="270" tilt="90" fovfisheye="360" fov="120"/>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
     </view>
-    <userdata tags="images|diveshedgroup" title="Touch tank" copyright="" description="&lt;b>Outside Diveshed&lt;/b>&lt;/br> Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed      " author="" datetime="6/3/18 8:01 AM" source="" info="" comment="" longitude="" customnodeid="" latitude=""/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label textalpha="1" border="1" enabled="1" height="20" borderalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" background="1" wordwrap="1" bordercolor="0x000000" width="180" borderradius="1" backgroundalpha="1"/>
-      <polystyle borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1"/>
-      <hotspot skinid="ht_node" title="" pan="16.75" description="" id="Point01" tilt="25.68" url="{node1}" target=""/>
+    <userdata info="" description="&lt;b>Outside Diveshed&lt;/b>&lt;/br> Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed      " comment="" longitude="" author="" copyright="" source="" latitude="" customnodeid="" title="Touch tank" datetime="6/3/18 8:01 AM" tags="images|diveshedgroup"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" enabled="1" borderalpha="1" wordwrap="1" width="180" border="1" height="20" backgroundalpha="1" borderradius="1" bordercolor="0x000000" textalpha="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.2509803921568627" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" url="{node1}" target="" description="" tilt="25.68" skinid="ht_node" pan="16.75" title=""/>
     </hotspots>
     <media/>
-    <transition zoomout="0" enabled="0" blendcolor="0x000000" type="crossdissolve" zoomfov="20" zoomoutpause="1" zoomin="0" blendtime="1" softedge="0" zoomspeed="2"/>
-    <control hideabout="0" invertcontrol="1" sensitivity="8" contextprojections="0" lockedkeyboardzoom="0" rubberband="0" dblclickfullscreen="0" lockedmouse="0" speedwheel="1" contextfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" lockedkeyboard="0"/>
+    <transition zoomin="0" zoomout="0" enabled="0" type="crossdissolve" blendtime="1" zoomoutpause="1" zoomfov="20" zoomspeed="2" blendcolor="0x000000" softedge="0"/>
+    <control speedwheel="1" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboard="0" simulatemass="1" contextfullscreen="0" hideabout="0" lockedmouse="0" invertwheel="0" rubberband="0" lockedwheel="0"/>
   </panorama>
   <panorama id="node9">
-    <input height="1936" levelingroll="0" levelbiashidpi="0.400" levelingpitch="0" levelbias="0.400" overlap="1" width="1936" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
-      <level preload="0" height="1936" width="1936" predecode="0"/>
-      <level preload="0" height="968" width="968" predecode="0"/>
-      <level preload="1" height="484" width="484" predecode="1"/>
+    <input levelingroll="0" leveltilesize="510" levelbias="0.400" width="1936" overlap="1" height="1936" levelingpitch="0" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400">
+      <level preload="0" predecode="0" width="1936" height="1936"/>
+      <level preload="0" predecode="0" width="968" height="968"/>
+      <level preload="1" predecode="1" width="484" height="484"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start pan="173.818" tilt="-11.47" fov="70" projection="4"/>
-      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
-      <min pan="0" tilt="-90" fov="5"/>
-      <max scaletofit="1" pan="360" fovstereographic="270" tilt="90" fovfisheye="360" fov="120"/>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="-7.24051" fov="70" pan="-4.92557"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
     </view>
-    <userdata tags="images|diveshedgroup" title="Challenger" copyright="" description="&lt;b>Outside Diveshed&lt;/b>&lt;/br> Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed      " author="" datetime="6/3/18 1:00 PM" source="" info="" comment="" longitude="" customnodeid="" latitude=""/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label textalpha="1" border="1" enabled="1" height="20" borderalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" background="1" wordwrap="1" bordercolor="0x000000" width="180" borderradius="1" backgroundalpha="1"/>
-      <polystyle borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1"/>
-      <hotspot skinid="ht_node" title="Outside dive shed" pan="162.55" description="" id="Point01" tilt="-3.11" url="{node1}" target=""/>
+    <userdata info="" description="&lt;b>Outside Diveshed&lt;/b>&lt;/br> Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed      " comment="" longitude="" author="" copyright="" source="" latitude="" customnodeid="" title="Challenger" datetime="6/3/18 1:00 PM" tags="images|diveshedgroup"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" enabled="1" borderalpha="1" wordwrap="1" width="180" border="1" height="20" backgroundalpha="1" borderradius="1" bordercolor="0x000000" textalpha="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.2509803921568627" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" url="{node1}" target="" description="" tilt="-9.76" skinid="ht_node" pan="162.8" title="Outside dive shed"/>
     </hotspots>
     <media/>
-    <transition zoomout="0" enabled="0" blendcolor="0x000000" type="crossdissolve" zoomfov="20" zoomoutpause="1" zoomin="0" blendtime="1" softedge="0" zoomspeed="2"/>
-    <control hideabout="0" invertcontrol="1" sensitivity="8" contextprojections="0" lockedkeyboardzoom="0" rubberband="0" dblclickfullscreen="0" lockedmouse="0" speedwheel="1" contextfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" lockedkeyboard="0"/>
+    <transition zoomin="0" zoomout="0" enabled="0" type="crossdissolve" blendtime="1" zoomoutpause="1" zoomfov="20" zoomspeed="2" blendcolor="0x000000" softedge="0"/>
+    <control speedwheel="1" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboard="0" simulatemass="1" contextfullscreen="0" hideabout="0" lockedmouse="0" invertwheel="0" rubberband="0" lockedwheel="0"/>
   </panorama>
   <panorama id="node10">
-    <input height="1936" levelingroll="0" levelbiashidpi="0.400" levelingpitch="0" levelbias="0.400" overlap="1" width="1936" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
-      <level preload="0" height="1936" width="1936" predecode="0"/>
-      <level preload="0" height="968" width="968" predecode="0"/>
-      <level preload="1" height="484" width="484" predecode="1"/>
+    <input levelingroll="0" leveltilesize="510" levelbias="0.400" width="1936" overlap="1" height="1936" levelingpitch="0" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400">
+      <level preload="0" predecode="0" width="1936" height="1936"/>
+      <level preload="0" predecode="0" width="968" height="968"/>
+      <level preload="1" predecode="1" width="484" height="484"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start pan="-68.215" tilt="-3.20838" fov="70" projection="4"/>
-      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
-      <min pan="0" tilt="-90" fov="5"/>
-      <max scaletofit="1" pan="360" fovstereographic="270" tilt="90" fovfisheye="360" fov="120"/>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="2.14439" fov="70" pan="-154.041"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
     </view>
-    <userdata tags="images" title="Mudflat outside of dive shed" copyright="" description="&lt;b>Outside Diveshed&lt;/b>&lt;/br> Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed      " author="" datetime="5/3/18 4:32 PM" source="" info="" comment="" longitude="" customnodeid="" latitude=""/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label textalpha="1" border="1" enabled="1" height="20" borderalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" background="1" wordwrap="1" bordercolor="0x000000" width="180" borderradius="1" backgroundalpha="1"/>
-      <polystyle borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1"/>
-      <hotspot skinid="ht_node" title="Mudflat outside of dive shed" pan="-29.69" description="" id="Point01" tilt="6.02" url="{node1}" target=""/>
-      <hotspot skinid="ht_node" title="Mudflat outside of Havannah" pan="-110.39" description="" id="Point02" tilt="6.3" url="{node11}" target=""/>
+    <userdata info="" description="&lt;b>Outside Diveshed&lt;/b>&lt;/br> Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed      " comment="" longitude="" author="" copyright="" source="" latitude="" customnodeid="" title="Mudflat outside of dive shed" datetime="5/3/18 4:32 PM" tags="images"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" enabled="1" borderalpha="1" wordwrap="1" width="180" border="1" height="20" backgroundalpha="1" borderradius="1" bordercolor="0x000000" textalpha="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.2509803921568627" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" url="{node1}" target="" description="" tilt="1.06" skinid="ht_node" pan="-30.57" title="Mudflat outside of dive shed"/>
+      <hotspot id="Point02" url="{node11}" target="" description="" tilt="3.95" skinid="ht_node" pan="-110.61" title="Mudflat outside of Havannah house"/>
     </hotspots>
     <media/>
-    <transition zoomout="0" enabled="0" blendcolor="0x000000" type="crossdissolve" zoomfov="20" zoomoutpause="1" zoomin="0" blendtime="1" softedge="0" zoomspeed="2"/>
-    <control hideabout="0" invertcontrol="1" sensitivity="8" contextprojections="0" lockedkeyboardzoom="0" rubberband="0" dblclickfullscreen="0" lockedmouse="0" speedwheel="1" contextfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" lockedkeyboard="0"/>
+    <transition zoomin="0" zoomout="0" enabled="0" type="crossdissolve" blendtime="1" zoomoutpause="1" zoomfov="20" zoomspeed="2" blendcolor="0x000000" softedge="0"/>
+    <control speedwheel="1" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboard="0" simulatemass="1" contextfullscreen="0" hideabout="0" lockedmouse="0" invertwheel="0" rubberband="0" lockedwheel="0"/>
   </panorama>
   <panorama id="node11">
-    <input height="1936" levelingroll="0" levelbiashidpi="0.400" levelingpitch="0" levelbias="0.400" overlap="1" width="1936" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
-      <level preload="0" height="1936" width="1936" predecode="0"/>
-      <level preload="0" height="968" width="968" predecode="0"/>
-      <level preload="1" height="484" width="484" predecode="1"/>
+    <input levelingroll="0" leveltilesize="510" levelbias="0.400" width="1936" overlap="1" height="1936" levelingpitch="0" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400">
+      <level preload="0" predecode="0" width="1936" height="1936"/>
+      <level preload="0" predecode="0" width="968" height="968"/>
+      <level preload="1" predecode="1" width="484" height="484"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start pan="0" tilt="0" fov="70" projection="4"/>
-      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
-      <min pan="0" tilt="-90" fov="5"/>
-      <max scaletofit="1" pan="360" fovstereographic="270" tilt="90" fovfisheye="360" fov="120"/>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="-6.66446" fov="70" pan="-48.8965"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
     </view>
-    <userdata tags="images" title="Mudflat outside of Havanna" copyright="" description="&lt;b>Outside Diveshed&lt;/b>&lt;/br> Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed      " author="" datetime="5/3/18 4:37 PM" source="" info="" comment="" longitude="" customnodeid="" latitude=""/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label textalpha="1" border="1" enabled="1" height="20" borderalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" background="1" wordwrap="1" bordercolor="0x000000" width="180" borderradius="1" backgroundalpha="1"/>
-      <polystyle borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1"/>
-      <hotspot skinid="ht_node" title="Mudflat outside of dive shed" pan="32.23" description="" id="Point02" tilt="2.51" url="{node10}" target=""/>
-      <hotspot skinid="ht_node" title="Havannah" pan="-4.64" description="" id="Point03" tilt="4.46" url="{node12}" target=""/>
+    <userdata info="" description="&lt;b>Outside Diveshed&lt;/b>&lt;/br> Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed      " comment="" longitude="" author="" copyright="" source="" latitude="" customnodeid="" title="Mudflat outside of Havanna house" datetime="5/3/18 4:37 PM" tags="images"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" enabled="1" borderalpha="1" wordwrap="1" width="180" border="1" height="20" backgroundalpha="1" borderradius="1" bordercolor="0x000000" textalpha="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.2509803921568627" bordercolor="0x0000ff"/>
+      <hotspot id="Point02" url="{node10}" target="" description="" tilt="-0.63" skinid="ht_node" pan="32.82" title="Mudflat outside of dive shed"/>
+      <hotspot id="Point03" url="{node12}" target="" description="" tilt="2.3" skinid="ht_node" pan="-5.48" title="Havannah house"/>
     </hotspots>
     <media/>
-    <transition zoomout="0" enabled="0" blendcolor="0x000000" type="crossdissolve" zoomfov="20" zoomoutpause="1" zoomin="0" blendtime="1" softedge="0" zoomspeed="2"/>
-    <control hideabout="0" invertcontrol="1" sensitivity="8" contextprojections="0" lockedkeyboardzoom="0" rubberband="0" dblclickfullscreen="0" lockedmouse="0" speedwheel="1" contextfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" lockedkeyboard="0"/>
+    <transition zoomin="0" zoomout="0" enabled="0" type="crossdissolve" blendtime="1" zoomoutpause="1" zoomfov="20" zoomspeed="2" blendcolor="0x000000" softedge="0"/>
+    <control speedwheel="1" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboard="0" simulatemass="1" contextfullscreen="0" hideabout="0" lockedmouse="0" invertwheel="0" rubberband="0" lockedwheel="0"/>
   </panorama>
   <panorama id="node12">
-    <input height="1936" levelingroll="0" levelbiashidpi="0.400" levelingpitch="0" levelbias="0.400" overlap="1" width="1936" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
-      <level preload="0" height="1936" width="1936" predecode="0"/>
-      <level preload="0" height="968" width="968" predecode="0"/>
-      <level preload="1" height="484" width="484" predecode="1"/>
+    <input levelingroll="0" leveltilesize="510" levelbias="0.400" width="1936" overlap="1" height="1936" levelingpitch="0" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400">
+      <level preload="0" predecode="0" width="1936" height="1936"/>
+      <level preload="0" predecode="0" width="968" height="968"/>
+      <level preload="1" predecode="1" width="484" height="484"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start pan="-53.2678" tilt="-4.95433" fov="70" projection="4"/>
-      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
-      <min pan="0" tilt="-90" fov="5"/>
-      <max scaletofit="1" pan="360" fovstereographic="270" tilt="90" fovfisheye="360" fov="120"/>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="-12.1359" fov="70" pan="89.1407"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
     </view>
-    <userdata tags="images|accomodationGroup" title="Havanna" copyright="" description="&lt;b>Outside Diveshed&lt;/b>&lt;/br> Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed      " author="" datetime="6/3/18 12:54 PM" source="" info="" comment="" longitude="" customnodeid="" latitude=""/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label textalpha="1" border="1" enabled="1" height="20" borderalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" background="1" wordwrap="1" bordercolor="0x000000" width="180" borderradius="1" backgroundalpha="1"/>
-      <polystyle borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1"/>
-      <hotspot skinid="ht_node" title="Mudflat outside of Havannah" pan="-96.03" description="" id="Point01" tilt="-0.34" url="{node11}" target=""/>
-      <hotspot skinid="ht_node" title="Havannah room" pan="-5.26" description="" id="Point02" tilt="5.24" url="{node13}" target=""/>
-      <hotspot skinid="ht_node" title="Outside Pelorous" pan="-76.49" description="" id="Point03" tilt="1.42" url="{node14}" target=""/>
+    <userdata info="" description="&lt;b>Outside Diveshed&lt;/b>&lt;/br> Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed      " comment="" longitude="" author="" copyright="" source="" latitude="" customnodeid="" title="Havanna house" datetime="6/3/18 12:54 PM" tags="images|accomodationGroup"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" enabled="1" borderalpha="1" wordwrap="1" width="180" border="1" height="20" backgroundalpha="1" borderradius="1" bordercolor="0x000000" textalpha="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.2509803921568627" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" url="{node11}" target="" description="" tilt="-6.29" skinid="ht_node" pan="-97.47" title="Mudflat outside of Havannah house"/>
+      <hotspot id="Point02" url="{node13}" target="" description="" tilt="-7.26" skinid="ht_node" pan="-7.05" title="Havannah room"/>
+      <hotspot id="Point03" url="{node14}" target="" description="" tilt="-3.67" skinid="ht_node" pan="-80.28" title="Pelorous house"/>
     </hotspots>
     <media/>
-    <transition zoomout="0" enabled="0" blendcolor="0x000000" type="crossdissolve" zoomfov="20" zoomoutpause="1" zoomin="0" blendtime="1" softedge="0" zoomspeed="2"/>
-    <control hideabout="0" invertcontrol="1" sensitivity="8" contextprojections="0" lockedkeyboardzoom="0" rubberband="0" dblclickfullscreen="0" lockedmouse="0" speedwheel="1" contextfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" lockedkeyboard="0"/>
+    <transition zoomin="0" zoomout="0" enabled="0" type="crossdissolve" blendtime="1" zoomoutpause="1" zoomfov="20" zoomspeed="2" blendcolor="0x000000" softedge="0"/>
+    <control speedwheel="1" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboard="0" simulatemass="1" contextfullscreen="0" hideabout="0" lockedmouse="0" invertwheel="0" rubberband="0" lockedwheel="0"/>
   </panorama>
   <panorama id="node13">
-    <input height="1936" levelingroll="0" levelbiashidpi="0.400" levelingpitch="0" levelbias="0.400" overlap="1" width="1936" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
-      <level preload="0" height="1936" width="1936" predecode="0"/>
-      <level preload="0" height="968" width="968" predecode="0"/>
-      <level preload="1" height="484" width="484" predecode="1"/>
+    <input levelingroll="0" leveltilesize="510" levelbias="0.400" width="1936" overlap="1" height="1936" levelingpitch="0" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400">
+      <level preload="0" predecode="0" width="1936" height="1936"/>
+      <level preload="0" predecode="0" width="968" height="968"/>
+      <level preload="1" predecode="1" width="484" height="484"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start pan="57.8321" tilt="-7.33578" fov="70" projection="4"/>
-      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
-      <min pan="0" tilt="-90" fov="5"/>
-      <max scaletofit="1" pan="360" fovstereographic="270" tilt="90" fovfisheye="360" fov="120"/>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="-13.1615" fov="70" pan="-169.945"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
     </view>
-    <userdata tags="images|accomodationGroup" title="Havannah room" copyright="" description="&lt;b>Outside Diveshed&lt;/b>&lt;/br> Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed      " author="" datetime="6/3/18 12:53 PM" source="" info="" comment="" longitude="" customnodeid="" latitude=""/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label textalpha="1" border="1" enabled="1" height="20" borderalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" background="1" wordwrap="1" bordercolor="0x000000" width="180" borderradius="1" backgroundalpha="1"/>
-      <polystyle borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1"/>
-      <hotspot skinid="ht_node" title="Havannah" pan="61.74" description="" id="Point01" tilt="0.2" url="{node12}" target=""/>
+    <userdata info="" description="&lt;b>Outside Diveshed&lt;/b>&lt;/br> Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed      " comment="" longitude="" author="" copyright="" source="" latitude="" customnodeid="" title="Havannah house room" datetime="6/3/18 12:53 PM" tags="images|accomodationGroup"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" enabled="1" borderalpha="1" wordwrap="1" width="180" border="1" height="20" backgroundalpha="1" borderradius="1" bordercolor="0x000000" textalpha="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.2509803921568627" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" url="{node12}" target="" description="" tilt="0.2" skinid="ht_node" pan="61.74" title="Havannah house"/>
     </hotspots>
     <media/>
-    <transition zoomout="0" enabled="0" blendcolor="0x000000" type="crossdissolve" zoomfov="20" zoomoutpause="1" zoomin="0" blendtime="1" softedge="0" zoomspeed="2"/>
-    <control hideabout="0" invertcontrol="1" sensitivity="8" contextprojections="0" lockedkeyboardzoom="0" rubberband="0" dblclickfullscreen="0" lockedmouse="0" speedwheel="1" contextfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" lockedkeyboard="0"/>
+    <transition zoomin="0" zoomout="0" enabled="0" type="crossdissolve" blendtime="1" zoomoutpause="1" zoomfov="20" zoomspeed="2" blendcolor="0x000000" softedge="0"/>
+    <control speedwheel="1" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboard="0" simulatemass="1" contextfullscreen="0" hideabout="0" lockedmouse="0" invertwheel="0" rubberband="0" lockedwheel="0"/>
   </panorama>
   <panorama id="node14">
-    <input height="1936" levelingroll="0" levelbiashidpi="0.400" levelingpitch="0" levelbias="0.400" overlap="1" width="1936" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
-      <level preload="0" height="1936" width="1936" predecode="0"/>
-      <level preload="0" height="968" width="968" predecode="0"/>
-      <level preload="1" height="484" width="484" predecode="1"/>
+    <input levelingroll="0" leveltilesize="510" levelbias="0.400" width="1936" overlap="1" height="1936" levelingpitch="0" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400">
+      <level preload="0" predecode="0" width="1936" height="1936"/>
+      <level preload="0" predecode="0" width="968" height="968"/>
+      <level preload="1" predecode="1" width="484" height="484"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start pan="-51.6615" tilt="1.98451" fov="70" projection="4"/>
-      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
-      <min pan="0" tilt="-90" fov="5"/>
-      <max scaletofit="1" pan="360" fovstereographic="270" tilt="90" fovfisheye="360" fov="120"/>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="-11.2145" fov="70" pan="-178.205"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
     </view>
-    <userdata tags="images|accomodationGroup" title="Pelorous" copyright="" description="&lt;b>Outside Diveshed&lt;/b>&lt;/br> Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed      " author="" datetime="6/3/18 11:07 AM" source="" info="" comment="" longitude="" customnodeid="" latitude=""/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label textalpha="1" border="1" enabled="1" height="20" borderalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" background="1" wordwrap="1" bordercolor="0x000000" width="180" borderradius="1" backgroundalpha="1"/>
-      <polystyle borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1"/>
-      <hotspot skinid="ht_node" title="Havannha" pan="-38.09" description="" id="Point01" tilt="5.83" url="{node12}" target=""/>
-      <hotspot skinid="ht_node" title="Pelourus veranda" pan="177.44" description="" id="Point02" tilt="3.7" url="{node15}" target=""/>
-      <hotspot skinid="ht_node" title="The Point" pan="125.3" description="" id="Point03" tilt="-2.34" url="{node17}" target=""/>
+    <userdata info="" description="&lt;b>Outside Diveshed&lt;/b>&lt;/br> Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed      " comment="" longitude="" author="" copyright="" source="" latitude="" customnodeid="" title="Pelorous house" datetime="6/3/18 11:07 AM" tags="images|accomodationGroup"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" enabled="1" borderalpha="1" wordwrap="1" width="180" border="1" height="20" backgroundalpha="1" borderradius="1" bordercolor="0x000000" textalpha="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.2509803921568627" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" url="{node12}" target="" description="" tilt="5.83" skinid="ht_node" pan="-38.09" title="Havannha house"/>
+      <hotspot id="Point02" url="{node15}" target="" description="" tilt="-11.98" skinid="ht_node" pan="172.25" title="Pelourus veranda"/>
+      <hotspot id="Point03" url="{node17}" target="" description="" tilt="-10.3" skinid="ht_node" pan="126.06" title="The Point"/>
     </hotspots>
     <media/>
-    <transition zoomout="0" enabled="0" blendcolor="0x000000" type="crossdissolve" zoomfov="20" zoomoutpause="1" zoomin="0" blendtime="1" softedge="0" zoomspeed="2"/>
-    <control hideabout="0" invertcontrol="1" sensitivity="8" contextprojections="0" lockedkeyboardzoom="0" rubberband="0" dblclickfullscreen="0" lockedmouse="0" speedwheel="1" contextfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" lockedkeyboard="0"/>
+    <transition zoomin="0" zoomout="0" enabled="0" type="crossdissolve" blendtime="1" zoomoutpause="1" zoomfov="20" zoomspeed="2" blendcolor="0x000000" softedge="0"/>
+    <control speedwheel="1" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboard="0" simulatemass="1" contextfullscreen="0" hideabout="0" lockedmouse="0" invertwheel="0" rubberband="0" lockedwheel="0"/>
   </panorama>
   <panorama id="node15">
-    <input height="1936" levelingroll="0" levelbiashidpi="0.400" levelingpitch="0" levelbias="0.400" overlap="1" width="1936" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
-      <level preload="0" height="1936" width="1936" predecode="0"/>
-      <level preload="0" height="968" width="968" predecode="0"/>
-      <level preload="1" height="484" width="484" predecode="1"/>
+    <input levelingroll="0" leveltilesize="510" levelbias="0.400" width="1936" overlap="1" height="1936" levelingpitch="0" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400">
+      <level preload="0" predecode="0" width="1936" height="1936"/>
+      <level preload="0" predecode="0" width="968" height="968"/>
+      <level preload="1" predecode="1" width="484" height="484"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start pan="-166.061" tilt="-13.6151" fov="70" projection="4"/>
-      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
-      <min pan="0" tilt="-90" fov="5"/>
-      <max scaletofit="1" pan="360" fovstereographic="270" tilt="90" fovfisheye="360" fov="120"/>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="-5.7498" fov="70" pan="-25.1535"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
     </view>
-    <userdata tags="images|accomodationGroup" title="Pelorous veranda" copyright="" description="&lt;b>Outside Diveshed&lt;/b>&lt;/br> Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed      " author="" datetime="6/3/18 11:07 AM" source="" info="" comment="" longitude="" customnodeid="" latitude=""/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label textalpha="1" border="1" enabled="1" height="20" borderalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" background="1" wordwrap="1" bordercolor="0x000000" width="180" borderradius="1" backgroundalpha="1"/>
-      <polystyle borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1"/>
-      <hotspot skinid="ht_node" title="Ourside Pelorous" pan="157.14" description="" id="Point01" tilt="-12.03" url="{node14}" target=""/>
-      <hotspot skinid="ht_node" title="" pan="-152.33" description="" id="Point02" tilt="-7.18" url="{node16}" target=""/>
+    <userdata info="" description="&lt;b>Outside Diveshed&lt;/b>&lt;/br> Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed      " comment="" longitude="" author="" copyright="" source="" latitude="" customnodeid="" title="Pelorous house veranda" datetime="6/3/18 11:07 AM" tags="images|accomodationGroup"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" enabled="1" borderalpha="1" wordwrap="1" width="180" border="1" height="20" backgroundalpha="1" borderradius="1" bordercolor="0x000000" textalpha="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.2509803921568627" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" url="{node14}" target="" description="" tilt="-12.03" skinid="ht_node" pan="157.14" title="Pelorous house"/>
+      <hotspot id="Point02" url="{node16}" target="" description="" tilt="-7.18" skinid="ht_node" pan="-152.33" title=""/>
     </hotspots>
     <media/>
-    <transition zoomout="0" enabled="0" blendcolor="0x000000" type="crossdissolve" zoomfov="20" zoomoutpause="1" zoomin="0" blendtime="1" softedge="0" zoomspeed="2"/>
-    <control hideabout="0" invertcontrol="1" sensitivity="8" contextprojections="0" lockedkeyboardzoom="0" rubberband="0" dblclickfullscreen="0" lockedmouse="0" speedwheel="1" contextfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" lockedkeyboard="0"/>
+    <transition zoomin="0" zoomout="0" enabled="0" type="crossdissolve" blendtime="1" zoomoutpause="1" zoomfov="20" zoomspeed="2" blendcolor="0x000000" softedge="0"/>
+    <control speedwheel="1" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboard="0" simulatemass="1" contextfullscreen="0" hideabout="0" lockedmouse="0" invertwheel="0" rubberband="0" lockedwheel="0"/>
   </panorama>
   <panorama id="node16">
-    <input height="1936" levelingroll="0" levelbiashidpi="0.400" levelingpitch="0" levelbias="0.400" overlap="1" width="1936" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
-      <level preload="0" height="1936" width="1936" predecode="0"/>
-      <level preload="0" height="968" width="968" predecode="0"/>
-      <level preload="1" height="484" width="484" predecode="1"/>
+    <input levelingroll="0" leveltilesize="510" levelbias="0.400" width="1936" overlap="1" height="1936" levelingpitch="0" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400">
+      <level preload="0" predecode="0" width="1936" height="1936"/>
+      <level preload="0" predecode="0" width="968" height="968"/>
+      <level preload="1" predecode="1" width="484" height="484"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start pan="155.984" tilt="-12.5776" fov="70" projection="4"/>
-      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
-      <min pan="0" tilt="-90" fov="5"/>
-      <max scaletofit="1" pan="360" fovstereographic="270" tilt="90" fovfisheye="360" fov="120"/>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="-7.3466" fov="70" pan="-51.4596"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
     </view>
-    <userdata tags="images|accomodationGroup" title="Pelorous kitchen" copyright="" description="&lt;b>Outside Diveshed&lt;/b>&lt;/br> Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed      " author="" datetime="6/3/18 11:08 AM" source="" info="" comment="" longitude="" customnodeid="" latitude=""/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label textalpha="1" border="1" enabled="1" height="20" borderalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" background="1" wordwrap="1" bordercolor="0x000000" width="180" borderradius="1" backgroundalpha="1"/>
-      <polystyle borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1"/>
-      <hotspot skinid="ht_node" title="Pelorous veranda" pan="144.17" description="" id="Point01" tilt="-5.19" url="{node15}" target=""/>
+    <userdata info="" description="&lt;b>Outside Diveshed&lt;/b>&lt;/br> Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed      " comment="" longitude="" author="" copyright="" source="" latitude="" customnodeid="" title="Pelorous house kitchen" datetime="6/3/18 11:08 AM" tags="images|accomodationGroup"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" enabled="1" borderalpha="1" wordwrap="1" width="180" border="1" height="20" backgroundalpha="1" borderradius="1" bordercolor="0x000000" textalpha="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.2509803921568627" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" url="{node15}" target="" description="" tilt="-5.19" skinid="ht_node" pan="144.17" title="Pelorous house veranda"/>
     </hotspots>
     <media/>
-    <transition zoomout="0" enabled="0" blendcolor="0x000000" type="crossdissolve" zoomfov="20" zoomoutpause="1" zoomin="0" blendtime="1" softedge="0" zoomspeed="2"/>
-    <control hideabout="0" invertcontrol="1" sensitivity="8" contextprojections="0" lockedkeyboardzoom="0" rubberband="0" dblclickfullscreen="0" lockedmouse="0" speedwheel="1" contextfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" lockedkeyboard="0"/>
+    <transition zoomin="0" zoomout="0" enabled="0" type="crossdissolve" blendtime="1" zoomoutpause="1" zoomfov="20" zoomspeed="2" blendcolor="0x000000" softedge="0"/>
+    <control speedwheel="1" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboard="0" simulatemass="1" contextfullscreen="0" hideabout="0" lockedmouse="0" invertwheel="0" rubberband="0" lockedwheel="0"/>
   </panorama>
   <panorama id="node17">
-    <input height="1936" levelingroll="0" levelbiashidpi="0.400" levelingpitch="0" levelbias="0.400" overlap="1" width="1936" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510">
-      <level preload="0" height="1936" width="1936" predecode="0"/>
-      <level preload="0" height="968" width="968" predecode="0"/>
-      <level preload="1" height="484" width="484" predecode="1"/>
+    <input levelingroll="0" leveltilesize="510" levelbias="0.400" width="1936" overlap="1" height="1936" levelingpitch="0" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400">
+      <level preload="0" predecode="0" width="1936" height="1936"/>
+      <level preload="0" predecode="0" width="968" height="968"/>
+      <level preload="1" predecode="1" width="484" height="484"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start pan="164.009" tilt="-2.17094" fov="70" projection="4"/>
-      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
-      <min pan="0" tilt="-90" fov="5"/>
-      <max scaletofit="1" pan="360" fovstereographic="270" tilt="90" fovfisheye="360" fov="120"/>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" tilt="-23.154" fov="70" pan="-0.271224"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" pan="360" fovstereographic="270" fovfisheye="360"/>
     </view>
-    <userdata tags="images" title="The Point" copyright="" description="&lt;b>Outside Diveshed&lt;/b>&lt;/br> Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed      " author="" datetime="6/3/18 11:19 AM" source="" info="" comment="" longitude="" customnodeid="" latitude=""/>
-    <hotspots height="20" wordwrap="1" width="180">
-      <label textalpha="1" border="1" enabled="1" height="20" borderalpha="1" backgroundcolor="0xffffff" textcolor="0x000000" background="1" wordwrap="1" bordercolor="0x000000" width="180" borderradius="1" backgroundalpha="1"/>
-      <polystyle borderalpha="1" backgroundcolor="0x0000ff" mode="0" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" handcursor="1"/>
-      <hotspot skinid="ht_node" title="Outside of Pelorous" pan="-148.6" description="" id="Point01" tilt="1.16" url="{node14}" target=""/>
+    <userdata info="" description="&lt;b>Outside Diveshed&lt;/b>&lt;/br> Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed  Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed   Outside Diveshed Outside Diveshed Outside Diveshed      " comment="" longitude="" author="" copyright="" source="" latitude="" customnodeid="" title="The Point" datetime="6/3/18 11:19 AM" tags="images"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" enabled="1" borderalpha="1" wordwrap="1" width="180" border="1" height="20" backgroundalpha="1" borderradius="1" bordercolor="0x000000" textalpha="1" background="1"/>
+      <polystyle backgroundcolor="0x0000ff" mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.2509803921568627" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" url="{node14}" target="" description="" tilt="-4.27" skinid="ht_node" pan="-148.16" title="Pelorous house"/>
     </hotspots>
     <media/>
-    <transition zoomout="0" enabled="0" blendcolor="0x000000" type="crossdissolve" zoomfov="20" zoomoutpause="1" zoomin="0" blendtime="1" softedge="0" zoomspeed="2"/>
-    <control hideabout="0" invertcontrol="1" sensitivity="8" contextprojections="0" lockedkeyboardzoom="0" rubberband="0" dblclickfullscreen="0" lockedmouse="0" speedwheel="1" contextfullscreen="0" simulatemass="1" invertwheel="0" lockedwheel="0" lockedkeyboard="0"/>
+    <transition zoomin="0" zoomout="0" enabled="0" type="crossdissolve" blendtime="1" zoomoutpause="1" zoomfov="20" zoomspeed="2" blendcolor="0x000000" softedge="0"/>
+    <control speedwheel="1" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboard="0" simulatemass="1" contextfullscreen="0" hideabout="0" lockedmouse="0" invertwheel="0" rubberband="0" lockedwheel="0"/>
   </panorama>
 </tour>
