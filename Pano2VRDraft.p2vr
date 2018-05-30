@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig rev="15996" version="5.2.4">
+<pano2vrconfig version="5.2.4" rev="15996">
   <tour>
     <panorama>
       <id>node1</id>
       <input>
         <patch/>
         <type>auto</type>
-        <filename>/Users/jc151664/Google Drive/Classroom on the Reef/Virtual Tour/images/Outside diveshed2.jpg</filename>
+        <filename>/Users/jc151664/Google Drive/Classroom on the Reef/Virtual Tour/images-panoramas/Outside diveshed2.jpg</filename>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
       </input>
@@ -205,7 +205,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>/Users/jc151664/Google Drive/Classroom on the Reef/Virtual Tour/images/raceways with wetlab and diveshed in background.jpg</filename>
+        <filename>/Users/jc151664/Google Drive/Classroom on the Reef/Virtual Tour/images-panoramas/raceways with wetlab and diveshed in background.jpg</filename>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
       </input>
@@ -317,7 +317,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>/Users/jc151664/Google Drive/Classroom on the Reef/Virtual Tour/images/wetlab.jpg</filename>
+        <filename>/Users/jc151664/Google Drive/Classroom on the Reef/Virtual Tour/images-panoramas/wetlab.jpg</filename>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
       </input>
@@ -428,7 +428,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>/Users/jc151664/Google Drive/Classroom on the Reef/Virtual Tour/images/Drylab.jpg</filename>
+        <filename>/Users/jc151664/Google Drive/Classroom on the Reef/Virtual Tour/images-panoramas/Drylab.jpg</filename>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
       </input>
@@ -520,7 +520,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>/Users/jc151664/Google Drive/Classroom on the Reef/Virtual Tour/images/Microscope room.jpg</filename>
+        <filename>/Users/jc151664/Google Drive/Classroom on the Reef/Virtual Tour/images-panoramas/Microscope room.jpg</filename>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
       </input>
@@ -593,7 +593,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>/Users/jc151664/Google Drive/Classroom on the Reef/Virtual Tour/images/Lecture theatre.jpg</filename>
+        <filename>/Users/jc151664/Google Drive/Classroom on the Reef/Virtual Tour/images-panoramas/Lecture theatre.jpg</filename>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
       </input>
@@ -666,7 +666,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>/Users/jc151664/Google Drive/Classroom on the Reef/Virtual Tour/images/Dive shed.jpg</filename>
+        <filename>/Users/jc151664/Google Drive/Classroom on the Reef/Virtual Tour/images-panoramas/Dive shed.jpg</filename>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
       </input>
@@ -920,7 +920,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>/Users/jc151664/Google Drive/Classroom on the Reef/Virtual Tour/images/mudflat outside dive shed (office visible to left, dive shed on right).jpg</filename>
+        <filename>/Users/jc151664/Google Drive/Classroom on the Reef/Virtual Tour/images-panoramas/mudflat outside dive shed (office visible to left, dive shed on right).jpg</filename>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
       </input>
@@ -1012,7 +1012,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>/Users/jc151664/Google Drive/Classroom on the Reef/Virtual Tour/images/Mudflat outside Havannah (havannah in background).jpg</filename>
+        <filename>/Users/jc151664/Google Drive/Classroom on the Reef/Virtual Tour/images-panoramas/Mudflat outside Havannah (havannah in background).jpg</filename>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
       </input>
@@ -1104,7 +1104,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>/Users/jc151664/Google Drive/Classroom on the Reef/Virtual Tour/images/Havanna.jpg</filename>
+        <filename>/Users/jc151664/Google Drive/Classroom on the Reef/Virtual Tour/images-panoramas/Havanna.jpg</filename>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
       </input>
@@ -1215,7 +1215,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>/Users/jc151664/Google Drive/Classroom on the Reef/Virtual Tour/images/Havannah room.jpg</filename>
+        <filename>/Users/jc151664/Google Drive/Classroom on the Reef/Virtual Tour/images-panoramas/Havannah room.jpg</filename>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
       </input>
@@ -1288,7 +1288,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>/Users/jc151664/Google Drive/Classroom on the Reef/Virtual Tour/images/Pelorous - outside.jpg</filename>
+        <filename>/Users/jc151664/Google Drive/Classroom on the Reef/Virtual Tour/images-panoramas/Pelorous - outside.jpg</filename>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
       </input>
@@ -1399,7 +1399,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>/Users/jc151664/Google Drive/Classroom on the Reef/Virtual Tour/images/Pelorous veranda.jpg</filename>
+        <filename>/Users/jc151664/Google Drive/Classroom on the Reef/Virtual Tour/images-panoramas/Pelorous veranda.jpg</filename>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
       </input>
@@ -1490,7 +1490,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>/Users/jc151664/Google Drive/Classroom on the Reef/Virtual Tour/images/Pelorous kitchen.jpg</filename>
+        <filename>/Users/jc151664/Google Drive/Classroom on the Reef/Virtual Tour/images-panoramas/Pelorous kitchen.jpg</filename>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
       </input>
