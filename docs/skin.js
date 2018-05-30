@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 5.2.4/15996
 // Filename: silhouetteDraftSkin_hide_template_v3.ggsk
-// Generated Mon May 28 14:40:41 2018
+// Generated Wed May 30 12:17:56 2018
 
 function pano2vrSkin(player,base) {
 	var ggSkinVars = [];
@@ -3696,16 +3696,16 @@ function pano2vrSkin(player,base) {
 		this._panoaccomodationmap.appendChild(this._researchstationmap);
 		this._marker_nodes=document.createElement('div');
 		this._marker_nodes.ggId="marker_nodes";
-		this._marker_nodes.ggLeft=-453;
+		this._marker_nodes.ggLeft=-410;
 		this._marker_nodes.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
 		this._marker_nodes.ggVisible=true;
 		this._marker_nodes.className='ggskin ggskin_container ';
 		this._marker_nodes.ggType='container';
 		hs ='';
 		hs+='height : 130px;';
-		hs+='left : -453px;';
+		hs+='left : -410px;';
 		hs+='position : absolute;';
-		hs+='top : 225px;';
+		hs+='top : 242px;';
 		hs+='visibility : inherit;';
 		hs+='width : 448px;';
 		hs+='pointer-events:none;';
@@ -7024,62 +7024,6 @@ function pano2vrSkin(player,base) {
 	this.addSkinHotspot=function(hotspot) {
 		return new SkinHotspotClass(me,hotspot);
 	}
-	function SkinElement_marker_normal_Class(skinObj,ggParent) {
-		var me=this;
-		var flag=false;
-		this.player=skinObj.player;
-		this.skin=skinObj;
-		this.ggParent=ggParent;
-		var nodeId=ggParent.ggElementNodeId();
-		this.ggNodeId=nodeId;
-		this.ggUserdata=this.skin.player.getNodeUserdata(nodeId);
-		this.elementMouseDown=[];
-		this.elementMouseOver=[];
-		
-		this.findElements=function(id,regex) {
-			return me.skin.findElements(id,regex);
-		}
-		
-		this._marker_normal=document.createElement('div');
-		this._marker_normal__img=document.createElement('img');
-		this._marker_normal__img.className='ggskin ggskin_svg';
-		this._marker_normal__img.setAttribute('src',basePath + 'images/marker_normal.svg');
-		this._marker_normal__img.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;');
-		this._marker_normal__img['ondragstart']=function() { return false; };
-		this._marker_normal.appendChild(this._marker_normal__img);
-		this._marker_normal.ggId="marker_normal";
-		this._marker_normal.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
-		this._marker_normal.ggVisible=true;
-		this._marker_normal.className='ggskin ggskin_svg ';
-		this._marker_normal.ggType='svg';
-		hs ='';
-		hs+='height : 32px;';
-		hs+='left : 140px;';
-		hs+='position : absolute;';
-		hs+='top : 0px;';
-		hs+='visibility : inherit;';
-		hs+='width : 31px;';
-		hs+='pointer-events:auto;';
-		this._marker_normal.setAttribute('style',hs);
-		this._marker_normal.style[domTransform + 'Origin']='50% 50%';
-		me._marker_normal.ggIsActive=function() {
-			if ((this.parentNode) && (this.parentNode.ggIsActive)) {
-				return this.parentNode.ggIsActive();
-			}
-			return false;
-		}
-		me._marker_normal.ggElementNodeId=function() {
-			if ((this.parentNode) && (this.parentNode.ggElementNodeId)) {
-				return this.parentNode.ggElementNodeId();
-			}
-			return me.ggNodeId;
-		}
-		this._marker_normal.ggUpdatePosition=function (useTransition) {
-		}
-		this._marker_normal.ggNodeChangeMain=function() {
-		}
-		return this._marker_normal;
-	};
 	function SkinElement_marker_active_Class(skinObj,ggParent) {
 		var me=this;
 		var flag=false;
@@ -7135,6 +7079,62 @@ function pano2vrSkin(player,base) {
 		this._marker_active.ggNodeChangeMain=function() {
 		}
 		return this._marker_active;
+	};
+	function SkinElement_marker_normal_Class(skinObj,ggParent) {
+		var me=this;
+		var flag=false;
+		this.player=skinObj.player;
+		this.skin=skinObj;
+		this.ggParent=ggParent;
+		var nodeId=ggParent.ggElementNodeId();
+		this.ggNodeId=nodeId;
+		this.ggUserdata=this.skin.player.getNodeUserdata(nodeId);
+		this.elementMouseDown=[];
+		this.elementMouseOver=[];
+		
+		this.findElements=function(id,regex) {
+			return me.skin.findElements(id,regex);
+		}
+		
+		this._marker_normal=document.createElement('div');
+		this._marker_normal__img=document.createElement('img');
+		this._marker_normal__img.className='ggskin ggskin_svg';
+		this._marker_normal__img.setAttribute('src',basePath + 'images/marker_normal.svg');
+		this._marker_normal__img.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;');
+		this._marker_normal__img['ondragstart']=function() { return false; };
+		this._marker_normal.appendChild(this._marker_normal__img);
+		this._marker_normal.ggId="marker_normal";
+		this._marker_normal.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
+		this._marker_normal.ggVisible=true;
+		this._marker_normal.className='ggskin ggskin_svg ';
+		this._marker_normal.ggType='svg';
+		hs ='';
+		hs+='height : 32px;';
+		hs+='left : 140px;';
+		hs+='position : absolute;';
+		hs+='top : 0px;';
+		hs+='visibility : inherit;';
+		hs+='width : 31px;';
+		hs+='pointer-events:auto;';
+		this._marker_normal.setAttribute('style',hs);
+		this._marker_normal.style[domTransform + 'Origin']='50% 50%';
+		me._marker_normal.ggIsActive=function() {
+			if ((this.parentNode) && (this.parentNode.ggIsActive)) {
+				return this.parentNode.ggIsActive();
+			}
+			return false;
+		}
+		me._marker_normal.ggElementNodeId=function() {
+			if ((this.parentNode) && (this.parentNode.ggElementNodeId)) {
+				return this.parentNode.ggElementNodeId();
+			}
+			return me.ggNodeId;
+		}
+		this._marker_normal.ggUpdatePosition=function (useTransition) {
+		}
+		this._marker_normal.ggNodeChangeMain=function() {
+		}
+		return this._marker_normal;
 	};
 	this.addSkin();
 };
