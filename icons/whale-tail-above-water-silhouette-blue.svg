@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="57.930702mm"
+   height="40.952129mm"
+   viewBox="0 0 57.930702 40.952129"
+   version="1.1"
+   id="svg4551"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="whale-tail-above-water-silhouette-blue.svg">
+  <defs
+     id="defs4545" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.1040285"
+     inkscape:cx="74.307041"
+     inkscape:cy="77.389854"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4548">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-85.027051,-115.91348)">
+    <path
+       style="fill:#1972b0;stroke-width:0.26458332;fill-opacity:1"
+       inkscape:connector-curvature="0"
+       id="path36"
+       d="m 115.2608,155.919 c -1.08796,-4.64609 -0.20108,-12.26397 -3.098,-16.31977 -2.28415,-3.19802 -11.46228,-4.94347 -15.081253,-7.01146 -4.531519,-2.58947 -11.423121,-4.95749 -12.038542,-11.1125 -0.10107,-1.01097 0.260615,-5.74595 1.5875,-5.55625 1.909498,0.27279 2.50534,4.57121 5.027084,5.29167 2.607204,0.7448 5.381095,-0.31591 8.069791,0.13229 3.46789,0.57785 7.69594,1.86346 10.84792,3.43959 0.82894,0.41433 2.25822,1.20464 2.77812,1.98437 0.15214,0.22834 1.48273,2.01057 1.5875,1.98438 0.57679,-0.14447 3.65945,-3.32291 4.0648,-3.72825 1.7481,-1.7481 3.43958,-2.11667 6.48229,-3.04271 3.55282,-1.08135 8.81988,0.34184 10.09041,-0.76967 0.51435,-0.45032 3.09033,-4.45029 3.70417,-3.83646 1.04325,1.04325 0.96361,4.78182 0.52916,6.08542 -1.63221,4.89638 -4.60242,10.04014 -9.3927,12.43542 -2.72548,1.3626 -7.88485,2.02432 -9.525,4.89479 -1.46976,2.57201 3.24776,9.44562 4.89479,11.64166 l -5.19562,-0.6051 z" />
+    <path
+       style="fill-opacity:0;stroke:#1972b0;stroke-width:1.05833328;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       id="path38"
+       d="m 142.42134,155.97959 c -6.71195,1.92352 -14.61796,-4.66699 -20.90208,-3.96875 -3.06044,0.33999 -5.06598,3.58272 -7.82532,3.97695 -4.36748,0.62389 -8.7929,-1.86029 -13.20906,-1.86029" />
+  </g>
+</svg>
