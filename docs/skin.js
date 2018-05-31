@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 5.2.4/15996
 // Filename: silhouetteDraftSkin_hide_template_v3.ggsk
-// Generated Thu May 31 13:05:44 2018
+// Generated Thu May 31 13:21:00 2018
 
 function pano2vrSkin(player,base) {
 	var ggSkinVars = [];
@@ -3409,6 +3409,7 @@ function pano2vrSkin(player,base) {
 		hs+='white-space: pre-wrap;';
 		hs+='padding: 0px 1px 0px 1px;';
 		hs+='overflow: hidden;';
+		hs+='overflow-y: auto;';
 		this._desc_text__text.setAttribute('style',hs);
 		this._desc_text.ggUpdateText=function() {
 			var hs=me.ggUserdata.description;
