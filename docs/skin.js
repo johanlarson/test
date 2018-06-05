@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 5.2.4/15996
-// Filename: silhouetteDraftSkin_hide_template_v3.ggsk
-// Generated Fri Jun 1 13:29:22 2018
+// Filename: silhouetteCROTRFinalDraftSkin.ggsk
+// Generated Tue Jun 5 17:09:00 2018
 
 function pano2vrSkin(player,base) {
 	var ggSkinVars = [];
@@ -491,231 +491,6 @@ function pano2vrSkin(player,base) {
 		this._movemode_2.ggUpdatePosition=function (useTransition) {
 		}
 		this._controller.appendChild(this._movemode_2);
-		this._info=document.createElement('div');
-		this._info__img=document.createElement('img');
-		this._info__img.className='ggskin ggskin_svg';
-		this._info__img.setAttribute('src',basePath + 'images/info.svg');
-		this._info__img.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;');
-		this._info__img['ondragstart']=function() { return false; };
-		this._info.appendChild(this._info__img);
-		this._info__imgo=document.createElement('img');
-		this._info__imgo.className='ggskin ggskin_svg';
-		this._info__imgo.setAttribute('src',basePath + 'images/info__o.svg');
-		this._info__imgo.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;visibility:hidden;pointer-events:none;');
-		this._info__imgo['ondragstart']=function() { return false; };
-		this._info.appendChild(this._info__imgo);
-		this._info.ggId="info";
-		this._info.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
-		this._info.ggVisible=true;
-		this._info.className='ggskin ggskin_svg ';
-		this._info.ggType='svg';
-		hs ='';
-		hs+='cursor : pointer;';
-		hs+='height : 32px;';
-		hs+='left : 96px;';
-		hs+='position : absolute;';
-		hs+='top : 0px;';
-		hs+='visibility : inherit;';
-		hs+='width : 32px;';
-		hs+='pointer-events:auto;';
-		this._info.setAttribute('style',hs);
-		this._info.style[domTransform + 'Origin']='50% 50%';
-		me._info.ggIsActive=function() {
-			if ((this.parentNode) && (this.parentNode.ggIsActive)) {
-				return this.parentNode.ggIsActive();
-			}
-			return false;
-		}
-		me._info.ggElementNodeId=function() {
-			if ((this.parentNode) && (this.parentNode.ggElementNodeId)) {
-				return this.parentNode.ggElementNodeId();
-			}
-			return me.player.getCurrentNode();
-		}
-		this._info.onclick=function (e) {
-			me._userdata.ggVisible = !me._userdata.ggVisible;
-			var flag=me._userdata.ggVisible;
-			me._userdata.style[domTransition]='none';
-			me._userdata.style.visibility=((flag)&&(Number(me._userdata.style.opacity)>0||!me._userdata.style.opacity))?'inherit':'hidden';
-			me._screentint.ggVisible = !me._screentint.ggVisible;
-			var flag=me._screentint.ggVisible;
-			me._screentint.style[domTransition]='none';
-			me._screentint.style.visibility=((flag)&&(Number(me._screentint.style.opacity)>0||!me._screentint.style.opacity))?'inherit':'hidden';
-			me._controller.style[domTransition]='none';
-			me._controller.style.visibility='hidden';
-			me._controller.ggVisible=false;
-		}
-		this._info.onmouseover=function (e) {
-			me._info__img.style.visibility='hidden';
-			me._info__imgo.style.visibility='inherit';
-		}
-		this._info.onmouseout=function (e) {
-			me._info__img.style.visibility='inherit';
-			me._info__imgo.style.visibility='hidden';
-		}
-		this._info.ggUpdatePosition=function (useTransition) {
-		}
-		this._controller.appendChild(this._info);
-		this._autorotate=document.createElement('div');
-		this._autorotate__img=document.createElement('img');
-		this._autorotate__img.className='ggskin ggskin_svg';
-		this._autorotate__img.setAttribute('src',basePath + 'images/autorotate.svg');
-		this._autorotate__img.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;');
-		this._autorotate__img['ondragstart']=function() { return false; };
-		this._autorotate.appendChild(this._autorotate__img);
-		this._autorotate__imgo=document.createElement('img');
-		this._autorotate__imgo.className='ggskin ggskin_svg';
-		this._autorotate__imgo.setAttribute('src',basePath + 'images/autorotate__o.svg');
-		this._autorotate__imgo.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;visibility:hidden;pointer-events:none;');
-		this._autorotate__imgo['ondragstart']=function() { return false; };
-		this._autorotate.appendChild(this._autorotate__imgo);
-		this._autorotate.ggId="autorotate";
-		this._autorotate.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
-		this._autorotate.ggVisible=true;
-		this._autorotate.className='ggskin ggskin_svg ';
-		this._autorotate.ggType='svg';
-		hs ='';
-		hs+='cursor : pointer;';
-		hs+='height : 32px;';
-		hs+='left : 64px;';
-		hs+='position : absolute;';
-		hs+='top : 0px;';
-		hs+='visibility : inherit;';
-		hs+='width : 32px;';
-		hs+='pointer-events:auto;';
-		this._autorotate.setAttribute('style',hs);
-		this._autorotate.style[domTransform + 'Origin']='50% 50%';
-		me._autorotate.ggIsActive=function() {
-			if ((this.parentNode) && (this.parentNode.ggIsActive)) {
-				return this.parentNode.ggIsActive();
-			}
-			return false;
-		}
-		me._autorotate.ggElementNodeId=function() {
-			if ((this.parentNode) && (this.parentNode.ggElementNodeId)) {
-				return this.parentNode.ggElementNodeId();
-			}
-			return me.player.getCurrentNode();
-		}
-		this._autorotate.onclick=function (e) {
-			me.player.startAutorotate("0.2","5","1");
-		}
-		this._autorotate.onmouseover=function (e) {
-			me._autorotate__img.style.visibility='hidden';
-			me._autorotate__imgo.style.visibility='inherit';
-		}
-		this._autorotate.onmouseout=function (e) {
-			me._autorotate__img.style.visibility='inherit';
-			me._autorotate__imgo.style.visibility='hidden';
-		}
-		me._autorotate.ggCurrentLogicStateVisible = -1;
-		this._autorotate.ggUpdateConditionTimer=function () {
-			var newLogicStateVisible;
-			if (
-				(me.player.getIsAutorotating() == true)
-			)
-			{
-				newLogicStateVisible = 0;
-			}
-			else {
-				newLogicStateVisible = -1;
-			}
-			if (me._autorotate.ggCurrentLogicStateVisible != newLogicStateVisible) {
-				me._autorotate.ggCurrentLogicStateVisible = newLogicStateVisible;
-				me._autorotate.style[domTransition]='';
-				if (me._autorotate.ggCurrentLogicStateVisible == 0) {
-					me._autorotate.style.visibility="hidden";
-					me._autorotate.ggVisible=false;
-				}
-				else {
-					me._autorotate.style.visibility=(Number(me._autorotate.style.opacity)>0||!me._autorotate.style.opacity)?'inherit':'hidden';
-					me._autorotate.ggVisible=true;
-				}
-			}
-		}
-		this._autorotate.ggUpdatePosition=function (useTransition) {
-		}
-		this._controller.appendChild(this._autorotate);
-		this._autorotate_off=document.createElement('div');
-		this._autorotate_off__img=document.createElement('img');
-		this._autorotate_off__img.className='ggskin ggskin_svg';
-		this._autorotate_off__img.setAttribute('src',basePath + 'images/autorotate_off.svg');
-		this._autorotate_off__img.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;');
-		this._autorotate_off__img['ondragstart']=function() { return false; };
-		this._autorotate_off.appendChild(this._autorotate_off__img);
-		this._autorotate_off__imgo=document.createElement('img');
-		this._autorotate_off__imgo.className='ggskin ggskin_svg';
-		this._autorotate_off__imgo.setAttribute('src',basePath + 'images/autorotate_off__o.svg');
-		this._autorotate_off__imgo.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;visibility:hidden;pointer-events:none;');
-		this._autorotate_off__imgo['ondragstart']=function() { return false; };
-		this._autorotate_off.appendChild(this._autorotate_off__imgo);
-		this._autorotate_off.ggId="autorotate_off";
-		this._autorotate_off.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
-		this._autorotate_off.ggVisible=false;
-		this._autorotate_off.className='ggskin ggskin_svg ';
-		this._autorotate_off.ggType='svg';
-		hs ='';
-		hs+='cursor : pointer;';
-		hs+='height : 32px;';
-		hs+='left : 64px;';
-		hs+='position : absolute;';
-		hs+='top : 0px;';
-		hs+='visibility : hidden;';
-		hs+='width : 32px;';
-		hs+='pointer-events:auto;';
-		this._autorotate_off.setAttribute('style',hs);
-		this._autorotate_off.style[domTransform + 'Origin']='50% 50%';
-		me._autorotate_off.ggIsActive=function() {
-			if ((this.parentNode) && (this.parentNode.ggIsActive)) {
-				return this.parentNode.ggIsActive();
-			}
-			return false;
-		}
-		me._autorotate_off.ggElementNodeId=function() {
-			if ((this.parentNode) && (this.parentNode.ggElementNodeId)) {
-				return this.parentNode.ggElementNodeId();
-			}
-			return me.player.getCurrentNode();
-		}
-		this._autorotate_off.onclick=function (e) {
-			me.player.stopAutorotate();
-		}
-		this._autorotate_off.onmouseover=function (e) {
-			me._autorotate_off__img.style.visibility='hidden';
-			me._autorotate_off__imgo.style.visibility='inherit';
-		}
-		this._autorotate_off.onmouseout=function (e) {
-			me._autorotate_off__img.style.visibility='inherit';
-			me._autorotate_off__imgo.style.visibility='hidden';
-		}
-		me._autorotate_off.ggCurrentLogicStateVisible = -1;
-		this._autorotate_off.ggUpdateConditionTimer=function () {
-			var newLogicStateVisible;
-			if (
-				(me.player.getIsAutorotating() == true)
-			)
-			{
-				newLogicStateVisible = 0;
-			}
-			else {
-				newLogicStateVisible = -1;
-			}
-			if (me._autorotate_off.ggCurrentLogicStateVisible != newLogicStateVisible) {
-				me._autorotate_off.ggCurrentLogicStateVisible = newLogicStateVisible;
-				me._autorotate_off.style[domTransition]='';
-				if (me._autorotate_off.ggCurrentLogicStateVisible == 0) {
-					me._autorotate_off.style.visibility=(Number(me._autorotate_off.style.opacity)>0||!me._autorotate_off.style.opacity)?'inherit':'hidden';
-					me._autorotate_off.ggVisible=true;
-				}
-				else {
-					me._autorotate_off.style.visibility="hidden";
-					me._autorotate_off.ggVisible=false;
-				}
-			}
-		}
-		this._autorotate_off.ggUpdatePosition=function (useTransition) {
-		}
-		this._controller.appendChild(this._autorotate_off);
 		this._zoomout=document.createElement('div');
 		this._zoomout__img=document.createElement('img');
 		this._zoomout__img.className='ggskin ggskin_svg';
@@ -3257,12 +3032,12 @@ function pano2vrSkin(player,base) {
 		this._title_text.className='ggskin ggskin_text ';
 		this._title_text.ggType='text';
 		hs ='';
-		hs+='height : 19px;';
+		hs+='height : 20px;';
 		hs+='left : -36px;';
 		hs+='position : absolute;';
 		hs+='top : 0px;';
 		hs+='visibility : inherit;';
-		hs+='width : 69px;';
+		hs+='width : 70px;';
 		hs+='pointer-events:auto;';
 		this._title_text.setAttribute('style',hs);
 		this._title_text.style[domTransform + 'Origin']='50% 50%';
@@ -3273,7 +3048,7 @@ function pano2vrSkin(player,base) {
 		hs+='width: auto;';
 		hs+='height: auto;';
 		hs+='background: #ffffff;';
-		hs+='border: 1px solid #000000;';
+		hs+='border: 0px solid #000000;';
 		hs+='color: #000000;';
 		hs+='text-align: center;';
 		hs+='white-space: nowrap;';
@@ -3314,7 +3089,7 @@ function pano2vrSkin(player,base) {
 					this.style.left=(this.ggLeft - 0 + w/2) + 'px';
 			}
 			this.style[domTransition]='none';
-			this.ggTextDiv.style.left=((71-this.ggTextDiv.offsetWidth)/2) + 'px';
+			this.ggTextDiv.style.left=((70-this.ggTextDiv.offsetWidth)/2) + 'px';
 		}
 		this._panotitle.appendChild(this._title_text);
 		this.divSkin.appendChild(this._panotitle);
@@ -3357,7 +3132,7 @@ function pano2vrSkin(player,base) {
 		hs+='height : 70%;';
 		hs+='left : 10px;';
 		hs+='position : absolute;';
-		hs+='top : 40px;';
+		hs+='top : 10px;';
 		hs+='visibility : hidden;';
 		hs+='width : 250px;';
 		hs+='pointer-events:auto;';
@@ -3387,10 +3162,10 @@ function pano2vrSkin(player,base) {
 		this._desc_text.className='ggskin ggskin_text ';
 		this._desc_text.ggType='text';
 		hs ='';
-		hs+='height : 100%;';
+		hs+='height : 90%;';
 		hs+='left : 0px;';
 		hs+='position : absolute;';
-		hs+='top : 0px;';
+		hs+='top : 8%;';
 		hs+='visibility : hidden;';
 		hs+='width : 90%;';
 		hs+='pointer-events:auto;';
@@ -3406,7 +3181,7 @@ function pano2vrSkin(player,base) {
 		hs+='color: #000000;';
 		hs+='text-align: left;';
 		hs+='white-space: pre-wrap;';
-		hs+='padding: 0px 11px 0px 11px;';
+		hs+='padding: 10px 11px 10px 11px;';
 		hs+='overflow: hidden;';
 		hs+='overflow-y: auto;';
 		this._desc_text__text.setAttribute('style',hs);
@@ -3450,9 +3225,9 @@ function pano2vrSkin(player,base) {
 		this._close_desc.ggType='svg';
 		hs ='';
 		hs+='height : 40px;';
-		hs+='left : 0.01%;';
+		hs+='left : 10px;';
 		hs+='position : absolute;';
-		hs+='top : -2px;';
+		hs+='top : 10px;';
 		hs+='visibility : inherit;';
 		hs+='width : 40px;';
 		hs+='pointer-events:auto;';
@@ -3624,16 +3399,16 @@ function pano2vrSkin(player,base) {
 		this.divSkin.appendChild(this._hide_template);
 		this._panoaccomodationmap=document.createElement('div');
 		this._panoaccomodationmap.ggId="panoAccomodationMap";
-		this._panoaccomodationmap.ggLeft=-402;
+		this._panoaccomodationmap.ggLeft=-405;
 		this._panoaccomodationmap.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
 		this._panoaccomodationmap.ggVisible=true;
 		this._panoaccomodationmap.className='ggskin ggskin_container ';
 		this._panoaccomodationmap.ggType='container';
 		hs ='';
 		hs+='height : 461px;';
-		hs+='left : -402px;';
+		hs+='left : -405px;';
 		hs+='position : absolute;';
-		hs+='top : 2px;';
+		hs+='top : -32px;';
 		hs+='visibility : inherit;';
 		hs+='width : 400px;';
 		hs+='pointer-events:none;';
@@ -3665,16 +3440,17 @@ function pano2vrSkin(player,base) {
 		this._researchstationmap__img['ondragstart']=function() { return false; };
 		this._researchstationmap.appendChild(this._researchstationmap__img);
 		this._researchstationmap.ggId="researchStationMap";
+		this._researchstationmap.ggLeft=-402;
 		this._researchstationmap.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
 		this._researchstationmap.ggVisible=false;
 		this._researchstationmap.className='ggskin ggskin_svg ';
 		this._researchstationmap.ggType='svg';
 		hs ='';
 		hs+='height : 461px;';
-		hs+='left : -3px;';
+		hs+='left : -402px;';
 		hs+='opacity : 0.9;';
 		hs+='position : absolute;';
-		hs+='top : -3px;';
+		hs+='top : -27px;';
 		hs+='visibility : hidden;';
 		hs+='width : 400px;';
 		hs+='pointer-events:auto;';
@@ -3693,20 +3469,30 @@ function pano2vrSkin(player,base) {
 			return me.player.getCurrentNode();
 		}
 		this._researchstationmap.ggUpdatePosition=function (useTransition) {
+			if (useTransition==='undefined') {
+				useTransition = false;
+			}
+			if (!useTransition) {
+				this.style[domTransition]='none';
+			}
+			if (this.parentNode) {
+				var w=this.parentNode.offsetWidth;
+					this.style.left=(this.ggLeft - 0 + w) + 'px';
+			}
 		}
 		this._panoaccomodationmap.appendChild(this._researchstationmap);
 		this._marker_nodes=document.createElement('div');
 		this._marker_nodes.ggId="marker_nodes";
-		this._marker_nodes.ggLeft=-410;
+		this._marker_nodes.ggLeft=-407;
 		this._marker_nodes.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
 		this._marker_nodes.ggVisible=false;
 		this._marker_nodes.className='ggskin ggskin_container ';
 		this._marker_nodes.ggType='container';
 		hs ='';
 		hs+='height : 130px;';
-		hs+='left : -410px;';
+		hs+='left : -407px;';
 		hs+='position : absolute;';
-		hs+='top : 242px;';
+		hs+='top : 217px;';
 		hs+='visibility : hidden;';
 		hs+='width : 448px;';
 		hs+='pointer-events:none;';
@@ -4730,16 +4516,16 @@ function pano2vrSkin(player,base) {
 		this._svg_2__img['ondragstart']=function() { return false; };
 		this._svg_2.appendChild(this._svg_2__img);
 		this._svg_2.ggId="Svg 2";
-		this._svg_2.ggLeft=-44;
+		this._svg_2.ggLeft=-48;
 		this._svg_2.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
 		this._svg_2.ggVisible=true;
 		this._svg_2.className='ggskin ggskin_svg ';
 		this._svg_2.ggType='svg';
 		hs ='';
 		hs+='height : 40px;';
-		hs+='left : -44px;';
+		hs+='left : -48px;';
 		hs+='position : absolute;';
-		hs+='top : 32px;';
+		hs+='top : 45px;';
 		hs+='visibility : inherit;';
 		hs+='width : 40px;';
 		hs+='pointer-events:auto;';
@@ -5132,8 +4918,6 @@ function pano2vrSkin(player,base) {
 		me.ggCurrentTime=new Date().getTime();
 		me._movemode_1.ggUpdateConditionTimer();
 		me._movemode_2.ggUpdateConditionTimer();
-		me._autorotate.ggUpdateConditionTimer();
-		me._autorotate_off.ggUpdateConditionTimer();
 		if (me.elementMouseDown['zoomout']) {
 			me.player.changeFovLog(1,true);
 		}
@@ -5225,12 +5009,12 @@ function pano2vrSkin(player,base) {
 			this._ht_node_title_text.className='ggskin ggskin_text ';
 			this._ht_node_title_text.ggType='text';
 			hs ='';
-			hs+='height : 14px;';
+			hs+='height : 15px;';
 			hs+='left : -45px;';
 			hs+='position : absolute;';
 			hs+='top : 34px;';
 			hs+='visibility : inherit;';
-			hs+='width : 77px;';
+			hs+='width : 78px;';
 			hs+='pointer-events:auto;';
 			this._ht_node_title_text.setAttribute('style',hs);
 			this._ht_node_title_text.style[domTransform + 'Origin']='50% 50%';
@@ -5241,7 +5025,7 @@ function pano2vrSkin(player,base) {
 			hs+='width: auto;';
 			hs+='height: auto;';
 			hs+='background: #ffffff;';
-			hs+='border: 1px solid #000000;';
+			hs+='border: 0px solid #000000;';
 			hs+='color: #000000;';
 			hs+='text-align: center;';
 			hs+='white-space: nowrap;';
@@ -5272,7 +5056,7 @@ function pano2vrSkin(player,base) {
 			}
 			this._ht_node_title_text.ggUpdatePosition=function (useTransition) {
 				this.style[domTransition]='none';
-				this.ggTextDiv.style.left=((79-this.ggTextDiv.offsetWidth)/2) + 'px';
+				this.ggTextDiv.style.left=((78-this.ggTextDiv.offsetWidth)/2) + 'px';
 			}
 			this.__div.appendChild(this._ht_node_title_text);
 			this._ht_node_image=document.createElement('div');
@@ -6967,62 +6751,6 @@ function pano2vrSkin(player,base) {
 	this.addSkinHotspot=function(hotspot) {
 		return new SkinHotspotClass(me,hotspot);
 	}
-	function SkinElement_marker_normal_Class(skinObj,ggParent) {
-		var me=this;
-		var flag=false;
-		this.player=skinObj.player;
-		this.skin=skinObj;
-		this.ggParent=ggParent;
-		var nodeId=ggParent.ggElementNodeId();
-		this.ggNodeId=nodeId;
-		this.ggUserdata=this.skin.player.getNodeUserdata(nodeId);
-		this.elementMouseDown=[];
-		this.elementMouseOver=[];
-		
-		this.findElements=function(id,regex) {
-			return me.skin.findElements(id,regex);
-		}
-		
-		this._marker_normal=document.createElement('div');
-		this._marker_normal__img=document.createElement('img');
-		this._marker_normal__img.className='ggskin ggskin_svg';
-		this._marker_normal__img.setAttribute('src',basePath + 'images/marker_normal.svg');
-		this._marker_normal__img.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;');
-		this._marker_normal__img['ondragstart']=function() { return false; };
-		this._marker_normal.appendChild(this._marker_normal__img);
-		this._marker_normal.ggId="marker_normal";
-		this._marker_normal.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
-		this._marker_normal.ggVisible=true;
-		this._marker_normal.className='ggskin ggskin_svg ';
-		this._marker_normal.ggType='svg';
-		hs ='';
-		hs+='height : 32px;';
-		hs+='left : 140px;';
-		hs+='position : absolute;';
-		hs+='top : 0px;';
-		hs+='visibility : inherit;';
-		hs+='width : 31px;';
-		hs+='pointer-events:auto;';
-		this._marker_normal.setAttribute('style',hs);
-		this._marker_normal.style[domTransform + 'Origin']='50% 50%';
-		me._marker_normal.ggIsActive=function() {
-			if ((this.parentNode) && (this.parentNode.ggIsActive)) {
-				return this.parentNode.ggIsActive();
-			}
-			return false;
-		}
-		me._marker_normal.ggElementNodeId=function() {
-			if ((this.parentNode) && (this.parentNode.ggElementNodeId)) {
-				return this.parentNode.ggElementNodeId();
-			}
-			return me.ggNodeId;
-		}
-		this._marker_normal.ggUpdatePosition=function (useTransition) {
-		}
-		this._marker_normal.ggNodeChangeMain=function() {
-		}
-		return this._marker_normal;
-	};
 	function SkinElement_marker_active_Class(skinObj,ggParent) {
 		var me=this;
 		var flag=false;
@@ -7078,6 +6806,62 @@ function pano2vrSkin(player,base) {
 		this._marker_active.ggNodeChangeMain=function() {
 		}
 		return this._marker_active;
+	};
+	function SkinElement_marker_normal_Class(skinObj,ggParent) {
+		var me=this;
+		var flag=false;
+		this.player=skinObj.player;
+		this.skin=skinObj;
+		this.ggParent=ggParent;
+		var nodeId=ggParent.ggElementNodeId();
+		this.ggNodeId=nodeId;
+		this.ggUserdata=this.skin.player.getNodeUserdata(nodeId);
+		this.elementMouseDown=[];
+		this.elementMouseOver=[];
+		
+		this.findElements=function(id,regex) {
+			return me.skin.findElements(id,regex);
+		}
+		
+		this._marker_normal=document.createElement('div');
+		this._marker_normal__img=document.createElement('img');
+		this._marker_normal__img.className='ggskin ggskin_svg';
+		this._marker_normal__img.setAttribute('src',basePath + 'images/marker_normal.svg');
+		this._marker_normal__img.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;');
+		this._marker_normal__img['ondragstart']=function() { return false; };
+		this._marker_normal.appendChild(this._marker_normal__img);
+		this._marker_normal.ggId="marker_normal";
+		this._marker_normal.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
+		this._marker_normal.ggVisible=true;
+		this._marker_normal.className='ggskin ggskin_svg ';
+		this._marker_normal.ggType='svg';
+		hs ='';
+		hs+='height : 32px;';
+		hs+='left : 140px;';
+		hs+='position : absolute;';
+		hs+='top : 0px;';
+		hs+='visibility : inherit;';
+		hs+='width : 31px;';
+		hs+='pointer-events:auto;';
+		this._marker_normal.setAttribute('style',hs);
+		this._marker_normal.style[domTransform + 'Origin']='50% 50%';
+		me._marker_normal.ggIsActive=function() {
+			if ((this.parentNode) && (this.parentNode.ggIsActive)) {
+				return this.parentNode.ggIsActive();
+			}
+			return false;
+		}
+		me._marker_normal.ggElementNodeId=function() {
+			if ((this.parentNode) && (this.parentNode.ggElementNodeId)) {
+				return this.parentNode.ggElementNodeId();
+			}
+			return me.ggNodeId;
+		}
+		this._marker_normal.ggUpdatePosition=function (useTransition) {
+		}
+		this._marker_normal.ggNodeChangeMain=function() {
+		}
+		return this._marker_normal;
 	};
 	this.addSkin();
 };
