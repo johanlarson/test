@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 5.2.4/15996
 // Filename: silhouetteCROTRFinalDraftSkin.ggsk
-// Generated Tue Jun 5 17:09:00 2018
+// Generated Wed Jun 6 12:09:48 2018
 
 function pano2vrSkin(player,base) {
 	var ggSkinVars = [];
@@ -3442,7 +3442,7 @@ function pano2vrSkin(player,base) {
 		this._researchstationmap.ggId="researchStationMap";
 		this._researchstationmap.ggLeft=-402;
 		this._researchstationmap.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
-		this._researchstationmap.ggVisible=false;
+		this._researchstationmap.ggVisible=true;
 		this._researchstationmap.className='ggskin ggskin_svg ';
 		this._researchstationmap.ggType='svg';
 		hs ='';
@@ -3451,7 +3451,7 @@ function pano2vrSkin(player,base) {
 		hs+='opacity : 0.9;';
 		hs+='position : absolute;';
 		hs+='top : -27px;';
-		hs+='visibility : hidden;';
+		hs+='visibility : inherit;';
 		hs+='width : 400px;';
 		hs+='pointer-events:auto;';
 		this._researchstationmap.setAttribute('style',hs);
@@ -3485,7 +3485,7 @@ function pano2vrSkin(player,base) {
 		this._marker_nodes.ggId="marker_nodes";
 		this._marker_nodes.ggLeft=-407;
 		this._marker_nodes.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
-		this._marker_nodes.ggVisible=false;
+		this._marker_nodes.ggVisible=true;
 		this._marker_nodes.className='ggskin ggskin_container ';
 		this._marker_nodes.ggType='container';
 		hs ='';
@@ -3493,7 +3493,7 @@ function pano2vrSkin(player,base) {
 		hs+='left : -407px;';
 		hs+='position : absolute;';
 		hs+='top : 217px;';
-		hs+='visibility : hidden;';
+		hs+='visibility : inherit;';
 		hs+='width : 448px;';
 		hs+='pointer-events:none;';
 		this._marker_nodes.setAttribute('style',hs);
@@ -4155,7 +4155,7 @@ function pano2vrSkin(player,base) {
 		hs+='padding: 1px 2px 1px 2px;';
 		hs+='overflow: hidden;';
 		this._marker_title2__text.setAttribute('style',hs);
-		this._marker_title2__text.innerHTML="Havanna house";
+		this._marker_title2__text.innerHTML="Havanna House";
 		this._marker_title2.appendChild(this._marker_title2__text);
 		me._marker_title2.ggIsActive=function() {
 			if ((this.parentNode) && (this.parentNode.ggIsActive)) {
@@ -4273,7 +4273,7 @@ function pano2vrSkin(player,base) {
 		hs+='padding: 1px 2px 1px 2px;';
 		hs+='overflow: hidden;';
 		this._marker_title1__text.setAttribute('style',hs);
-		this._marker_title1__text.innerHTML="Pelorous house";
+		this._marker_title1__text.innerHTML="Pelorous House";
 		this._marker_title1.appendChild(this._marker_title1__text);
 		me._marker_title1.ggIsActive=function() {
 			if ((this.parentNode) && (this.parentNode.ggIsActive)) {
@@ -4380,7 +4380,7 @@ function pano2vrSkin(player,base) {
 		hs+='padding: 1px 2px 1px 2px;';
 		hs+='overflow: hidden;';
 		this._marker_title0__text.setAttribute('style',hs);
-		this._marker_title0__text.innerHTML="Outside Diveshed";
+		this._marker_title0__text.innerHTML="Arrival Point";
 		this._marker_title0.appendChild(this._marker_title0__text);
 		me._marker_title0.ggIsActive=function() {
 			if ((this.parentNode) && (this.parentNode.ggIsActive)) {
