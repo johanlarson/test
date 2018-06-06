@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 5.2.4/15996
-// Filename: silhouetteCROTRFinalDraftSkin.ggsk
-// Generated Wed Jun 6 14:54:10 2018
+// Filename: silhouetteCROTRFinalDraftSkinMapCircleIcons.ggsk
+// Generated Wed Jun 6 15:52:14 2018
 
 function pano2vrSkin(player,base) {
 	var ggSkinVars = [];
@@ -6780,12 +6780,12 @@ function pano2vrSkin(player,base) {
 		this._marker_active.className='ggskin ggskin_svg ';
 		this._marker_active.ggType='svg';
 		hs ='';
-		hs+='height : 30px;';
-		hs+='left : 105px;';
+		hs+='height : 20px;';
+		hs+='left : 106px;';
 		hs+='position : absolute;';
 		hs+='top : 0px;';
 		hs+='visibility : inherit;';
-		hs+='width : 30px;';
+		hs+='width : 20px;';
 		hs+='pointer-events:auto;';
 		this._marker_active.setAttribute('style',hs);
 		this._marker_active.style[domTransform + 'Origin']='50% 50%';
@@ -6836,12 +6836,12 @@ function pano2vrSkin(player,base) {
 		this._marker_normal.className='ggskin ggskin_svg ';
 		this._marker_normal.ggType='svg';
 		hs ='';
-		hs+='height : 30px;';
+		hs+='height : 20px;';
 		hs+='left : 140px;';
 		hs+='position : absolute;';
 		hs+='top : 0px;';
 		hs+='visibility : inherit;';
-		hs+='width : 30px;';
+		hs+='width : 20px;';
 		hs+='pointer-events:auto;';
 		this._marker_normal.setAttribute('style',hs);
 		this._marker_normal.style[domTransform + 'Origin']='50% 50%';
