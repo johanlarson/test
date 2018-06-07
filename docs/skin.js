@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 5.2.4/15996
 // Filename: silhouetteCROTRFinalDraftSkinMapCircleIcons.ggsk
-// Generated Wed Jun 6 15:52:14 2018
+// Generated Thu Jun 7 11:42:20 2018
 
 function pano2vrSkin(player,base) {
 	var ggSkinVars = [];
@@ -3343,9 +3343,9 @@ function pano2vrSkin(player,base) {
 		hs ='';
 		hs+='z-index: 100;';
 		hs+='height : 16px;';
-		hs+='left : -60px;';
+		hs+='left : -56px;';
 		hs+='position : absolute;';
-		hs+='top : 35px;';
+		hs+='top : 57px;';
 		hs+='visibility : hidden;';
 		hs+='width : 144px;';
 		hs+='pointer-events:auto;';
@@ -3440,14 +3440,14 @@ function pano2vrSkin(player,base) {
 		this._researchstationmap__img['ondragstart']=function() { return false; };
 		this._researchstationmap.appendChild(this._researchstationmap__img);
 		this._researchstationmap.ggId="researchStationMap";
-		this._researchstationmap.ggLeft=-402;
+		this._researchstationmap.ggLeft=-401;
 		this._researchstationmap.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
 		this._researchstationmap.ggVisible=true;
 		this._researchstationmap.className='ggskin ggskin_svg ';
 		this._researchstationmap.ggType='svg';
 		hs ='';
 		hs+='height : 461px;';
-		hs+='left : -402px;';
+		hs+='left : -401px;';
 		hs+='opacity : 0.9;';
 		hs+='position : absolute;';
 		hs+='top : -27px;';
@@ -3483,16 +3483,16 @@ function pano2vrSkin(player,base) {
 		this._panoaccomodationmap.appendChild(this._researchstationmap);
 		this._marker_nodes=document.createElement('div');
 		this._marker_nodes.ggId="marker_nodes";
-		this._marker_nodes.ggLeft=-407;
+		this._marker_nodes.ggLeft=-411;
 		this._marker_nodes.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
 		this._marker_nodes.ggVisible=true;
 		this._marker_nodes.className='ggskin ggskin_container ';
 		this._marker_nodes.ggType='container';
 		hs ='';
 		hs+='height : 130px;';
-		hs+='left : -407px;';
+		hs+='left : -411px;';
 		hs+='position : absolute;';
-		hs+='top : 217px;';
+		hs+='top : 200px;';
 		hs+='visibility : inherit;';
 		hs+='width : 448px;';
 		hs+='pointer-events:none;';
@@ -3584,9 +3584,9 @@ function pano2vrSkin(player,base) {
 		hs ='';
 		hs+='z-index: 100;';
 		hs+='height : 16px;';
-		hs+='left : -60px;';
+		hs+='left : -54px;';
 		hs+='position : absolute;';
-		hs+='top : 35px;';
+		hs+='top : 53px;';
 		hs+='visibility : hidden;';
 		hs+='width : 144px;';
 		hs+='pointer-events:auto;';
@@ -3639,9 +3639,9 @@ function pano2vrSkin(player,base) {
 		this._microscoperoom_marker_node.ggType='mark';
 		hs ='';
 		hs+='height : 5px;';
-		hs+='left : 358px;';
+		hs+='left : 356px;';
 		hs+='position : absolute;';
-		hs+='top : 49px;';
+		hs+='top : 35px;';
 		hs+='visibility : inherit;';
 		hs+='width : 5px;';
 		hs+='pointer-events:auto;';
@@ -3691,9 +3691,9 @@ function pano2vrSkin(player,base) {
 		hs ='';
 		hs+='z-index: 100;';
 		hs+='height : 16px;';
-		hs+='left : -60px;';
+		hs+='left : -53px;';
 		hs+='position : absolute;';
-		hs+='top : 35px;';
+		hs+='top : 52px;';
 		hs+='visibility : hidden;';
 		hs+='width : 144px;';
 		hs+='pointer-events:auto;';
@@ -3736,55 +3736,55 @@ function pano2vrSkin(player,base) {
 		}
 		this._microscoperoom_marker_node.appendChild(this._marker_title6);
 		this._marker_nodes.appendChild(this._microscoperoom_marker_node);
-		this._drylab_marker_node=document.createElement('div');
-		this._drylab_marker_node.ggMarkerNodeId='{node4}';
-		nodeMarker.push(this._drylab_marker_node);
-		this._drylab_marker_node.ggId="drylab_marker_node";
-		this._drylab_marker_node.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
-		this._drylab_marker_node.ggVisible=true;
-		this._drylab_marker_node.className='ggskin ggskin_mark ';
-		this._drylab_marker_node.ggType='mark';
+		this._lecturetheatre_marker_node=document.createElement('div');
+		this._lecturetheatre_marker_node.ggMarkerNodeId='{node6}';
+		nodeMarker.push(this._lecturetheatre_marker_node);
+		this._lecturetheatre_marker_node.ggId="lectureTheatre_marker_node";
+		this._lecturetheatre_marker_node.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
+		this._lecturetheatre_marker_node.ggVisible=true;
+		this._lecturetheatre_marker_node.className='ggskin ggskin_mark ';
+		this._lecturetheatre_marker_node.ggType='mark';
 		hs ='';
 		hs+='height : 5px;';
-		hs+='left : 345px;';
+		hs+='left : 313px;';
 		hs+='position : absolute;';
-		hs+='top : 54px;';
+		hs+='top : 45px;';
 		hs+='visibility : inherit;';
 		hs+='width : 5px;';
 		hs+='pointer-events:auto;';
-		this._drylab_marker_node.setAttribute('style',hs);
-		this._drylab_marker_node.style[domTransform + 'Origin']='50% 50%';
-		me._drylab_marker_node.ggIsActive=function() {
+		this._lecturetheatre_marker_node.setAttribute('style',hs);
+		this._lecturetheatre_marker_node.style[domTransform + 'Origin']='50% 50%';
+		me._lecturetheatre_marker_node.ggIsActive=function() {
 			return this.ggIsMarkerActive==true;
 		}
-		me._drylab_marker_node.ggElementNodeId=function() {
+		me._lecturetheatre_marker_node.ggElementNodeId=function() {
 			var hs=String(this.ggMarkerNodeId);
 			if (hs.charAt(0)=='{') {
 				return hs.substr(1, hs.length - 2);
 			}
 			return '';
 		}
-		this._drylab_marker_node.onclick=function (e) {
-			me.player.openNext('{node4}');
+		this._lecturetheatre_marker_node.onclick=function (e) {
+			me.player.openNext('{node6}');
 		}
-		this._drylab_marker_node.onmouseover=function (e) {
+		this._lecturetheatre_marker_node.onmouseover=function (e) {
 			me._marker_title5.style[domTransition]='none';
 			me._marker_title5.style.visibility=(Number(me._marker_title5.style.opacity)>0||!me._marker_title5.style.opacity)?'inherit':'hidden';
 			me._marker_title5.ggVisible=true;
 		}
-		this._drylab_marker_node.onmouseout=function (e) {
+		this._lecturetheatre_marker_node.onmouseout=function (e) {
 			me._marker_title5.style[domTransition]='none';
 			me._marker_title5.style.visibility='hidden';
 			me._marker_title5.ggVisible=false;
 		}
-		this._drylab_marker_node.ggUpdateConditionNodeChange=function () {
-				me._drylab_marker_node__normal.ggNodeChangeMain();
-				me._drylab_marker_node__active.ggNodeChangeMain();
+		this._lecturetheatre_marker_node.ggUpdateConditionNodeChange=function () {
+				me._lecturetheatre_marker_node__normal.ggNodeChangeMain();
+				me._lecturetheatre_marker_node__active.ggNodeChangeMain();
 		}
-		this._drylab_marker_node.ggUpdatePosition=function (useTransition) {
+		this._lecturetheatre_marker_node.ggUpdatePosition=function (useTransition) {
 		}
-		this._drylab_marker_node.ggNodeChange=function () {
-			me._drylab_marker_node.ggUpdateConditionNodeChange();
+		this._lecturetheatre_marker_node.ggNodeChange=function () {
+			me._lecturetheatre_marker_node.ggUpdateConditionNodeChange();
 		}
 		this._marker_title5=document.createElement('div');
 		this._marker_title5__text=document.createElement('div');
@@ -3798,9 +3798,9 @@ function pano2vrSkin(player,base) {
 		hs ='';
 		hs+='z-index: 100;';
 		hs+='height : 16px;';
-		hs+='left : -60px;';
+		hs+='left : -52px;';
 		hs+='position : absolute;';
-		hs+='top : 35px;';
+		hs+='top : 53px;';
 		hs+='visibility : hidden;';
 		hs+='width : 144px;';
 		hs+='pointer-events:auto;';
@@ -3823,7 +3823,7 @@ function pano2vrSkin(player,base) {
 		hs+='padding: 1px 2px 1px 2px;';
 		hs+='overflow: hidden;';
 		this._marker_title5__text.setAttribute('style',hs);
-		this._marker_title5__text.innerHTML="Drylab";
+		this._marker_title5__text.innerHTML="Lecture theatre";
 		this._marker_title5.appendChild(this._marker_title5__text);
 		me._marker_title5.ggIsActive=function() {
 			if ((this.parentNode) && (this.parentNode.ggIsActive)) {
@@ -3841,57 +3841,57 @@ function pano2vrSkin(player,base) {
 			this.style[domTransition]='none';
 			this.ggTextDiv.style.left=((148-this.ggTextDiv.offsetWidth)/2) + 'px';
 		}
-		this._drylab_marker_node.appendChild(this._marker_title5);
-		this._marker_nodes.appendChild(this._drylab_marker_node);
-		this._weblab_marker_node=document.createElement('div');
-		this._weblab_marker_node.ggMarkerNodeId='{node3}';
-		nodeMarker.push(this._weblab_marker_node);
-		this._weblab_marker_node.ggId="weblab_marker_node";
-		this._weblab_marker_node.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
-		this._weblab_marker_node.ggVisible=true;
-		this._weblab_marker_node.className='ggskin ggskin_mark ';
-		this._weblab_marker_node.ggType='mark';
+		this._lecturetheatre_marker_node.appendChild(this._marker_title5);
+		this._marker_nodes.appendChild(this._lecturetheatre_marker_node);
+		this._drylab_marker_node=document.createElement('div');
+		this._drylab_marker_node.ggMarkerNodeId='{node4}';
+		nodeMarker.push(this._drylab_marker_node);
+		this._drylab_marker_node.ggId="drylab_marker_node";
+		this._drylab_marker_node.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
+		this._drylab_marker_node.ggVisible=true;
+		this._drylab_marker_node.className='ggskin ggskin_mark ';
+		this._drylab_marker_node.ggType='mark';
 		hs ='';
 		hs+='height : 5px;';
-		hs+='left : 341px;';
+		hs+='left : 336px;';
 		hs+='position : absolute;';
-		hs+='top : 40px;';
+		hs+='top : 53px;';
 		hs+='visibility : inherit;';
 		hs+='width : 5px;';
 		hs+='pointer-events:auto;';
-		this._weblab_marker_node.setAttribute('style',hs);
-		this._weblab_marker_node.style[domTransform + 'Origin']='50% 50%';
-		me._weblab_marker_node.ggIsActive=function() {
+		this._drylab_marker_node.setAttribute('style',hs);
+		this._drylab_marker_node.style[domTransform + 'Origin']='50% 50%';
+		me._drylab_marker_node.ggIsActive=function() {
 			return this.ggIsMarkerActive==true;
 		}
-		me._weblab_marker_node.ggElementNodeId=function() {
+		me._drylab_marker_node.ggElementNodeId=function() {
 			var hs=String(this.ggMarkerNodeId);
 			if (hs.charAt(0)=='{') {
 				return hs.substr(1, hs.length - 2);
 			}
 			return '';
 		}
-		this._weblab_marker_node.onclick=function (e) {
-			me.player.openNext('{node3}');
+		this._drylab_marker_node.onclick=function (e) {
+			me.player.openNext('{node4}');
 		}
-		this._weblab_marker_node.onmouseover=function (e) {
+		this._drylab_marker_node.onmouseover=function (e) {
 			me._marker_title4.style[domTransition]='none';
 			me._marker_title4.style.visibility=(Number(me._marker_title4.style.opacity)>0||!me._marker_title4.style.opacity)?'inherit':'hidden';
 			me._marker_title4.ggVisible=true;
 		}
-		this._weblab_marker_node.onmouseout=function (e) {
+		this._drylab_marker_node.onmouseout=function (e) {
 			me._marker_title4.style[domTransition]='none';
 			me._marker_title4.style.visibility='hidden';
 			me._marker_title4.ggVisible=false;
 		}
-		this._weblab_marker_node.ggUpdateConditionNodeChange=function () {
-				me._weblab_marker_node__normal.ggNodeChangeMain();
-				me._weblab_marker_node__active.ggNodeChangeMain();
+		this._drylab_marker_node.ggUpdateConditionNodeChange=function () {
+				me._drylab_marker_node__normal.ggNodeChangeMain();
+				me._drylab_marker_node__active.ggNodeChangeMain();
 		}
-		this._weblab_marker_node.ggUpdatePosition=function (useTransition) {
+		this._drylab_marker_node.ggUpdatePosition=function (useTransition) {
 		}
-		this._weblab_marker_node.ggNodeChange=function () {
-			me._weblab_marker_node.ggUpdateConditionNodeChange();
+		this._drylab_marker_node.ggNodeChange=function () {
+			me._drylab_marker_node.ggUpdateConditionNodeChange();
 		}
 		this._marker_title4=document.createElement('div');
 		this._marker_title4__text=document.createElement('div');
@@ -3905,9 +3905,9 @@ function pano2vrSkin(player,base) {
 		hs ='';
 		hs+='z-index: 100;';
 		hs+='height : 16px;';
-		hs+='left : -60px;';
+		hs+='left : -49px;';
 		hs+='position : absolute;';
-		hs+='top : 35px;';
+		hs+='top : 51px;';
 		hs+='visibility : hidden;';
 		hs+='width : 144px;';
 		hs+='pointer-events:auto;';
@@ -3930,7 +3930,7 @@ function pano2vrSkin(player,base) {
 		hs+='padding: 1px 2px 1px 2px;';
 		hs+='overflow: hidden;';
 		this._marker_title4__text.setAttribute('style',hs);
-		this._marker_title4__text.innerHTML="Wetlab";
+		this._marker_title4__text.innerHTML="Drylab";
 		this._marker_title4.appendChild(this._marker_title4__text);
 		me._marker_title4.ggIsActive=function() {
 			if ((this.parentNode) && (this.parentNode.ggIsActive)) {
@@ -3948,57 +3948,57 @@ function pano2vrSkin(player,base) {
 			this.style[domTransition]='none';
 			this.ggTextDiv.style.left=((148-this.ggTextDiv.offsetWidth)/2) + 'px';
 		}
-		this._weblab_marker_node.appendChild(this._marker_title4);
-		this._marker_nodes.appendChild(this._weblab_marker_node);
-		this._raceways_marker_node=document.createElement('div');
-		this._raceways_marker_node.ggMarkerNodeId='{node2}';
-		nodeMarker.push(this._raceways_marker_node);
-		this._raceways_marker_node.ggId="raceways_marker_node";
-		this._raceways_marker_node.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
-		this._raceways_marker_node.ggVisible=true;
-		this._raceways_marker_node.className='ggskin ggskin_mark ';
-		this._raceways_marker_node.ggType='mark';
+		this._drylab_marker_node.appendChild(this._marker_title4);
+		this._marker_nodes.appendChild(this._drylab_marker_node);
+		this._weblab_marker_node=document.createElement('div');
+		this._weblab_marker_node.ggMarkerNodeId='{node3}';
+		nodeMarker.push(this._weblab_marker_node);
+		this._weblab_marker_node.ggId="weblab_marker_node";
+		this._weblab_marker_node.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
+		this._weblab_marker_node.ggVisible=true;
+		this._weblab_marker_node.className='ggskin ggskin_mark ';
+		this._weblab_marker_node.ggType='mark';
 		hs ='';
 		hs+='height : 5px;';
-		hs+='left : 329px;';
+		hs+='left : 341px;';
 		hs+='position : absolute;';
 		hs+='top : 29px;';
 		hs+='visibility : inherit;';
 		hs+='width : 5px;';
 		hs+='pointer-events:auto;';
-		this._raceways_marker_node.setAttribute('style',hs);
-		this._raceways_marker_node.style[domTransform + 'Origin']='50% 50%';
-		me._raceways_marker_node.ggIsActive=function() {
+		this._weblab_marker_node.setAttribute('style',hs);
+		this._weblab_marker_node.style[domTransform + 'Origin']='50% 50%';
+		me._weblab_marker_node.ggIsActive=function() {
 			return this.ggIsMarkerActive==true;
 		}
-		me._raceways_marker_node.ggElementNodeId=function() {
+		me._weblab_marker_node.ggElementNodeId=function() {
 			var hs=String(this.ggMarkerNodeId);
 			if (hs.charAt(0)=='{') {
 				return hs.substr(1, hs.length - 2);
 			}
 			return '';
 		}
-		this._raceways_marker_node.onclick=function (e) {
-			me.player.openNext('{node2}');
+		this._weblab_marker_node.onclick=function (e) {
+			me.player.openNext('{node3}');
 		}
-		this._raceways_marker_node.onmouseover=function (e) {
+		this._weblab_marker_node.onmouseover=function (e) {
 			me._marker_title3.style[domTransition]='none';
 			me._marker_title3.style.visibility=(Number(me._marker_title3.style.opacity)>0||!me._marker_title3.style.opacity)?'inherit':'hidden';
 			me._marker_title3.ggVisible=true;
 		}
-		this._raceways_marker_node.onmouseout=function (e) {
+		this._weblab_marker_node.onmouseout=function (e) {
 			me._marker_title3.style[domTransition]='none';
 			me._marker_title3.style.visibility='hidden';
 			me._marker_title3.ggVisible=false;
 		}
-		this._raceways_marker_node.ggUpdateConditionNodeChange=function () {
-				me._raceways_marker_node__normal.ggNodeChangeMain();
-				me._raceways_marker_node__active.ggNodeChangeMain();
+		this._weblab_marker_node.ggUpdateConditionNodeChange=function () {
+				me._weblab_marker_node__normal.ggNodeChangeMain();
+				me._weblab_marker_node__active.ggNodeChangeMain();
 		}
-		this._raceways_marker_node.ggUpdatePosition=function (useTransition) {
+		this._weblab_marker_node.ggUpdatePosition=function (useTransition) {
 		}
-		this._raceways_marker_node.ggNodeChange=function () {
-			me._raceways_marker_node.ggUpdateConditionNodeChange();
+		this._weblab_marker_node.ggNodeChange=function () {
+			me._weblab_marker_node.ggUpdateConditionNodeChange();
 		}
 		this._marker_title3=document.createElement('div');
 		this._marker_title3__text=document.createElement('div');
@@ -4012,9 +4012,9 @@ function pano2vrSkin(player,base) {
 		hs ='';
 		hs+='z-index: 100;';
 		hs+='height : 16px;';
-		hs+='left : -60px;';
+		hs+='left : -55px;';
 		hs+='position : absolute;';
-		hs+='top : 35px;';
+		hs+='top : 52px;';
 		hs+='visibility : hidden;';
 		hs+='width : 144px;';
 		hs+='pointer-events:auto;';
@@ -4037,7 +4037,7 @@ function pano2vrSkin(player,base) {
 		hs+='padding: 1px 2px 1px 2px;';
 		hs+='overflow: hidden;';
 		this._marker_title3__text.setAttribute('style',hs);
-		this._marker_title3__text.innerHTML="Raceways";
+		this._marker_title3__text.innerHTML="Wetlab";
 		this._marker_title3.appendChild(this._marker_title3__text);
 		me._marker_title3.ggIsActive=function() {
 			if ((this.parentNode) && (this.parentNode.ggIsActive)) {
@@ -4055,68 +4055,57 @@ function pano2vrSkin(player,base) {
 			this.style[domTransition]='none';
 			this.ggTextDiv.style.left=((148-this.ggTextDiv.offsetWidth)/2) + 'px';
 		}
-		this._raceways_marker_node.appendChild(this._marker_title3);
-		this._marker_nodes.appendChild(this._raceways_marker_node);
-		this._havanna_marker_node=document.createElement('div');
-		this._havanna_marker_node.ggMarkerNodeId='{node12}';
-		nodeMarker.push(this._havanna_marker_node);
-		this._havanna_marker_node.ggId="havanna_marker_node";
-		this._havanna_marker_node.ggLeft=-159;
-		this._havanna_marker_node.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
-		this._havanna_marker_node.ggVisible=true;
-		this._havanna_marker_node.className='ggskin ggskin_mark ';
-		this._havanna_marker_node.ggType='mark';
+		this._weblab_marker_node.appendChild(this._marker_title3);
+		this._marker_nodes.appendChild(this._weblab_marker_node);
+		this._raceways_marker_node=document.createElement('div');
+		this._raceways_marker_node.ggMarkerNodeId='{node2}';
+		nodeMarker.push(this._raceways_marker_node);
+		this._raceways_marker_node.ggId="raceways_marker_node";
+		this._raceways_marker_node.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
+		this._raceways_marker_node.ggVisible=true;
+		this._raceways_marker_node.className='ggskin ggskin_mark ';
+		this._raceways_marker_node.ggType='mark';
 		hs ='';
 		hs+='height : 5px;';
-		hs+='left : -159px;';
+		hs+='left : 330px;';
 		hs+='position : absolute;';
-		hs+='top : 69px;';
+		hs+='top : 17px;';
 		hs+='visibility : inherit;';
 		hs+='width : 5px;';
 		hs+='pointer-events:auto;';
-		this._havanna_marker_node.setAttribute('style',hs);
-		this._havanna_marker_node.style[domTransform + 'Origin']='50% 50%';
-		me._havanna_marker_node.ggIsActive=function() {
+		this._raceways_marker_node.setAttribute('style',hs);
+		this._raceways_marker_node.style[domTransform + 'Origin']='50% 50%';
+		me._raceways_marker_node.ggIsActive=function() {
 			return this.ggIsMarkerActive==true;
 		}
-		me._havanna_marker_node.ggElementNodeId=function() {
+		me._raceways_marker_node.ggElementNodeId=function() {
 			var hs=String(this.ggMarkerNodeId);
 			if (hs.charAt(0)=='{') {
 				return hs.substr(1, hs.length - 2);
 			}
 			return '';
 		}
-		this._havanna_marker_node.onclick=function (e) {
-			me.player.openNext('{node12}');
+		this._raceways_marker_node.onclick=function (e) {
+			me.player.openNext('{node2}');
 		}
-		this._havanna_marker_node.onmouseover=function (e) {
+		this._raceways_marker_node.onmouseover=function (e) {
 			me._marker_title2.style[domTransition]='none';
 			me._marker_title2.style.visibility=(Number(me._marker_title2.style.opacity)>0||!me._marker_title2.style.opacity)?'inherit':'hidden';
 			me._marker_title2.ggVisible=true;
 		}
-		this._havanna_marker_node.onmouseout=function (e) {
+		this._raceways_marker_node.onmouseout=function (e) {
 			me._marker_title2.style[domTransition]='none';
 			me._marker_title2.style.visibility='hidden';
 			me._marker_title2.ggVisible=false;
 		}
-		this._havanna_marker_node.ggUpdateConditionNodeChange=function () {
-				me._havanna_marker_node__normal.ggNodeChangeMain();
-				me._havanna_marker_node__active.ggNodeChangeMain();
+		this._raceways_marker_node.ggUpdateConditionNodeChange=function () {
+				me._raceways_marker_node__normal.ggNodeChangeMain();
+				me._raceways_marker_node__active.ggNodeChangeMain();
 		}
-		this._havanna_marker_node.ggUpdatePosition=function (useTransition) {
-			if (useTransition==='undefined') {
-				useTransition = false;
-			}
-			if (!useTransition) {
-				this.style[domTransition]='none';
-			}
-			if (this.parentNode) {
-				var w=this.parentNode.offsetWidth;
-					this.style.left=(this.ggLeft - 0 + w) + 'px';
-			}
+		this._raceways_marker_node.ggUpdatePosition=function (useTransition) {
 		}
-		this._havanna_marker_node.ggNodeChange=function () {
-			me._havanna_marker_node.ggUpdateConditionNodeChange();
+		this._raceways_marker_node.ggNodeChange=function () {
+			me._raceways_marker_node.ggUpdateConditionNodeChange();
 		}
 		this._marker_title2=document.createElement('div');
 		this._marker_title2__text=document.createElement('div');
@@ -4129,12 +4118,12 @@ function pano2vrSkin(player,base) {
 		this._marker_title2.ggType='text';
 		hs ='';
 		hs+='z-index: 100;';
-		hs+='height : 14px;';
-		hs+='left : -32px;';
+		hs+='height : 16px;';
+		hs+='left : -42px;';
 		hs+='position : absolute;';
-		hs+='top : 33px;';
+		hs+='top : 55px;';
 		hs+='visibility : hidden;';
-		hs+='width : 102px;';
+		hs+='width : 144px;';
 		hs+='pointer-events:auto;';
 		this._marker_title2.setAttribute('style',hs);
 		this._marker_title2.style[domTransform + 'Origin']='50% 50%';
@@ -4155,7 +4144,7 @@ function pano2vrSkin(player,base) {
 		hs+='padding: 1px 2px 1px 2px;';
 		hs+='overflow: hidden;';
 		this._marker_title2__text.setAttribute('style',hs);
-		this._marker_title2__text.innerHTML="Havanna House";
+		this._marker_title2__text.innerHTML="Raceways";
 		this._marker_title2.appendChild(this._marker_title2__text);
 		me._marker_title2.ggIsActive=function() {
 			if ((this.parentNode) && (this.parentNode.ggIsActive)) {
@@ -4171,9 +4160,234 @@ function pano2vrSkin(player,base) {
 		}
 		this._marker_title2.ggUpdatePosition=function (useTransition) {
 			this.style[domTransition]='none';
+			this.ggTextDiv.style.left=((148-this.ggTextDiv.offsetWidth)/2) + 'px';
+		}
+		this._raceways_marker_node.appendChild(this._marker_title2);
+		this._marker_nodes.appendChild(this._raceways_marker_node);
+		this._diveshed_marker_node=document.createElement('div');
+		this._diveshed_marker_node.ggMarkerNodeId='{node1}';
+		nodeMarker.push(this._diveshed_marker_node);
+		this._diveshed_marker_node.ggId="diveshed_marker_node";
+		this._diveshed_marker_node.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
+		this._diveshed_marker_node.ggVisible=true;
+		this._diveshed_marker_node.className='ggskin ggskin_mark ';
+		this._diveshed_marker_node.ggType='mark';
+		hs ='';
+		hs+='height : 5px;';
+		hs+='left : 308px;';
+		hs+='position : absolute;';
+		hs+='top : -2px;';
+		hs+='visibility : inherit;';
+		hs+='width : 5px;';
+		hs+='pointer-events:auto;';
+		this._diveshed_marker_node.setAttribute('style',hs);
+		this._diveshed_marker_node.style[domTransform + 'Origin']='50% 50%';
+		me._diveshed_marker_node.ggIsActive=function() {
+			return this.ggIsMarkerActive==true;
+		}
+		me._diveshed_marker_node.ggElementNodeId=function() {
+			var hs=String(this.ggMarkerNodeId);
+			if (hs.charAt(0)=='{') {
+				return hs.substr(1, hs.length - 2);
+			}
+			return '';
+		}
+		this._diveshed_marker_node.onclick=function (e) {
+			me.player.openNext('{node1}');
+		}
+		this._diveshed_marker_node.onmouseover=function (e) {
+			me._marker_title1.style[domTransition]='none';
+			me._marker_title1.style.visibility=(Number(me._marker_title1.style.opacity)>0||!me._marker_title1.style.opacity)?'inherit':'hidden';
+			me._marker_title1.ggVisible=true;
+		}
+		this._diveshed_marker_node.onmouseout=function (e) {
+			me._marker_title1.style[domTransition]='none';
+			me._marker_title1.style.visibility='hidden';
+			me._marker_title1.ggVisible=false;
+		}
+		this._diveshed_marker_node.ggUpdateConditionNodeChange=function () {
+				me._diveshed_marker_node__normal.ggNodeChangeMain();
+				me._diveshed_marker_node__active.ggNodeChangeMain();
+		}
+		this._diveshed_marker_node.ggUpdatePosition=function (useTransition) {
+		}
+		this._diveshed_marker_node.ggNodeChange=function () {
+			me._diveshed_marker_node.ggUpdateConditionNodeChange();
+		}
+		this._marker_title1=document.createElement('div');
+		this._marker_title1__text=document.createElement('div');
+		this._marker_title1.className='ggskin ggskin_textdiv';
+		this._marker_title1.ggTextDiv=this._marker_title1__text;
+		this._marker_title1.ggId="marker_title";
+		this._marker_title1.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
+		this._marker_title1.ggVisible=false;
+		this._marker_title1.className='ggskin ggskin_text ';
+		this._marker_title1.ggType='text';
+		hs ='';
+		hs+='z-index: 100;';
+		hs+='height : 15px;';
+		hs+='left : -34px;';
+		hs+='position : absolute;';
+		hs+='top : 52px;';
+		hs+='visibility : hidden;';
+		hs+='width : 109px;';
+		hs+='pointer-events:auto;';
+		this._marker_title1.setAttribute('style',hs);
+		this._marker_title1.style[domTransform + 'Origin']='50% 50%';
+		hs ='position:absolute;';
+		hs+='cursor: default;';
+		hs+='left: 0px;';
+		hs+='top:  0px;';
+		hs+='width: auto;';
+		hs+='height: auto;';
+		hs+='background: #ffffff;';
+		hs+='background: rgba(255,255,255,0.705882);';
+		hs+='border: 1px solid #000000;';
+		hs+='border-radius: 5px;';
+		hs+=cssPrefix + 'border-radius: 5px;';
+		hs+='color: rgba(0,0,0,1);';
+		hs+='text-align: center;';
+		hs+='white-space: nowrap;';
+		hs+='padding: 1px 2px 1px 2px;';
+		hs+='overflow: hidden;';
+		this._marker_title1__text.setAttribute('style',hs);
+		this._marker_title1__text.innerHTML="Arrival Point";
+		this._marker_title1.appendChild(this._marker_title1__text);
+		me._marker_title1.ggIsActive=function() {
+			if ((this.parentNode) && (this.parentNode.ggIsActive)) {
+				return this.parentNode.ggIsActive();
+			}
+			return false;
+		}
+		me._marker_title1.ggElementNodeId=function() {
+			if ((this.parentNode) && (this.parentNode.ggElementNodeId)) {
+				return this.parentNode.ggElementNodeId();
+			}
+			return me.player.getCurrentNode();
+		}
+		this._marker_title1.ggUpdatePosition=function (useTransition) {
+			this.style[domTransition]='none';
+			this.ggTextDiv.style.left=((113-this.ggTextDiv.offsetWidth)/2) + 'px';
+		}
+		this._diveshed_marker_node.appendChild(this._marker_title1);
+		this._marker_nodes.appendChild(this._diveshed_marker_node);
+		this._havanna_marker_node=document.createElement('div');
+		this._havanna_marker_node.ggMarkerNodeId='{node12}';
+		nodeMarker.push(this._havanna_marker_node);
+		this._havanna_marker_node.ggId="havanna_marker_node";
+		this._havanna_marker_node.ggLeft=-159;
+		this._havanna_marker_node.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
+		this._havanna_marker_node.ggVisible=true;
+		this._havanna_marker_node.className='ggskin ggskin_mark ';
+		this._havanna_marker_node.ggType='mark';
+		hs ='';
+		hs+='height : 5px;';
+		hs+='left : -159px;';
+		hs+='position : absolute;';
+		hs+='top : 64px;';
+		hs+='visibility : inherit;';
+		hs+='width : 5px;';
+		hs+='pointer-events:auto;';
+		this._havanna_marker_node.setAttribute('style',hs);
+		this._havanna_marker_node.style[domTransform + 'Origin']='50% 50%';
+		me._havanna_marker_node.ggIsActive=function() {
+			return this.ggIsMarkerActive==true;
+		}
+		me._havanna_marker_node.ggElementNodeId=function() {
+			var hs=String(this.ggMarkerNodeId);
+			if (hs.charAt(0)=='{') {
+				return hs.substr(1, hs.length - 2);
+			}
+			return '';
+		}
+		this._havanna_marker_node.onclick=function (e) {
+			me.player.openNext('{node12}');
+		}
+		this._havanna_marker_node.onmouseover=function (e) {
+			me._marker_title0.style[domTransition]='none';
+			me._marker_title0.style.visibility=(Number(me._marker_title0.style.opacity)>0||!me._marker_title0.style.opacity)?'inherit':'hidden';
+			me._marker_title0.ggVisible=true;
+		}
+		this._havanna_marker_node.onmouseout=function (e) {
+			me._marker_title0.style[domTransition]='none';
+			me._marker_title0.style.visibility='hidden';
+			me._marker_title0.ggVisible=false;
+		}
+		this._havanna_marker_node.ggUpdateConditionNodeChange=function () {
+				me._havanna_marker_node__normal.ggNodeChangeMain();
+				me._havanna_marker_node__active.ggNodeChangeMain();
+		}
+		this._havanna_marker_node.ggUpdatePosition=function (useTransition) {
+			if (useTransition==='undefined') {
+				useTransition = false;
+			}
+			if (!useTransition) {
+				this.style[domTransition]='none';
+			}
+			if (this.parentNode) {
+				var w=this.parentNode.offsetWidth;
+					this.style.left=(this.ggLeft - 0 + w) + 'px';
+			}
+		}
+		this._havanna_marker_node.ggNodeChange=function () {
+			me._havanna_marker_node.ggUpdateConditionNodeChange();
+		}
+		this._marker_title0=document.createElement('div');
+		this._marker_title0__text=document.createElement('div');
+		this._marker_title0.className='ggskin ggskin_textdiv';
+		this._marker_title0.ggTextDiv=this._marker_title0__text;
+		this._marker_title0.ggId="marker_title";
+		this._marker_title0.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
+		this._marker_title0.ggVisible=false;
+		this._marker_title0.className='ggskin ggskin_text ';
+		this._marker_title0.ggType='text';
+		hs ='';
+		hs+='z-index: 100;';
+		hs+='height : 14px;';
+		hs+='left : -27px;';
+		hs+='position : absolute;';
+		hs+='top : 51px;';
+		hs+='visibility : hidden;';
+		hs+='width : 102px;';
+		hs+='pointer-events:auto;';
+		this._marker_title0.setAttribute('style',hs);
+		this._marker_title0.style[domTransform + 'Origin']='50% 50%';
+		hs ='position:absolute;';
+		hs+='cursor: default;';
+		hs+='left: 0px;';
+		hs+='top:  0px;';
+		hs+='width: auto;';
+		hs+='height: auto;';
+		hs+='background: #ffffff;';
+		hs+='background: rgba(255,255,255,0.705882);';
+		hs+='border: 1px solid #000000;';
+		hs+='border-radius: 5px;';
+		hs+=cssPrefix + 'border-radius: 5px;';
+		hs+='color: rgba(0,0,0,1);';
+		hs+='text-align: center;';
+		hs+='white-space: nowrap;';
+		hs+='padding: 1px 2px 1px 2px;';
+		hs+='overflow: hidden;';
+		this._marker_title0__text.setAttribute('style',hs);
+		this._marker_title0__text.innerHTML="Havanna House";
+		this._marker_title0.appendChild(this._marker_title0__text);
+		me._marker_title0.ggIsActive=function() {
+			if ((this.parentNode) && (this.parentNode.ggIsActive)) {
+				return this.parentNode.ggIsActive();
+			}
+			return false;
+		}
+		me._marker_title0.ggElementNodeId=function() {
+			if ((this.parentNode) && (this.parentNode.ggElementNodeId)) {
+				return this.parentNode.ggElementNodeId();
+			}
+			return me.player.getCurrentNode();
+		}
+		this._marker_title0.ggUpdatePosition=function (useTransition) {
+			this.style[domTransition]='none';
 			this.ggTextDiv.style.left=((106-this.ggTextDiv.offsetWidth)/2) + 'px';
 		}
-		this._havanna_marker_node.appendChild(this._marker_title2);
+		this._havanna_marker_node.appendChild(this._marker_title0);
 		this._marker_nodes.appendChild(this._havanna_marker_node);
 		this._pelorous_marker_node=document.createElement('div');
 		this._pelorous_marker_node.ggMarkerNodeId='{node14}';
@@ -4208,14 +4422,14 @@ function pano2vrSkin(player,base) {
 			me.player.openNext('{node14}');
 		}
 		this._pelorous_marker_node.onmouseover=function (e) {
-			me._marker_title1.style[domTransition]='none';
-			me._marker_title1.style.visibility=(Number(me._marker_title1.style.opacity)>0||!me._marker_title1.style.opacity)?'inherit':'hidden';
-			me._marker_title1.ggVisible=true;
+			me._marker_title.style[domTransition]='none';
+			me._marker_title.style.visibility=(Number(me._marker_title.style.opacity)>0||!me._marker_title.style.opacity)?'inherit':'hidden';
+			me._marker_title.ggVisible=true;
 		}
 		this._pelorous_marker_node.onmouseout=function (e) {
-			me._marker_title1.style[domTransition]='none';
-			me._marker_title1.style.visibility='hidden';
-			me._marker_title1.ggVisible=false;
+			me._marker_title.style[domTransition]='none';
+			me._marker_title.style.visibility='hidden';
+			me._marker_title.ggVisible=false;
 		}
 		this._pelorous_marker_node.ggUpdateConditionNodeChange=function () {
 				me._pelorous_marker_node__normal.ggNodeChangeMain();
@@ -4236,220 +4450,6 @@ function pano2vrSkin(player,base) {
 		this._pelorous_marker_node.ggNodeChange=function () {
 			me._pelorous_marker_node.ggUpdateConditionNodeChange();
 		}
-		this._marker_title1=document.createElement('div');
-		this._marker_title1__text=document.createElement('div');
-		this._marker_title1.className='ggskin ggskin_textdiv';
-		this._marker_title1.ggTextDiv=this._marker_title1__text;
-		this._marker_title1.ggId="marker_title";
-		this._marker_title1.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
-		this._marker_title1.ggVisible=false;
-		this._marker_title1.className='ggskin ggskin_text ';
-		this._marker_title1.ggType='text';
-		hs ='';
-		hs+='z-index: 100;';
-		hs+='height : 14px;';
-		hs+='left : -49px;';
-		hs+='position : absolute;';
-		hs+='top : 34px;';
-		hs+='visibility : hidden;';
-		hs+='width : 93px;';
-		hs+='pointer-events:auto;';
-		this._marker_title1.setAttribute('style',hs);
-		this._marker_title1.style[domTransform + 'Origin']='50% 50%';
-		hs ='position:absolute;';
-		hs+='cursor: default;';
-		hs+='left: 0px;';
-		hs+='top:  0px;';
-		hs+='width: auto;';
-		hs+='height: auto;';
-		hs+='background: #ffffff;';
-		hs+='background: rgba(255,255,255,0.705882);';
-		hs+='border: 1px solid #000000;';
-		hs+='border-radius: 5px;';
-		hs+=cssPrefix + 'border-radius: 5px;';
-		hs+='color: rgba(0,0,0,1);';
-		hs+='text-align: center;';
-		hs+='white-space: nowrap;';
-		hs+='padding: 1px 2px 1px 2px;';
-		hs+='overflow: hidden;';
-		this._marker_title1__text.setAttribute('style',hs);
-		this._marker_title1__text.innerHTML="Pelorous House";
-		this._marker_title1.appendChild(this._marker_title1__text);
-		me._marker_title1.ggIsActive=function() {
-			if ((this.parentNode) && (this.parentNode.ggIsActive)) {
-				return this.parentNode.ggIsActive();
-			}
-			return false;
-		}
-		me._marker_title1.ggElementNodeId=function() {
-			if ((this.parentNode) && (this.parentNode.ggElementNodeId)) {
-				return this.parentNode.ggElementNodeId();
-			}
-			return me.player.getCurrentNode();
-		}
-		this._marker_title1.ggUpdatePosition=function (useTransition) {
-			this.style[domTransition]='none';
-			this.ggTextDiv.style.left=((97-this.ggTextDiv.offsetWidth)/2) + 'px';
-		}
-		this._pelorous_marker_node.appendChild(this._marker_title1);
-		this._marker_nodes.appendChild(this._pelorous_marker_node);
-		this._diveshed_marker_node=document.createElement('div');
-		this._diveshed_marker_node.ggMarkerNodeId='{node1}';
-		nodeMarker.push(this._diveshed_marker_node);
-		this._diveshed_marker_node.ggId="diveshed_marker_node";
-		this._diveshed_marker_node.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
-		this._diveshed_marker_node.ggVisible=true;
-		this._diveshed_marker_node.className='ggskin ggskin_mark ';
-		this._diveshed_marker_node.ggType='mark';
-		hs ='';
-		hs+='height : 5px;';
-		hs+='left : 308px;';
-		hs+='position : absolute;';
-		hs+='top : 17px;';
-		hs+='visibility : inherit;';
-		hs+='width : 5px;';
-		hs+='pointer-events:auto;';
-		this._diveshed_marker_node.setAttribute('style',hs);
-		this._diveshed_marker_node.style[domTransform + 'Origin']='50% 50%';
-		me._diveshed_marker_node.ggIsActive=function() {
-			return this.ggIsMarkerActive==true;
-		}
-		me._diveshed_marker_node.ggElementNodeId=function() {
-			var hs=String(this.ggMarkerNodeId);
-			if (hs.charAt(0)=='{') {
-				return hs.substr(1, hs.length - 2);
-			}
-			return '';
-		}
-		this._diveshed_marker_node.onclick=function (e) {
-			me.player.openNext('{node1}');
-		}
-		this._diveshed_marker_node.onmouseover=function (e) {
-			me._marker_title0.style[domTransition]='none';
-			me._marker_title0.style.visibility=(Number(me._marker_title0.style.opacity)>0||!me._marker_title0.style.opacity)?'inherit':'hidden';
-			me._marker_title0.ggVisible=true;
-		}
-		this._diveshed_marker_node.onmouseout=function (e) {
-			me._marker_title0.style[domTransition]='none';
-			me._marker_title0.style.visibility='hidden';
-			me._marker_title0.ggVisible=false;
-		}
-		this._diveshed_marker_node.ggUpdateConditionNodeChange=function () {
-				me._diveshed_marker_node__normal.ggNodeChangeMain();
-				me._diveshed_marker_node__active.ggNodeChangeMain();
-		}
-		this._diveshed_marker_node.ggUpdatePosition=function (useTransition) {
-		}
-		this._diveshed_marker_node.ggNodeChange=function () {
-			me._diveshed_marker_node.ggUpdateConditionNodeChange();
-		}
-		this._marker_title0=document.createElement('div');
-		this._marker_title0__text=document.createElement('div');
-		this._marker_title0.className='ggskin ggskin_textdiv';
-		this._marker_title0.ggTextDiv=this._marker_title0__text;
-		this._marker_title0.ggId="marker_title";
-		this._marker_title0.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
-		this._marker_title0.ggVisible=false;
-		this._marker_title0.className='ggskin ggskin_text ';
-		this._marker_title0.ggType='text';
-		hs ='';
-		hs+='z-index: 100;';
-		hs+='height : 15px;';
-		hs+='left : -60px;';
-		hs+='position : absolute;';
-		hs+='top : 35px;';
-		hs+='visibility : hidden;';
-		hs+='width : 109px;';
-		hs+='pointer-events:auto;';
-		this._marker_title0.setAttribute('style',hs);
-		this._marker_title0.style[domTransform + 'Origin']='50% 50%';
-		hs ='position:absolute;';
-		hs+='cursor: default;';
-		hs+='left: 0px;';
-		hs+='top:  0px;';
-		hs+='width: auto;';
-		hs+='height: auto;';
-		hs+='background: #ffffff;';
-		hs+='background: rgba(255,255,255,0.705882);';
-		hs+='border: 1px solid #000000;';
-		hs+='border-radius: 5px;';
-		hs+=cssPrefix + 'border-radius: 5px;';
-		hs+='color: rgba(0,0,0,1);';
-		hs+='text-align: center;';
-		hs+='white-space: nowrap;';
-		hs+='padding: 1px 2px 1px 2px;';
-		hs+='overflow: hidden;';
-		this._marker_title0__text.setAttribute('style',hs);
-		this._marker_title0__text.innerHTML="Arrival Point";
-		this._marker_title0.appendChild(this._marker_title0__text);
-		me._marker_title0.ggIsActive=function() {
-			if ((this.parentNode) && (this.parentNode.ggIsActive)) {
-				return this.parentNode.ggIsActive();
-			}
-			return false;
-		}
-		me._marker_title0.ggElementNodeId=function() {
-			if ((this.parentNode) && (this.parentNode.ggElementNodeId)) {
-				return this.parentNode.ggElementNodeId();
-			}
-			return me.player.getCurrentNode();
-		}
-		this._marker_title0.ggUpdatePosition=function (useTransition) {
-			this.style[domTransition]='none';
-			this.ggTextDiv.style.left=((113-this.ggTextDiv.offsetWidth)/2) + 'px';
-		}
-		this._diveshed_marker_node.appendChild(this._marker_title0);
-		this._marker_nodes.appendChild(this._diveshed_marker_node);
-		this._lecturetheatre_marker_node=document.createElement('div');
-		this._lecturetheatre_marker_node.ggMarkerNodeId='{node6}';
-		nodeMarker.push(this._lecturetheatre_marker_node);
-		this._lecturetheatre_marker_node.ggId="lectureTheatre_marker_node";
-		this._lecturetheatre_marker_node.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
-		this._lecturetheatre_marker_node.ggVisible=true;
-		this._lecturetheatre_marker_node.className='ggskin ggskin_mark ';
-		this._lecturetheatre_marker_node.ggType='mark';
-		hs ='';
-		hs+='height : 5px;';
-		hs+='left : 321px;';
-		hs+='position : absolute;';
-		hs+='top : 53px;';
-		hs+='visibility : inherit;';
-		hs+='width : 5px;';
-		hs+='pointer-events:auto;';
-		this._lecturetheatre_marker_node.setAttribute('style',hs);
-		this._lecturetheatre_marker_node.style[domTransform + 'Origin']='50% 50%';
-		me._lecturetheatre_marker_node.ggIsActive=function() {
-			return this.ggIsMarkerActive==true;
-		}
-		me._lecturetheatre_marker_node.ggElementNodeId=function() {
-			var hs=String(this.ggMarkerNodeId);
-			if (hs.charAt(0)=='{') {
-				return hs.substr(1, hs.length - 2);
-			}
-			return '';
-		}
-		this._lecturetheatre_marker_node.onclick=function (e) {
-			me.player.openNext('{node6}');
-		}
-		this._lecturetheatre_marker_node.onmouseover=function (e) {
-			me._marker_title.style[domTransition]='none';
-			me._marker_title.style.visibility=(Number(me._marker_title.style.opacity)>0||!me._marker_title.style.opacity)?'inherit':'hidden';
-			me._marker_title.ggVisible=true;
-		}
-		this._lecturetheatre_marker_node.onmouseout=function (e) {
-			me._marker_title.style[domTransition]='none';
-			me._marker_title.style.visibility='hidden';
-			me._marker_title.ggVisible=false;
-		}
-		this._lecturetheatre_marker_node.ggUpdateConditionNodeChange=function () {
-				me._lecturetheatre_marker_node__normal.ggNodeChangeMain();
-				me._lecturetheatre_marker_node__active.ggNodeChangeMain();
-		}
-		this._lecturetheatre_marker_node.ggUpdatePosition=function (useTransition) {
-		}
-		this._lecturetheatre_marker_node.ggNodeChange=function () {
-			me._lecturetheatre_marker_node.ggUpdateConditionNodeChange();
-		}
 		this._marker_title=document.createElement('div');
 		this._marker_title__text=document.createElement('div');
 		this._marker_title.className='ggskin ggskin_textdiv';
@@ -4461,12 +4461,12 @@ function pano2vrSkin(player,base) {
 		this._marker_title.ggType='text';
 		hs ='';
 		hs+='z-index: 100;';
-		hs+='height : 16px;';
-		hs+='left : -60px;';
+		hs+='height : 14px;';
+		hs+='left : -32px;';
 		hs+='position : absolute;';
-		hs+='top : 35px;';
+		hs+='top : 53px;';
 		hs+='visibility : hidden;';
-		hs+='width : 144px;';
+		hs+='width : 93px;';
 		hs+='pointer-events:auto;';
 		this._marker_title.setAttribute('style',hs);
 		this._marker_title.style[domTransform + 'Origin']='50% 50%';
@@ -4487,7 +4487,7 @@ function pano2vrSkin(player,base) {
 		hs+='padding: 1px 2px 1px 2px;';
 		hs+='overflow: hidden;';
 		this._marker_title__text.setAttribute('style',hs);
-		this._marker_title__text.innerHTML="Lecture theatre";
+		this._marker_title__text.innerHTML="Pelorous House";
 		this._marker_title.appendChild(this._marker_title__text);
 		me._marker_title.ggIsActive=function() {
 			if ((this.parentNode) && (this.parentNode.ggIsActive)) {
@@ -4503,10 +4503,10 @@ function pano2vrSkin(player,base) {
 		}
 		this._marker_title.ggUpdatePosition=function (useTransition) {
 			this.style[domTransition]='none';
-			this.ggTextDiv.style.left=((148-this.ggTextDiv.offsetWidth)/2) + 'px';
+			this.ggTextDiv.style.left=((97-this.ggTextDiv.offsetWidth)/2) + 'px';
 		}
-		this._lecturetheatre_marker_node.appendChild(this._marker_title);
-		this._marker_nodes.appendChild(this._lecturetheatre_marker_node);
+		this._pelorous_marker_node.appendChild(this._marker_title);
+		this._marker_nodes.appendChild(this._pelorous_marker_node);
 		this._panoaccomodationmap.appendChild(this._marker_nodes);
 		this._svg_2=document.createElement('div');
 		this._svg_2__img=document.createElement('img');
@@ -4669,6 +4669,26 @@ function pano2vrSkin(player,base) {
 		} else {
 			this._microscoperoom_marker_node.appendChild(this._microscoperoom_marker_node__normal);
 		}
+		this._lecturetheatre_marker_node__normal=new SkinElement_marker_normal_Class(this,this._lecturetheatre_marker_node);
+		this._lecturetheatre_marker_node__normal.style.visibility='inherit';
+		this._lecturetheatre_marker_node__normal.style.left='0px';
+		this._lecturetheatre_marker_node__normal.style.top='0px';
+		this._lecturetheatre_marker_node.ggMarkerNormal=this._lecturetheatre_marker_node__normal;
+		this._lecturetheatre_marker_node__active=new SkinElement_marker_active_Class(this,this._lecturetheatre_marker_node);
+		this._lecturetheatre_marker_node__active.style.visibility='hidden';
+		this._lecturetheatre_marker_node__active.style.left='0px';
+		this._lecturetheatre_marker_node__active.style.top='0px';
+		this._lecturetheatre_marker_node.ggMarkerActive=this._lecturetheatre_marker_node__active;
+		if (this._lecturetheatre_marker_node.firstChild) {
+			this._lecturetheatre_marker_node.insertBefore(this._lecturetheatre_marker_node__active,this._lecturetheatre_marker_node.firstChild);
+		} else {
+			this._lecturetheatre_marker_node.appendChild(this._lecturetheatre_marker_node__active);
+		}
+		if (this._lecturetheatre_marker_node.firstChild) {
+			this._lecturetheatre_marker_node.insertBefore(this._lecturetheatre_marker_node__normal,this._lecturetheatre_marker_node.firstChild);
+		} else {
+			this._lecturetheatre_marker_node.appendChild(this._lecturetheatre_marker_node__normal);
+		}
 		this._drylab_marker_node__normal=new SkinElement_marker_normal_Class(this,this._drylab_marker_node);
 		this._drylab_marker_node__normal.style.visibility='inherit';
 		this._drylab_marker_node__normal.style.left='0px';
@@ -4729,6 +4749,26 @@ function pano2vrSkin(player,base) {
 		} else {
 			this._raceways_marker_node.appendChild(this._raceways_marker_node__normal);
 		}
+		this._diveshed_marker_node__normal=new SkinElement_marker_normal_Class(this,this._diveshed_marker_node);
+		this._diveshed_marker_node__normal.style.visibility='inherit';
+		this._diveshed_marker_node__normal.style.left='0px';
+		this._diveshed_marker_node__normal.style.top='0px';
+		this._diveshed_marker_node.ggMarkerNormal=this._diveshed_marker_node__normal;
+		this._diveshed_marker_node__active=new SkinElement_marker_active_Class(this,this._diveshed_marker_node);
+		this._diveshed_marker_node__active.style.visibility='hidden';
+		this._diveshed_marker_node__active.style.left='0px';
+		this._diveshed_marker_node__active.style.top='0px';
+		this._diveshed_marker_node.ggMarkerActive=this._diveshed_marker_node__active;
+		if (this._diveshed_marker_node.firstChild) {
+			this._diveshed_marker_node.insertBefore(this._diveshed_marker_node__active,this._diveshed_marker_node.firstChild);
+		} else {
+			this._diveshed_marker_node.appendChild(this._diveshed_marker_node__active);
+		}
+		if (this._diveshed_marker_node.firstChild) {
+			this._diveshed_marker_node.insertBefore(this._diveshed_marker_node__normal,this._diveshed_marker_node.firstChild);
+		} else {
+			this._diveshed_marker_node.appendChild(this._diveshed_marker_node__normal);
+		}
 		this._havanna_marker_node__normal=new SkinElement_marker_normal_Class(this,this._havanna_marker_node);
 		this._havanna_marker_node__normal.style.visibility='inherit';
 		this._havanna_marker_node__normal.style.left='0px';
@@ -4768,46 +4808,6 @@ function pano2vrSkin(player,base) {
 			this._pelorous_marker_node.insertBefore(this._pelorous_marker_node__normal,this._pelorous_marker_node.firstChild);
 		} else {
 			this._pelorous_marker_node.appendChild(this._pelorous_marker_node__normal);
-		}
-		this._diveshed_marker_node__normal=new SkinElement_marker_normal_Class(this,this._diveshed_marker_node);
-		this._diveshed_marker_node__normal.style.visibility='inherit';
-		this._diveshed_marker_node__normal.style.left='0px';
-		this._diveshed_marker_node__normal.style.top='0px';
-		this._diveshed_marker_node.ggMarkerNormal=this._diveshed_marker_node__normal;
-		this._diveshed_marker_node__active=new SkinElement_marker_active_Class(this,this._diveshed_marker_node);
-		this._diveshed_marker_node__active.style.visibility='hidden';
-		this._diveshed_marker_node__active.style.left='0px';
-		this._diveshed_marker_node__active.style.top='0px';
-		this._diveshed_marker_node.ggMarkerActive=this._diveshed_marker_node__active;
-		if (this._diveshed_marker_node.firstChild) {
-			this._diveshed_marker_node.insertBefore(this._diveshed_marker_node__active,this._diveshed_marker_node.firstChild);
-		} else {
-			this._diveshed_marker_node.appendChild(this._diveshed_marker_node__active);
-		}
-		if (this._diveshed_marker_node.firstChild) {
-			this._diveshed_marker_node.insertBefore(this._diveshed_marker_node__normal,this._diveshed_marker_node.firstChild);
-		} else {
-			this._diveshed_marker_node.appendChild(this._diveshed_marker_node__normal);
-		}
-		this._lecturetheatre_marker_node__normal=new SkinElement_marker_normal_Class(this,this._lecturetheatre_marker_node);
-		this._lecturetheatre_marker_node__normal.style.visibility='inherit';
-		this._lecturetheatre_marker_node__normal.style.left='0px';
-		this._lecturetheatre_marker_node__normal.style.top='0px';
-		this._lecturetheatre_marker_node.ggMarkerNormal=this._lecturetheatre_marker_node__normal;
-		this._lecturetheatre_marker_node__active=new SkinElement_marker_active_Class(this,this._lecturetheatre_marker_node);
-		this._lecturetheatre_marker_node__active.style.visibility='hidden';
-		this._lecturetheatre_marker_node__active.style.left='0px';
-		this._lecturetheatre_marker_node__active.style.top='0px';
-		this._lecturetheatre_marker_node.ggMarkerActive=this._lecturetheatre_marker_node__active;
-		if (this._lecturetheatre_marker_node.firstChild) {
-			this._lecturetheatre_marker_node.insertBefore(this._lecturetheatre_marker_node__active,this._lecturetheatre_marker_node.firstChild);
-		} else {
-			this._lecturetheatre_marker_node.appendChild(this._lecturetheatre_marker_node__active);
-		}
-		if (this._lecturetheatre_marker_node.firstChild) {
-			this._lecturetheatre_marker_node.insertBefore(this._lecturetheatre_marker_node__normal,this._lecturetheatre_marker_node.firstChild);
-		} else {
-			this._lecturetheatre_marker_node.appendChild(this._lecturetheatre_marker_node__normal);
 		}
 		this._accommodation_marker.ggMarkerNormal=null;
 		this._accommodation_marker.ggMarkerActive=null;
@@ -4863,13 +4863,13 @@ function pano2vrSkin(player,base) {
 		me._markertemplate.ggNodeChange();
 		me._thepoint_marker_node.ggNodeChange();
 		me._microscoperoom_marker_node.ggNodeChange();
+		me._lecturetheatre_marker_node.ggNodeChange();
 		me._drylab_marker_node.ggNodeChange();
 		me._weblab_marker_node.ggNodeChange();
 		me._raceways_marker_node.ggNodeChange();
+		me._diveshed_marker_node.ggNodeChange();
 		me._havanna_marker_node.ggNodeChange();
 		me._pelorous_marker_node.ggNodeChange();
-		me._diveshed_marker_node.ggNodeChange();
-		me._lecturetheatre_marker_node.ggNodeChange();
 		var newMarker=[];
 		var i,j;
 		var tags=me.ggUserdata.tags;
@@ -6751,62 +6751,6 @@ function pano2vrSkin(player,base) {
 	this.addSkinHotspot=function(hotspot) {
 		return new SkinHotspotClass(me,hotspot);
 	}
-	function SkinElement_marker_active_Class(skinObj,ggParent) {
-		var me=this;
-		var flag=false;
-		this.player=skinObj.player;
-		this.skin=skinObj;
-		this.ggParent=ggParent;
-		var nodeId=ggParent.ggElementNodeId();
-		this.ggNodeId=nodeId;
-		this.ggUserdata=this.skin.player.getNodeUserdata(nodeId);
-		this.elementMouseDown=[];
-		this.elementMouseOver=[];
-		
-		this.findElements=function(id,regex) {
-			return me.skin.findElements(id,regex);
-		}
-		
-		this._marker_active=document.createElement('div');
-		this._marker_active__img=document.createElement('img');
-		this._marker_active__img.className='ggskin ggskin_svg';
-		this._marker_active__img.setAttribute('src',basePath + 'images/marker_active.svg');
-		this._marker_active__img.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;');
-		this._marker_active__img['ondragstart']=function() { return false; };
-		this._marker_active.appendChild(this._marker_active__img);
-		this._marker_active.ggId="marker_active";
-		this._marker_active.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
-		this._marker_active.ggVisible=true;
-		this._marker_active.className='ggskin ggskin_svg ';
-		this._marker_active.ggType='svg';
-		hs ='';
-		hs+='height : 20px;';
-		hs+='left : 106px;';
-		hs+='position : absolute;';
-		hs+='top : 0px;';
-		hs+='visibility : inherit;';
-		hs+='width : 20px;';
-		hs+='pointer-events:auto;';
-		this._marker_active.setAttribute('style',hs);
-		this._marker_active.style[domTransform + 'Origin']='50% 50%';
-		me._marker_active.ggIsActive=function() {
-			if ((this.parentNode) && (this.parentNode.ggIsActive)) {
-				return this.parentNode.ggIsActive();
-			}
-			return false;
-		}
-		me._marker_active.ggElementNodeId=function() {
-			if ((this.parentNode) && (this.parentNode.ggElementNodeId)) {
-				return this.parentNode.ggElementNodeId();
-			}
-			return me.ggNodeId;
-		}
-		this._marker_active.ggUpdatePosition=function (useTransition) {
-		}
-		this._marker_active.ggNodeChangeMain=function() {
-		}
-		return this._marker_active;
-	};
 	function SkinElement_marker_normal_Class(skinObj,ggParent) {
 		var me=this;
 		var flag=false;
@@ -6836,12 +6780,12 @@ function pano2vrSkin(player,base) {
 		this._marker_normal.className='ggskin ggskin_svg ';
 		this._marker_normal.ggType='svg';
 		hs ='';
-		hs+='height : 20px;';
+		hs+='height : 50px;';
 		hs+='left : 140px;';
 		hs+='position : absolute;';
 		hs+='top : 0px;';
 		hs+='visibility : inherit;';
-		hs+='width : 20px;';
+		hs+='width : 40px;';
 		hs+='pointer-events:auto;';
 		this._marker_normal.setAttribute('style',hs);
 		this._marker_normal.style[domTransform + 'Origin']='50% 50%';
@@ -6862,6 +6806,62 @@ function pano2vrSkin(player,base) {
 		this._marker_normal.ggNodeChangeMain=function() {
 		}
 		return this._marker_normal;
+	};
+	function SkinElement_marker_active_Class(skinObj,ggParent) {
+		var me=this;
+		var flag=false;
+		this.player=skinObj.player;
+		this.skin=skinObj;
+		this.ggParent=ggParent;
+		var nodeId=ggParent.ggElementNodeId();
+		this.ggNodeId=nodeId;
+		this.ggUserdata=this.skin.player.getNodeUserdata(nodeId);
+		this.elementMouseDown=[];
+		this.elementMouseOver=[];
+		
+		this.findElements=function(id,regex) {
+			return me.skin.findElements(id,regex);
+		}
+		
+		this._marker_active=document.createElement('div');
+		this._marker_active__img=document.createElement('img');
+		this._marker_active__img.className='ggskin ggskin_svg';
+		this._marker_active__img.setAttribute('src',basePath + 'images/marker_active.svg');
+		this._marker_active__img.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;');
+		this._marker_active__img['ondragstart']=function() { return false; };
+		this._marker_active.appendChild(this._marker_active__img);
+		this._marker_active.ggId="marker_active";
+		this._marker_active.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
+		this._marker_active.ggVisible=true;
+		this._marker_active.className='ggskin ggskin_svg ';
+		this._marker_active.ggType='svg';
+		hs ='';
+		hs+='height : 50px;';
+		hs+='left : 106px;';
+		hs+='position : absolute;';
+		hs+='top : 0px;';
+		hs+='visibility : inherit;';
+		hs+='width : 40px;';
+		hs+='pointer-events:auto;';
+		this._marker_active.setAttribute('style',hs);
+		this._marker_active.style[domTransform + 'Origin']='50% 50%';
+		me._marker_active.ggIsActive=function() {
+			if ((this.parentNode) && (this.parentNode.ggIsActive)) {
+				return this.parentNode.ggIsActive();
+			}
+			return false;
+		}
+		me._marker_active.ggElementNodeId=function() {
+			if ((this.parentNode) && (this.parentNode.ggElementNodeId)) {
+				return this.parentNode.ggElementNodeId();
+			}
+			return me.ggNodeId;
+		}
+		this._marker_active.ggUpdatePosition=function (useTransition) {
+		}
+		this._marker_active.ggNodeChangeMain=function() {
+		}
+		return this._marker_active;
 	};
 	this.addSkin();
 };
