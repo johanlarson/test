@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig rev="15996" version="5.2.4">
+<pano2vrconfig version="5.2.4" rev="15996">
   <tour>
     <panorama>
       <id>node1</id>
@@ -704,7 +704,7 @@
           <polygon/>
           <type>point</type>
           <id>Point01</id>
-          <title>Outside dive shed</title>
+          <title>Arrival Point</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node1}</url>
@@ -1562,7 +1562,7 @@
         <hotspotstyle/>
         <tilesize>1936</tilesize>
         <filename>docs/pano.xml</filename>
-        <skinfile>CROTRDraftSkins/silhouetteCROTRFinalDraftSkinMapCircleIcons.ggsk</skinfile>
+        <skinfile>$d/CROTRDraftSkins/silhouetteCROTRFinalDraftSkinMapCircleIcons.ggsk</skinfile>
       </htmlcss>
     </output>
     <streetview/>
