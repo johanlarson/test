@@ -149,8 +149,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>142.22</pan>
-            <tilt>-4.43</tilt>
+            <pan>141.75</pan>
+            <tilt>-3.75</tilt>
           </position>
           <next>
             <pan>0</pan>
@@ -159,7 +159,7 @@
           </next>
           <polygon/>
           <type>point</type>
-          <id>Clam garden</id>
+          <id>Point02</id>
           <title>Clam garden</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
@@ -1566,6 +1566,8 @@
       <userdata>
         <datetime>14/5/18 3:20 PM</datetime>
         <tags>images-panoramas</tags>
+        <title>Clam garden</title>
+        <altitude>-10000</altitude>
       </userdata>
       <floorplans/>
       <hotspots>
