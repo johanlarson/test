@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig version="5.2.4" rev="15996">
+<pano2vrconfig rev="15998" version="5.2.5">
   <tour>
     <panorama>
       <id>node1</id>
       <input>
         <patch/>
         <type>auto</type>
-        <filename>/Users/jc151664/Google Drive/Classroom on the Reef/Virtual Tour/images-panoramas/Outside diveshed2.jpg</filename>
+        <filename>/Users/jc151664/Google Drive/JCU Work/E-Research/Classroom on the Reef/Virtual Tour/images-panoramas/Outside diveshed2.jpg</filename>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
       </input>
@@ -147,6 +147,25 @@
           <url>{node12}</url>
           <autoplace>0</autoplace>
         </hotspot>
+        <hotspot>
+          <position>
+            <pan>141.75</pan>
+            <tilt>-3.75</tilt>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point02</id>
+          <title>Clam garden</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node18}</url>
+          <autoplace>0</autoplace>
+        </hotspot>
       </hotspots>
       <streetview/>
       <streetviewproject/>
@@ -167,7 +186,7 @@
           </videorect>
           <type>image</type>
           <id>researchStationGroupPhoto</id>
-          <filename>/Users/jc151664/Google Drive/Classroom on the Reef/Virtual Tour/photos/researchStationGroupPhoto-compressor.jpg</filename>
+          <filename>/Users/jc151664/Google Drive/JCU Work/E-Research/Classroom on the Reef/Virtual Tour/photos/researchStationGroupPhoto-compressor.jpg</filename>
           <mode>0</mode>
           <pansize>10</pansize>
           <tiltsize>10</tiltsize>
@@ -187,7 +206,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>/Users/jc151664/Google Drive/Classroom on the Reef/Virtual Tour/images-panoramas/raceways with wetlab and diveshed in background.jpg</filename>
+        <filename>/Users/jc151664/Google Drive/JCU Work/E-Research/Classroom on the Reef/Virtual Tour/images-panoramas/raceways with wetlab and diveshed in background.jpg</filename>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
       </input>
@@ -299,7 +318,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>/Users/jc151664/Google Drive/Classroom on the Reef/Virtual Tour/images-panoramas/wetlab.jpg</filename>
+        <filename>/Users/jc151664/Google Drive/JCU Work/E-Research/Classroom on the Reef/Virtual Tour/images-panoramas/wetlab.jpg</filename>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
       </input>
@@ -410,7 +429,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>/Users/jc151664/Google Drive/Classroom on the Reef/Virtual Tour/images-panoramas/Drylab.jpg</filename>
+        <filename>/Users/jc151664/Google Drive/JCU Work/E-Research/Classroom on the Reef/Virtual Tour/images-panoramas/Drylab.jpg</filename>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
       </input>
@@ -502,7 +521,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>/Users/jc151664/Google Drive/Classroom on the Reef/Virtual Tour/images-panoramas/Microscope room.jpg</filename>
+        <filename>/Users/jc151664/Google Drive/JCU Work/E-Research/Classroom on the Reef/Virtual Tour/images-panoramas/Microscope room.jpg</filename>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
       </input>
@@ -575,7 +594,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>/Users/jc151664/Google Drive/Classroom on the Reef/Virtual Tour/images-panoramas/Lecture theatre.jpg</filename>
+        <filename>/Users/jc151664/Google Drive/JCU Work/E-Research/Classroom on the Reef/Virtual Tour/images-panoramas/Lecture theatre.jpg</filename>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
       </input>
@@ -648,7 +667,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>/Users/jc151664/Google Drive/Classroom on the Reef/Virtual Tour/images-panoramas/Dive shed.jpg</filename>
+        <filename>/Users/jc151664/Google Drive/JCU Work/E-Research/Classroom on the Reef/Virtual Tour/images-panoramas/Dive shed.jpg</filename>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
       </input>
@@ -741,7 +760,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>/Users/jc151664/Google Drive/Classroom on the Reef/Virtual Tour/images-panoramas/Challenger 4 with Crew.jpg</filename>
+        <filename>/Users/jc151664/Google Drive/JCU Work/E-Research/Classroom on the Reef/Virtual Tour/images-panoramas/Challenger 4 with Crew.jpg</filename>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
       </input>
@@ -815,7 +834,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>/Users/jc151664/Google Drive/Classroom on the Reef/Virtual Tour/images-panoramas/mudflat outside dive shed (office visible to left, dive shed on right).jpg</filename>
+        <filename>/Users/jc151664/Google Drive/JCU Work/E-Research/Classroom on the Reef/Virtual Tour/images-panoramas/mudflat outside dive shed (office visible to left, dive shed on right).jpg</filename>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
       </input>
@@ -907,7 +926,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>/Users/jc151664/Google Drive/Classroom on the Reef/Virtual Tour/images-panoramas/Mudflat outside Havannah (havannah in background).jpg</filename>
+        <filename>/Users/jc151664/Google Drive/JCU Work/E-Research/Classroom on the Reef/Virtual Tour/images-panoramas/Mudflat outside Havannah (havannah in background).jpg</filename>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
       </input>
@@ -999,7 +1018,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>/Users/jc151664/Google Drive/Classroom on the Reef/Virtual Tour/images-panoramas/Havanna.jpg</filename>
+        <filename>/Users/jc151664/Google Drive/JCU Work/E-Research/Classroom on the Reef/Virtual Tour/images-panoramas/Havanna.jpg</filename>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
       </input>
@@ -1110,7 +1129,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>/Users/jc151664/Google Drive/Classroom on the Reef/Virtual Tour/images-panoramas/Havannah room.jpg</filename>
+        <filename>/Users/jc151664/Google Drive/JCU Work/E-Research/Classroom on the Reef/Virtual Tour/images-panoramas/Havannah room.jpg</filename>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
       </input>
@@ -1183,7 +1202,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>/Users/jc151664/Google Drive/Classroom on the Reef/Virtual Tour/images-panoramas/Pelorous - outside.jpg</filename>
+        <filename>/Users/jc151664/Google Drive/JCU Work/E-Research/Classroom on the Reef/Virtual Tour/images-panoramas/Pelorous - outside.jpg</filename>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
       </input>
@@ -1294,7 +1313,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>/Users/jc151664/Google Drive/Classroom on the Reef/Virtual Tour/images-panoramas/Pelorous veranda.jpg</filename>
+        <filename>/Users/jc151664/Google Drive/JCU Work/E-Research/Classroom on the Reef/Virtual Tour/images-panoramas/Pelorous veranda.jpg</filename>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
       </input>
@@ -1385,7 +1404,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>/Users/jc151664/Google Drive/Classroom on the Reef/Virtual Tour/images-panoramas/Pelorous kitchen.jpg</filename>
+        <filename>/Users/jc151664/Google Drive/JCU Work/E-Research/Classroom on the Reef/Virtual Tour/images-panoramas/Pelorous kitchen.jpg</filename>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
       </input>
@@ -1459,7 +1478,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>/Users/jc151664/Google Drive/Classroom on the Reef/Virtual Tour/images-panoramas/The Point.jpg</filename>
+        <filename>/Users/jc151664/Google Drive/JCU Work/E-Research/Classroom on the Reef/Virtual Tour/images-panoramas/The Point.jpg</filename>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
       </input>
@@ -1529,6 +1548,55 @@
       <id>node17</id>
     </panorama>
     <start>node1</start>
+    <panorama>
+      <input>
+        <patch/>
+        <type>auto</type>
+        <filename>images-panoramas/Clam garden.jpg</filename>
+        <levelpitch>0</levelpitch>
+        <levelroll>0</levelroll>
+      </input>
+      <viewingparameter>
+        <pan/>
+        <tilt/>
+        <fov/>
+        <flyinstart/>
+        <pannorth>0</pannorth>
+      </viewingparameter>
+      <userdata>
+        <datetime>14/5/18 3:20 PM</datetime>
+        <tags>images-panoramas</tags>
+        <title>Clam garden</title>
+        <altitude>-10000</altitude>
+      </userdata>
+      <floorplans/>
+      <hotspots>
+        <hotspot>
+          <position>
+            <pan>-7.45</pan>
+            <tilt>3.29</tilt>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point01</id>
+          <title>Arrival Point</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node1}</url>
+          <autoplace>0</autoplace>
+        </hotspot>
+      </hotspots>
+      <output/>
+      <streetview/>
+      <streetviewproject/>
+      <sounds/>
+      <id>node18</id>
+    </panorama>
   </tour>
   <panorama>
     <id>master</id>

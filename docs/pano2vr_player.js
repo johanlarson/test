@@ -1,5 +1,5 @@
 //////////////////////////////////////////////////////////////////////
-// Pano2VR 5.2.4/15996 HTML5/CSS3 & WebGL Panorama Player           //
+// Pano2VR 5.2.5/15998 HTML5/CSS3 & WebGL Panorama Player           //
 // License: David Beitey                                            //
 // (c) 2018, Garden Gnome Software, http://ggnome.com               //
 //////////////////////////////////////////////////////////////////////
