@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 5.2.5/15998
 // Filename: silhouetteCROTRFinalDraftSkinMapCircleIcons.ggsk
-// Generated Thu Jun 14 11:56:22 2018
+// Generated Thu Jun 14 12:08:22 2018
 
 function pano2vrSkin(player,base) {
 	var ggSkinVars = [];
