@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tour apprev="18080" start="node1" appversion="6.1.13">
-  <panorama id="node1">
+  <panorama id="node1" hideabout="1">
     <input overlap="1" width="1520" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0.968197" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="-0.0178289">
       <level predecode="0" preload="0" width="1520" height="1520"/>
       <level predecode="0" preload="0" width="760" height="760"/>
@@ -29,11 +29,11 @@
       <hotspot skinid="ht_node" description="" pan="-89.12" tilt="1.4" id="Point03" title="Communal area" url="{node20}" target=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="1" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="1" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="1"/>
   </panorama>
-  <panorama id="node2">
+  <panorama id="node2" hideabout="1">
     <input overlap="1" width="1936" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1936" leveltilesize="510" levelbias="0.400" levelingpitch="0">
       <level predecode="0" preload="0" width="1936" height="1936"/>
       <level predecode="0" preload="0" width="968" height="968"/>
@@ -55,11 +55,11 @@
       <hotspot skinid="ht_node" description="" pan="51.1" tilt="0.52" id="Point03" title="Dive shed" url="{node7}" target=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="1" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="1" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="1"/>
   </panorama>
-  <panorama id="node3">
+  <panorama id="node3" hideabout="1">
     <input overlap="1" width="1520" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
       <level predecode="0" preload="0" width="1520" height="1520"/>
       <level predecode="0" preload="0" width="760" height="760"/>
@@ -83,11 +83,11 @@
       <hotspot skinid="ht_node" description="" pan="-330.3" tilt="-4.39" id="Point05" title="Arrival point" url="{node1}" target=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="1" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="1" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="1"/>
   </panorama>
-  <panorama id="node4">
+  <panorama id="node4" hideabout="1">
     <input overlap="1" width="1936" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1936" leveltilesize="510" levelbias="0.400" levelingpitch="0">
       <level predecode="0" preload="0" width="1936" height="1936"/>
       <level predecode="0" preload="0" width="968" height="968"/>
@@ -108,11 +108,11 @@
       <hotspot skinid="ht_node" description="" pan="-149.79" tilt="-4.76" id="Point02" title="Microscope room" url="{node5}" target=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="1" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="1" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="1"/>
   </panorama>
-  <panorama id="node5">
+  <panorama id="node5" hideabout="1">
     <input overlap="1" width="1936" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1936" leveltilesize="510" levelbias="0.400" levelingpitch="0">
       <level predecode="0" preload="0" width="1936" height="1936"/>
       <level predecode="0" preload="0" width="968" height="968"/>
@@ -132,11 +132,11 @@
       <hotspot skinid="ht_node" description="" pan="51.42" tilt="-11.95" id="Point01" title="Drylab" url="{node4}" target=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="1" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="1" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="1"/>
   </panorama>
-  <panorama id="node6">
+  <panorama id="node6" hideabout="1">
     <input overlap="1" width="1936" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1936" leveltilesize="510" levelbias="0.400" levelingpitch="0">
       <level predecode="0" preload="0" width="1936" height="1936"/>
       <level predecode="0" preload="0" width="968" height="968"/>
@@ -156,11 +156,11 @@
       <hotspot skinid="ht_node" description="" pan="-180.31" tilt="-14.54" id="Point01" title="Merchendise Store" url="{node39}" target=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="1" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="1" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="1"/>
   </panorama>
-  <panorama id="node7">
+  <panorama id="node7" hideabout="1">
     <input overlap="1" width="1520" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
       <level predecode="0" preload="0" width="1520" height="1520"/>
       <level predecode="0" preload="0" width="760" height="760"/>
@@ -182,11 +182,11 @@
       <hotspot skinid="ht_node" description="" pan="-53.97" tilt="4.24" id="Point03" title="Merchendise Store" url="{node39}" target=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="1" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="1" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="1"/>
   </panorama>
-  <panorama id="node9">
+  <panorama id="node9" hideabout="1">
     <input overlap="1" width="1936" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1936" leveltilesize="510" levelbias="0.400" levelingpitch="0">
       <level predecode="0" preload="0" width="1936" height="1936"/>
       <level predecode="0" preload="0" width="968" height="968"/>
@@ -206,11 +206,11 @@
       <hotspot skinid="ht_node" description="" pan="162.8" tilt="-9.76" id="Point01" title="Dungeness berth" url="{node30}" target=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="1" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="1" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="1"/>
   </panorama>
-  <panorama id="node10">
+  <panorama id="node10" hideabout="1">
     <input overlap="1" width="1936" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="8.581989999999999" height="1936" leveltilesize="510" levelbias="0.400" levelingpitch="-1.72332">
       <level predecode="0" preload="0" width="1936" height="1936"/>
       <level predecode="0" preload="0" width="968" height="968"/>
@@ -236,11 +236,11 @@
       <hotspot skinid="ht_node" description="" pan="-148.91" tilt="1.41" id="Point07" title="Dungeness Berth" url="{node30}" target=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="1" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="1" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="1"/>
   </panorama>
-  <panorama id="node11">
+  <panorama id="node11" hideabout="1">
     <input overlap="1" width="1936" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="4.68285" height="1936" leveltilesize="510" levelbias="0.400" levelingpitch="-5.47457">
       <level predecode="0" preload="0" width="1936" height="1936"/>
       <level predecode="0" preload="0" width="968" height="968"/>
@@ -261,11 +261,11 @@
       <hotspot skinid="ht_node" description="" pan="-5.48" tilt="2.3" id="Point03" title="Havannah house" url="{node12}" target=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="1" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="1" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="1"/>
   </panorama>
-  <panorama id="node12">
+  <panorama id="node12" hideabout="1">
     <input overlap="1" width="1520" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
       <level predecode="0" preload="0" width="1520" height="1520"/>
       <level predecode="0" preload="0" width="760" height="760"/>
@@ -288,11 +288,11 @@
       <hotspot skinid="ht_node" description="" pan="-175.02" tilt="11.23" id="Point04" title="Upstairs" url="{node36}" target=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="1" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="1" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="1"/>
   </panorama>
-  <panorama id="node13">
+  <panorama id="node13" hideabout="1">
     <input overlap="1" width="1520" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
       <level predecode="0" preload="0" width="1520" height="1520"/>
       <level predecode="0" preload="0" width="760" height="760"/>
@@ -312,11 +312,11 @@
       <hotspot skinid="ht_node" description="" pan="-202.86" tilt="-2.96" id="Point02" title="Havannah House downstairs" url="{node12}" target=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="1" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="1" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="1"/>
   </panorama>
-  <panorama id="node14">
+  <panorama id="node14" hideabout="1">
     <input overlap="1" width="1936" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1936" leveltilesize="510" levelbias="0.400" levelingpitch="0">
       <level predecode="0" preload="0" width="1936" height="1936"/>
       <level predecode="0" preload="0" width="968" height="968"/>
@@ -341,11 +341,11 @@
       <hotspot skinid="ht_node" description="" pan="-192.47" tilt="3.24" id="Point06" title="Pelorus Kitchen" url="{node16}" target=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="1" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="1" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="1"/>
   </panorama>
-  <panorama id="node15">
+  <panorama id="node15" hideabout="1">
     <input overlap="1" width="1936" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1936" leveltilesize="510" levelbias="0.400" levelingpitch="0">
       <level predecode="0" preload="0" width="1936" height="1936"/>
       <level predecode="0" preload="0" width="968" height="968"/>
@@ -367,11 +367,11 @@
       <hotspot skinid="ht_node" description="" pan="-300.22" tilt="-9" id="Point03" title="Accommodation" url="{node34}" target=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="1" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="1" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="1"/>
   </panorama>
-  <panorama id="node16">
+  <panorama id="node16" hideabout="1">
     <input overlap="1" width="1520" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
       <level predecode="0" preload="0" width="1520" height="1520"/>
       <level predecode="0" preload="0" width="760" height="760"/>
@@ -391,11 +391,11 @@
       <hotspot skinid="ht_node" description="" pan="250.36" tilt="-11.92" id="Point01" title="Pelorous house veranda" url="{node15}" target=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="1" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="1" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="1"/>
   </panorama>
-  <panorama id="node17">
+  <panorama id="node17" hideabout="1">
     <input overlap="1" width="1520" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
       <level predecode="0" preload="0" width="1520" height="1520"/>
       <level predecode="0" preload="0" width="760" height="760"/>
@@ -420,11 +420,11 @@
       <hotspot skinid="ht_node" description="" pan="-95.66" tilt="0.48" id="Point06" title="Dungeness Berth" url="{node30}" target=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="1" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="1" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="1"/>
   </panorama>
-  <panorama id="node18">
+  <panorama id="node18" hideabout="1">
     <input overlap="1" width="1936" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1936" leveltilesize="510" levelbias="0.400" levelingpitch="0">
       <level predecode="0" preload="0" width="1936" height="1936"/>
       <level predecode="0" preload="0" width="968" height="968"/>
@@ -447,11 +447,11 @@
       <hotspot skinid="ht_node" description="" pan="-323.82" tilt="1.99" id="Point04" title="Reef flat outside dive shed" url="{node10}" target=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="1" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="1" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="1"/>
   </panorama>
-  <panorama id="node19">
+  <panorama id="node19" hideabout="1">
     <input overlap="1" width="1520" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
       <level predecode="0" preload="0" width="1520" height="1520"/>
       <level predecode="0" preload="0" width="760" height="760"/>
@@ -473,11 +473,11 @@
       <hotspot skinid="ht_node" description="" pan="-46.02" tilt="4.86" id="Point03" title="Clam Garden" url="{node18}" target=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="1" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="1" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="1"/>
   </panorama>
-  <panorama id="node20">
+  <panorama id="node20" hideabout="1">
     <input overlap="1" width="1520" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
       <level predecode="0" preload="0" width="1520" height="1520"/>
       <level predecode="0" preload="0" width="760" height="760"/>
@@ -501,11 +501,11 @@
       <hotspot skinid="ht_node" description="" pan="-224.04" tilt="7.21" id="Point05" title="Havannah House" url="{node12}" target=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="1" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="1" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="1"/>
   </panorama>
-  <panorama id="node21">
+  <panorama id="node21" hideabout="1">
     <input overlap="1" width="1520" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
       <level predecode="0" preload="0" width="1520" height="1520"/>
       <level predecode="0" preload="0" width="760" height="760"/>
@@ -527,11 +527,11 @@
       <hotspot skinid="ht_node" distance="12.7152" description="" pan="-347.23" tilt="-18.48" id="Point03" title="Communal outside" url="{node20}" target=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="1" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="1" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="1"/>
   </panorama>
-  <panorama id="node22">
+  <panorama id="node22" hideabout="1">
     <input overlap="1" width="1520" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
       <level predecode="0" preload="0" width="1520" height="1520"/>
       <level predecode="0" preload="0" width="760" height="760"/>
@@ -554,11 +554,11 @@
       <hotspot skinid="ht_url" description="" pan="-110.47" tilt="-38.39" id="Point04" title="Live Beach Camera" url="https://streamvdr-cns01.jcu.edu.au/eResearch/BeachCam.stream/playlist.m3u8" target="_blank"/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="1" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="1" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="1"/>
   </panorama>
-  <panorama id="node24">
+  <panorama id="node24" hideabout="1">
     <input overlap="1" width="1520" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
       <level predecode="0" preload="0" width="1520" height="1520"/>
       <level predecode="0" preload="0" width="760" height="760"/>
@@ -579,11 +579,11 @@
       <hotspot skinid="ht_node" distance="503.589" description="" pan="-357.8" tilt="-7.5" id="Point02" title="Wildside Beach" url="{node31}" target=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="1" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="1" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="1"/>
   </panorama>
-  <panorama id="node25">
+  <panorama id="node25" hideabout="1">
     <input overlap="1" width="1520" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
       <level predecode="0" preload="0" width="1520" height="1520"/>
       <level predecode="0" preload="0" width="760" height="760"/>
@@ -604,11 +604,11 @@
       <hotspot skinid="ht_node" distance="34.0096" description="" pan="-195.15" tilt="-5.88" id="Point02" title="Wildside Beach" url="{node31}" target=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="1" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="1" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="1"/>
   </panorama>
-  <panorama id="node26">
+  <panorama id="node26" hideabout="1">
     <input overlap="1" width="1520" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
       <level predecode="0" preload="0" width="1520" height="1520"/>
       <level predecode="0" preload="0" width="760" height="760"/>
@@ -627,11 +627,11 @@
       <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="1" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="1" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="1"/>
   </panorama>
-  <panorama id="node27">
+  <panorama id="node27" hideabout="1">
     <input overlap="1" width="1520" leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
       <level predecode="0" preload="0" width="1520" height="1520"/>
       <level predecode="0" preload="0" width="760" height="760"/>
@@ -653,11 +653,11 @@
       <hotspot skinid="ht_url" description="" pan="-169.18" tilt="-0.47" id="Point03" title="Wildside Live UW camer" url="https://streamvdr-cns01.jcu.edu.au/eResearch/ORS-Farside-Underwater.stream/playlist.m3u8" target="_blank"/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="1" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="1" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="1"/>
   </panorama>
-  <panorama id="node28">
+  <panorama id="node28" hideabout="1">
     <input overlap="1" width="1520" leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
       <level predecode="0" preload="0" width="1520" height="1520"/>
       <level predecode="0" preload="0" width="760" height="760"/>
@@ -679,11 +679,11 @@
       <hotspot skinid="ht_node" description="" pan="-313.86" tilt="11.44" id="Point03" title="" url="" target=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="1" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="1" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="1"/>
   </panorama>
-  <panorama id="node29">
+  <panorama id="node29" hideabout="1">
     <input overlap="1" width="1520" leveltileurl="tiles/node29/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
       <level predecode="0" preload="0" width="1520" height="1520"/>
       <level predecode="0" preload="0" width="760" height="760"/>
@@ -707,11 +707,11 @@
       <hotspot skinid="ht_node" description="" pan="-258.86" tilt="-0.93" id="Point05" title="Giant Clam garden" url="{node18}" target=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="1" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="1" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="1"/>
   </panorama>
-  <panorama id="node30">
+  <panorama id="node30" hideabout="1">
     <input overlap="1" width="1520" leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
       <level predecode="0" preload="0" width="1520" height="1520"/>
       <level predecode="0" preload="0" width="760" height="760"/>
@@ -732,11 +732,11 @@
       <hotspot skinid="ht_node" description="" pan="-30.09" tilt="1.81" id="Point02" title="Orpheus Island" url="{node1}" target=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="1" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="1" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="1"/>
   </panorama>
-  <panorama id="node31">
+  <panorama id="node31" hideabout="1">
     <input overlap="1" width="1520" leveltileurl="tiles/node31/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
       <level predecode="0" preload="0" width="1520" height="1520"/>
       <level predecode="0" preload="0" width="760" height="760"/>
@@ -760,11 +760,11 @@
       <hotspot skinid="ht_node" distance="14.975" description="" pan="-267.28" tilt="-10.64" id="Point05" title="Wildside shoreline" url="{node27}" target=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="1" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="1" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="1"/>
   </panorama>
-  <panorama id="node32">
+  <panorama id="node32" hideabout="1">
     <input overlap="1" width="1520" leveltileurl="tiles/node32/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
       <level predecode="0" preload="0" width="1520" height="1520"/>
       <level predecode="0" preload="0" width="760" height="760"/>
@@ -784,11 +784,11 @@
       <hotspot skinid="ht_node" distance="19.8714" description="" pan="-119.02" tilt="1.59" id="Point01" title="Veranda" url="{node36}" target=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="1" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="1" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="1"/>
   </panorama>
-  <panorama id="node33">
+  <panorama id="node33" hideabout="1">
     <input overlap="1" width="1520" leveltileurl="tiles/node33/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
       <level predecode="0" preload="0" width="1520" height="1520"/>
       <level predecode="0" preload="0" width="760" height="760"/>
@@ -809,11 +809,11 @@
       <hotspot skinid="ht_node" distance="26.5436" description="" pan="-138.98" tilt="0.22" id="Point02" title="Reef-flat outside Havannah" url="{node37}" target=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="1" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="1" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="1"/>
   </panorama>
-  <panorama id="node34">
+  <panorama id="node34" hideabout="1">
     <input overlap="1" width="1520" leveltileurl="tiles/node34/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
       <level predecode="0" preload="0" width="1520" height="1520"/>
       <level predecode="0" preload="0" width="760" height="760"/>
@@ -833,11 +833,11 @@
       <hotspot skinid="ht_node" description="" pan="-259.11" tilt="-8.2" id="Point01" title="Pelorus Veranda" url="{node15}" target=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="1" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="1" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="1"/>
   </panorama>
-  <panorama id="node35">
+  <panorama id="node35" hideabout="1">
     <input overlap="1" width="1520" leveltileurl="tiles/node35/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
       <level predecode="0" preload="0" width="1520" height="1520"/>
       <level predecode="0" preload="0" width="760" height="760"/>
@@ -856,11 +856,11 @@
       <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="1" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="1" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="1"/>
   </panorama>
-  <panorama id="node36">
+  <panorama id="node36" hideabout="1">
     <input overlap="1" width="1520" leveltileurl="tiles/node36/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
       <level predecode="0" preload="0" width="1520" height="1520"/>
       <level predecode="0" preload="0" width="760" height="760"/>
@@ -877,17 +877,17 @@
     <hotspots width="180" wordwrap="1" height="20">
       <label backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000" width="180" borderradius="1" textalpha="1" enabled="1" background="1" borderalpha="1" wordwrap="1" border="1" height="20" backgroundalpha="1"/>
       <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
-      <hotspot skinid="ht_node" description="" pan="-6.01" tilt="-3.9" id="Point01" title="Reef Flat" url="{node11}" target=""/>
+      <hotspot skinid="ht_node" distance="94.5177" description="" pan="-6.01" tilt="-3.9" id="Point01" title="Reef Flat" url="{node37}" target=""/>
       <hotspot skinid="ht_node" distance="29.2952" description="" pan="-342.9" tilt="-11.25" id="Point02" title="Communal" url="{node20}" target=""/>
       <hotspot skinid="ht_node" description="" pan="-152.1" tilt="-21.38" id="Point03" title="Havannah House downstairs" url="{node12}" target=""/>
       <hotspot skinid="ht_node" distance="19.8714" description="" pan="-264.22" tilt="-5.74" id="Point04" title="Havannah House room" url="{node32}" target=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="1" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="1" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="1"/>
   </panorama>
-  <panorama id="node37">
+  <panorama id="node37" hideabout="1">
     <input overlap="1" width="1520" leveltileurl="tiles/node37/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
       <level predecode="0" preload="0" width="1520" height="1520"/>
       <level predecode="0" preload="0" width="760" height="760"/>
@@ -912,11 +912,11 @@
       <hotspot skinid="ht_node" distance="34.5274" description="" pan="-135.89" tilt="2.46" id="Point06" title="Mangroves" url="{node40}" target=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="1" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="1" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="1"/>
   </panorama>
-  <panorama id="node38">
+  <panorama id="node38" hideabout="1">
     <input overlap="1" width="1520" leveltileurl="tiles/node38/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
       <level predecode="0" preload="0" width="1520" height="1520"/>
       <level predecode="0" preload="0" width="760" height="760"/>
@@ -937,11 +937,11 @@
       <hotspot skinid="ht_node" distance="134.922" description="" pan="-277.74" tilt="-3.71" id="Point02" title="Wildside shore" url="{node27}" target=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="1" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="1" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="1"/>
   </panorama>
-  <panorama id="node39">
+  <panorama id="node39" hideabout="1">
     <input overlap="1" width="1520" leveltileurl="tiles/node39/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
       <level predecode="0" preload="0" width="1520" height="1520"/>
       <level predecode="0" preload="0" width="760" height="760"/>
@@ -962,11 +962,11 @@
       <hotspot skinid="ht_node" description="" pan="-332.75" tilt="-2.79" id="Point02" title="Dive Shed" url="{node7}" target=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="1" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="1" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="1"/>
   </panorama>
-  <panorama id="node40">
+  <panorama id="node40" hideabout="1">
     <input overlap="1" width="1520" leveltileurl="tiles/node40/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
       <level predecode="0" preload="0" width="1520" height="1520"/>
       <level predecode="0" preload="0" width="760" height="760"/>
@@ -989,9 +989,9 @@
       <hotspot skinid="ht_node" distance="34.5274" description="" pan="-188.08" tilt="-0.57" id="Point04" title="Reef flat" url="{node37}" target=""/>
     </hotspots>
     <media/>
-    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="1" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="1" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="1"/>
   </panorama>
   <masternode>
     <userdata description="" datetime="" source="" tags="" latitude="" longitude="" author="" title="" customnodeid="" info="" copyright="" heading="0" comment="" nodeid="master"/>
