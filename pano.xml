@@ -1,0 +1,999 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="18080" start="node1" appversion="6.1.13">
+  <panorama id="node1">
+    <input overlap="1" width="1520" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0.968197" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="-0.0178289">
+      <level predecode="0" preload="0" width="1520" height="1520"/>
+      <level predecode="0" preload="0" width="760" height="760"/>
+      <level predecode="1" preload="1" width="380" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="9.76" tilt="0.37" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120"/>
+    </view>
+    <userdata description="" datetime="5/3/18 1:00 PM" source="" tags="images|diveshedgroup" latitude="" longitude="" author="" title="Arrival Point" customnodeid="" info="" copyright="" heading="0" comment="" nodeid="node1"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000" width="180" borderradius="1" textalpha="1" enabled="1" background="1" borderalpha="1" wordwrap="1" border="1" height="20" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" pan="32.18" tilt="5.85" id="Point01" title="Raceways" url="{node2}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="5.84" tilt="0.78" id="Point04" title="Dive shed" url="{node7}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="-164.8" tilt="-0.22" id="Point05" title="Reef-flat outside of dive shed" url="{node10}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="-84.02" tilt="5.16" id="Point06" title="Havanna house" url="{node12}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="141.84" tilt="1.18" id="Point02" title="Clam garden" url="{node18}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="-97.35" tilt="1.59" id="Point07" title="Volleyball court" url="{node28}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="-274.22" tilt="0.55" id="Point08" title="Office" url="{node19}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="-345.23" tilt="5.35" id="Point09" title="Wetlab" url="{node3}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="-3.28" tilt="6.82" id="Point10" title="Lecture Theatre" url="{node6}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="-89.12" tilt="1.4" id="Point03" title="Communal area" url="{node20}" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input overlap="1" width="1936" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1936" leveltilesize="510" levelbias="0.400" levelingpitch="0">
+      <level predecode="0" preload="0" width="1936" height="1936"/>
+      <level predecode="0" preload="0" width="968" height="968"/>
+      <level predecode="1" preload="1" width="484" height="484"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="94.1329" tilt="-7.41253" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120"/>
+    </view>
+    <userdata description="" datetime="6/3/18 8:13 AM" source="" tags="images|diveshedgroup" latitude="" longitude="" author="" title="Raceways" customnodeid="" info="" copyright="" heading="0" comment="" nodeid="node2"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000" width="180" borderradius="1" textalpha="1" enabled="1" background="1" borderalpha="1" wordwrap="1" border="1" height="20" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" pan="20.5" tilt="1.85" id="Point01" title="Outside diveshed" url="{node1}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="132.51" tilt="-0.9" id="Point02" title="Wetlab" url="{node3}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="51.1" tilt="0.52" id="Point03" title="Dive shed" url="{node7}" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input overlap="1" width="1520" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
+      <level predecode="0" preload="0" width="1520" height="1520"/>
+      <level predecode="0" preload="0" width="760" height="760"/>
+      <level predecode="1" preload="1" width="380" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="149.601" tilt="-9.77774" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120"/>
+    </view>
+    <userdata description="" datetime="6/3/18 8:11 AM" source="" tags="images|diveshedgroup" latitude="" longitude="" author="" title="Wetlab" customnodeid="" info="" copyright="" heading="0" comment="" nodeid="node3"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000" width="180" borderradius="1" textalpha="1" enabled="1" background="1" borderalpha="1" wordwrap="1" border="1" height="20" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" pan="322.29" tilt="-16.57" id="Point01" title="Raceways" url="{node2}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="91.2" tilt="-1.56" id="Point02" title="Lecture theatre" url="{node6}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="163.54" tilt="1.32" id="Point03" title="Drylab" url="{node4}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="-303.96" tilt="-4.06" id="Point04" title="Dive Shed" url="{node7}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="-330.3" tilt="-4.39" id="Point05" title="Arrival point" url="{node1}" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input overlap="1" width="1936" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1936" leveltilesize="510" levelbias="0.400" levelingpitch="0">
+      <level predecode="0" preload="0" width="1936" height="1936"/>
+      <level predecode="0" preload="0" width="968" height="968"/>
+      <level predecode="1" preload="1" width="484" height="484"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="87.0547" tilt="-18.6957" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120"/>
+    </view>
+    <userdata description="" datetime="22/3/18 2:17 PM" source="" tags="images|diveshedgroup" latitude="" longitude="" author="" title="Drylab" customnodeid="" info="" copyright="" heading="0" comment="" nodeid="node4"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000" width="180" borderradius="1" textalpha="1" enabled="1" background="1" borderalpha="1" wordwrap="1" border="1" height="20" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" pan="-91.77" tilt="-18.91" id="Point01" title="Wetlab" url="{node3}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="-149.79" tilt="-4.76" id="Point02" title="Microscope room" url="{node5}" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input overlap="1" width="1936" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1936" leveltilesize="510" levelbias="0.400" levelingpitch="0">
+      <level predecode="0" preload="0" width="1936" height="1936"/>
+      <level predecode="0" preload="0" width="968" height="968"/>
+      <level predecode="1" preload="1" width="484" height="484"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-143.438" tilt="-15.3919" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120"/>
+    </view>
+    <userdata description="" datetime="22/3/18 2:18 PM" source="" tags="images|diveshedgroup" latitude="" longitude="" author="" title="Microscope room" customnodeid="" info="" copyright="" heading="0" comment="" nodeid="node5"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000" width="180" borderradius="1" textalpha="1" enabled="1" background="1" borderalpha="1" wordwrap="1" border="1" height="20" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" pan="51.42" tilt="-11.95" id="Point01" title="Drylab" url="{node4}" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input overlap="1" width="1936" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1936" leveltilesize="510" levelbias="0.400" levelingpitch="0">
+      <level predecode="0" preload="0" width="1936" height="1936"/>
+      <level predecode="0" preload="0" width="968" height="968"/>
+      <level predecode="1" preload="1" width="484" height="484"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="155.82" tilt="-31.27" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120"/>
+    </view>
+    <userdata description="" datetime="5/3/18 8:26 PM" source="" tags="images|diveshedgroup" latitude="" longitude="" author="" title="Lecture theatre" customnodeid="" info="" copyright="" heading="0" comment="" nodeid="node6"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000" width="180" borderradius="1" textalpha="1" enabled="1" background="1" borderalpha="1" wordwrap="1" border="1" height="20" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" pan="-180.31" tilt="-14.54" id="Point01" title="Merchendise Store" url="{node39}" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input overlap="1" width="1520" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
+      <level predecode="0" preload="0" width="1520" height="1520"/>
+      <level predecode="0" preload="0" width="760" height="760"/>
+      <level predecode="1" preload="1" width="380" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-60.48" tilt="-7.15" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120"/>
+    </view>
+    <userdata description="" datetime="6/3/18 7:55 AM" source="" tags="images|diveshedgroup" latitude="" longitude="" author="" title="Dive shed" customnodeid="" info="" copyright="" heading="0" comment="" nodeid="node7"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000" width="180" borderradius="1" textalpha="1" enabled="1" background="1" borderalpha="1" wordwrap="1" border="1" height="20" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" pan="-257.11" tilt="-5.71" id="Point01" title="Arrival Point" url="{node1}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="332.61" tilt="-0.45" id="Point02" title="Raceways" url="{node2}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="-53.97" tilt="4.24" id="Point03" title="Merchendise Store" url="{node39}" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input overlap="1" width="1936" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1936" leveltilesize="510" levelbias="0.400" levelingpitch="0">
+      <level predecode="0" preload="0" width="1936" height="1936"/>
+      <level predecode="0" preload="0" width="968" height="968"/>
+      <level predecode="1" preload="1" width="484" height="484"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-4.92557" tilt="-7.24051" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120"/>
+    </view>
+    <userdata description="" datetime="6/3/18 1:00 PM" source="" tags="images|diveshedgroup" latitude="" longitude="" author="" title="Challenger" customnodeid="" info="" copyright="" heading="0" comment="" nodeid="node9"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000" width="180" borderradius="1" textalpha="1" enabled="1" background="1" borderalpha="1" wordwrap="1" border="1" height="20" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" pan="162.8" tilt="-9.76" id="Point01" title="Dungeness berth" url="{node30}" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input overlap="1" width="1936" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="8.581989999999999" height="1936" leveltilesize="510" levelbias="0.400" levelingpitch="-1.72332">
+      <level predecode="0" preload="0" width="1936" height="1936"/>
+      <level predecode="0" preload="0" width="968" height="968"/>
+      <level predecode="1" preload="1" width="484" height="484"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-154.041" tilt="2.14439" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120"/>
+    </view>
+    <userdata description="" datetime="5/3/18 4:32 PM" source="" tags="images" latitude="" longitude="" author="" title="Reef-flat outside of dive shed" customnodeid="" info="" copyright="" heading="0" comment="" nodeid="node10"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000" width="180" borderradius="1" textalpha="1" enabled="1" background="1" borderalpha="1" wordwrap="1" border="1" height="20" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" pan="-32.25" tilt="-0.43" id="Point01" title="Arrival point" url="{node1}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="-113.77" tilt="-1.42" id="Point02" title="Reef-flat outside of Havannah house" url="{node37}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="-216.69" tilt="4.71" id="Point03" title="Clam garden" url="{node18}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="-326.31" tilt="3.96" id="Point04" title="Office" url="{node19}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="-135.06" tilt="0.32" id="Point05" title="The Point" url="{node17}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="-308.5" tilt="14.75" id="Point06" title="Top of Island" url="{node24}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="-148.91" tilt="1.41" id="Point07" title="Dungeness Berth" url="{node30}" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input overlap="1" width="1936" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="4.68285" height="1936" leveltilesize="510" levelbias="0.400" levelingpitch="-5.47457">
+      <level predecode="0" preload="0" width="1936" height="1936"/>
+      <level predecode="0" preload="0" width="968" height="968"/>
+      <level predecode="1" preload="1" width="484" height="484"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-48.8965" tilt="-6.66446" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120"/>
+    </view>
+    <userdata description="" datetime="5/3/18 4:37 PM" source="" tags="images" latitude="" longitude="" author="" title="Reef-flat outside of Havanna house" customnodeid="" info="" copyright="" heading="0" comment="" nodeid="node11"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000" width="180" borderradius="1" textalpha="1" enabled="1" background="1" borderalpha="1" wordwrap="1" border="1" height="20" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" pan="32.82" tilt="-0.63" id="Point02" title="Reef-flat outside of dive shed" url="{node10}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="-5.48" tilt="2.3" id="Point03" title="Havannah house" url="{node12}" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input overlap="1" width="1520" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
+      <level predecode="0" preload="0" width="1520" height="1520"/>
+      <level predecode="0" preload="0" width="760" height="760"/>
+      <level predecode="1" preload="1" width="380" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="9.71" tilt="-9.94" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120"/>
+    </view>
+    <userdata description="One of our two accommodation blocks, Havana House houses up to 48 guests in its eight rooms." datetime="6/3/18 12:54 PM" source="" tags="accomodationGroup|images" latitude="" longitude="" author="" title="Havanna House Downstairs" customnodeid="" info="" copyright="" heading="0" comment="" nodeid="node12"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000" width="180" borderradius="1" textalpha="1" enabled="1" background="1" borderalpha="1" wordwrap="1" border="1" height="20" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" pan="-3.13" tilt="-1.95" id="Point01" title="Reef-flat outside of Havannah house" url="{node37}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="-273.21" tilt="-0.14" id="Point02" title="Havannah room" url="{node13}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="-343.55" tilt="-4.54" id="Point03" title="Communal" url="{node20}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="-175.02" tilt="11.23" id="Point04" title="Upstairs" url="{node36}" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input overlap="1" width="1520" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
+      <level predecode="0" preload="0" width="1520" height="1520"/>
+      <level predecode="0" preload="0" width="760" height="760"/>
+      <level predecode="1" preload="1" width="380" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-47.83" tilt="-12.43" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120"/>
+    </view>
+    <userdata description="" datetime="6/3/18 12:53 PM" source="" tags="images|accomodationGroup" latitude="" longitude="" author="" title="Havannah House room" customnodeid="" info="" copyright="" heading="0" comment="" nodeid="node13"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000" width="180" borderradius="1" textalpha="1" enabled="1" background="1" borderalpha="1" wordwrap="1" border="1" height="20" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" pan="-202.86" tilt="-2.96" id="Point02" title="Havannah House downstairs" url="{node12}" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input overlap="1" width="1936" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1936" leveltilesize="510" levelbias="0.400" levelingpitch="0">
+      <level predecode="0" preload="0" width="1936" height="1936"/>
+      <level predecode="0" preload="0" width="968" height="968"/>
+      <level predecode="1" preload="1" width="484" height="484"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="164.9" tilt="-5.37" projection="4" fov="70"/>
+      <flyin pan="171.38" tilt="-1.24" projection="4" fov="70"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120"/>
+    </view>
+    <userdata description="" datetime="6/3/18 11:07 AM" source="" tags="images|accomodationGroup" latitude="" longitude="" author="" title="Pelorous House" customnodeid="" info="" copyright="" heading="0" comment="" nodeid="node14"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000" width="180" borderradius="1" textalpha="1" enabled="1" background="1" borderalpha="1" wordwrap="1" border="1" height="20" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" pan="182.58" tilt="2.03" id="Point02" title="Pelourus veranda" url="{node15}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="128.2" tilt="-3.91" id="Point03" title="The Point" url="{node17}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="-28.94" tilt="5.08" id="Point04" title="Communal outside" url="{node12}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="-52.46" tilt="10.28" id="Point01" title="Communal veranda" url="{node21}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="-154.48" tilt="6.73" id="Point05" title="Pelorus Accommodation" url="{node15}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="-192.47" tilt="3.24" id="Point06" title="Pelorus Kitchen" url="{node16}" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node15">
+    <input overlap="1" width="1936" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1936" leveltilesize="510" levelbias="0.400" levelingpitch="0">
+      <level predecode="0" preload="0" width="1936" height="1936"/>
+      <level predecode="0" preload="0" width="968" height="968"/>
+      <level predecode="1" preload="1" width="484" height="484"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-140.23" tilt="-18.69" projection="4" fov="70"/>
+      <flyin pan="-161.02" tilt="-23.73" projection="4" fov="70"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120"/>
+    </view>
+    <userdata description="" datetime="6/3/18 11:07 AM" source="" tags="images|accomodationGroup" latitude="" longitude="" author="" title="Pelorous House veranda" customnodeid="" info="" copyright="" heading="0" comment="" nodeid="node15"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000" width="180" borderradius="1" textalpha="1" enabled="1" background="1" borderalpha="1" wordwrap="1" border="1" height="20" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" pan="157.14" tilt="-12.03" id="Point01" title="Pelorous house" url="{node14}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="-152.33" tilt="-7.18" id="Point02" title="" url="{node16}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="-300.22" tilt="-9" id="Point03" title="Accommodation" url="{node34}" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node16">
+    <input overlap="1" width="1520" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
+      <level predecode="0" preload="0" width="1520" height="1520"/>
+      <level predecode="0" preload="0" width="760" height="760"/>
+      <level predecode="1" preload="1" width="380" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-56.18" tilt="-13.19" projection="4" fov="70"/>
+      <flyin pan="-57.25" tilt="-18.56" projection="4" fov="70"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120"/>
+    </view>
+    <userdata description="" datetime="6/3/18 11:08 AM" source="" tags="images|accomodationGroup" latitude="" longitude="" author="" title="Pelorous House kitchen" customnodeid="" info="" copyright="" heading="0" comment="" nodeid="node16"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000" width="180" borderradius="1" textalpha="1" enabled="1" background="1" borderalpha="1" wordwrap="1" border="1" height="20" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" pan="250.36" tilt="-11.92" id="Point01" title="Pelorous house veranda" url="{node15}" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node17">
+    <input overlap="1" width="1520" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
+      <level predecode="0" preload="0" width="1520" height="1520"/>
+      <level predecode="0" preload="0" width="760" height="760"/>
+      <level predecode="1" preload="1" width="380" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="129.85" tilt="-10.92" projection="4" fov="70"/>
+      <flyin pan="167.05" tilt="-13.65" projection="4" fov="70"/>
+      <min pan="0" tilt="-90" fov="5"/>
+      <max pan="360" tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120"/>
+    </view>
+    <userdata description="" datetime="6/3/18 11:19 AM" source="" tags="images" latitude="" longitude="" author="" title="The Point" customnodeid="" info="" copyright="" heading="0" comment="" nodeid="node17"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000" width="180" borderradius="1" textalpha="1" enabled="1" background="1" borderalpha="1" wordwrap="1" border="1" height="20" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" pan="-293.71" tilt="0.39" id="Point01" title="Pelorous house" url="{node14}" target=""/>
+      <hotspot skinid="ht_url" description="" pan="-335.94" tilt="4.65" id="Point02" title="Live Beach Camera" url="https://streamvdr-cns01.jcu.edu.au/eResearch/BeachCam.stream/playlist.m3u8" target="_blank"/>
+      <hotspot skinid="ht_node" description="" pan="-247.6" tilt="-4.11" id="Point03" title="UW camera cable" url="{node29}" target=""/>
+      <hotspot skinid="ht_url" description="" pan="-214.52" tilt="-0.5" id="Point04" title="Live UW camera" url="https://streamvdr-cns01.jcu.edu.au/eResearch/UnderwaterCam.stream/playlist.m3u8?" target="_blank"/>
+      <hotspot skinid="ht_node" description="" pan="-341.47" tilt="2.22" id="Point05" title="Beach Station" url="{node22}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="-95.66" tilt="0.48" id="Point06" title="Dungeness Berth" url="{node30}" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node18">
+    <input overlap="1" width="1936" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1936" leveltilesize="510" levelbias="0.400" levelingpitch="0">
+      <level predecode="0" preload="0" width="1936" height="1936"/>
+      <level predecode="0" preload="0" width="968" height="968"/>
+      <level predecode="1" preload="1" width="484" height="484"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="70"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120"/>
+    </view>
+    <userdata description="" datetime="14/5/18 3:20 PM" source="" tags="images-panoramas" latitude="" longitude="" author="" title="Clam garden" customnodeid="" info="" copyright="" heading="0" comment="" nodeid="node18"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000" width="180" borderradius="1" textalpha="1" enabled="1" background="1" borderalpha="1" wordwrap="1" border="1" height="20" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" pan="-309.74" tilt="2.91" id="Point01" title="Arrival Point" url="{node1}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="-7.41" tilt="3.09" id="Point02" title="The Point" url="{node17}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="-303.18" tilt="2.56" id="Point03" title="Office" url="{node19}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="-323.82" tilt="1.99" id="Point04" title="Reef flat outside dive shed" url="{node10}" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node19">
+    <input overlap="1" width="1520" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
+      <level predecode="0" preload="0" width="1520" height="1520"/>
+      <level predecode="0" preload="0" width="760" height="760"/>
+      <level predecode="1" preload="1" width="380" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120"/>
+    </view>
+    <userdata description="" datetime="24/6/19 1:56 AM" source="" tags="New 360's for virtual tour - JPG's" latitude="-18.612694" longitude="146.490472" author="" title="Office" customnodeid="" info="" altitude="8.40" copyright="" heading="0" comment="" nodeid="node19"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000" width="180" borderradius="1" textalpha="1" enabled="1" background="1" borderalpha="1" wordwrap="1" border="1" height="20" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" pan="-273.73" tilt="-1.83" id="Point01" title="Arrival Point" url="{node1}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="-322.41" tilt="-1.73" id="Point02" title="Reef-flat outside dive shed" url="{node10}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="-46.02" tilt="4.86" id="Point03" title="Clam Garden" url="{node18}" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node20">
+    <input overlap="1" width="1520" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
+      <level predecode="0" preload="0" width="1520" height="1520"/>
+      <level predecode="0" preload="0" width="760" height="760"/>
+      <level predecode="1" preload="1" width="380" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="104.16" tilt="-9.15" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120"/>
+    </view>
+    <userdata description="" datetime="24/6/19 1:40 AM" source="" tags="New 360's for virtual tour - JPG's" latitude="-18.614111" longitude="146.489111" author="" title="Communal outside" customnodeid="" info="" altitude="11.00" copyright="" heading="0" comment="" nodeid="node20"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000" width="180" borderradius="1" textalpha="1" enabled="1" background="1" borderalpha="1" wordwrap="1" border="1" height="20" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" distance="12.7152" description="" pan="-240.95" tilt="7.22" id="Point01" title="Communal dining area" url="{node21}" target=""/>
+      <hotspot skinid="ht_node" distance="67.3665" description="" pan="-170.39" tilt="2.81" id="Point02" title="Volleyball Court" url="{node28}" target=""/>
+      <hotspot skinid="ht_node" distance="79.7431" description="" pan="-104.57" tilt="0.4" id="Point03" title="Reef flat" url="{node37}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="-3.99" tilt="-2.59" id="Point04" title="Pelorus House" url="{node14}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="-224.04" tilt="7.21" id="Point05" title="Havannah House" url="{node12}" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node21">
+    <input overlap="1" width="1520" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
+      <level predecode="0" preload="0" width="1520" height="1520"/>
+      <level predecode="0" preload="0" width="760" height="760"/>
+      <level predecode="1" preload="1" width="380" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-13.8" tilt="-22.94" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120"/>
+    </view>
+    <userdata description="" datetime="24/6/19 2:45 AM" source="" tags="New 360's for virtual tour - JPG's" latitude="-18.614194" longitude="146.489194" author="" title="Communal dining area" customnodeid="" info="" altitude="11.90" copyright="" heading="0" comment="" nodeid="node21"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000" width="180" borderradius="1" textalpha="1" enabled="1" background="1" borderalpha="1" wordwrap="1" border="1" height="20" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" pan="-235.76" tilt="-4.2" id="Point01" title="Pelorus House" url="{node14}" target=""/>
+      <hotspot skinid="ht_node" distance="91.6629" description="" pan="-301.04" tilt="-2.77" id="Point02" title="Reef Flat outside Havannah" url="{node37}" target=""/>
+      <hotspot skinid="ht_node" distance="12.7152" description="" pan="-347.23" tilt="-18.48" id="Point03" title="Communal outside" url="{node20}" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node22">
+    <input overlap="1" width="1520" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
+      <level predecode="0" preload="0" width="1520" height="1520"/>
+      <level predecode="0" preload="0" width="760" height="760"/>
+      <level predecode="1" preload="1" width="380" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-56.01" tilt="-25.43" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120"/>
+    </view>
+    <userdata description="" datetime="25/6/19 5:22 AM" source="" tags="New 360's for virtual tour - JPG's" latitude="-18.612667" longitude="146.484556" author="" title="Pioneer Bay beach station" customnodeid="" info="" altitude="9.40" copyright="" heading="0" comment="" nodeid="node22"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000" width="180" borderradius="1" textalpha="1" enabled="1" background="1" borderalpha="1" wordwrap="1" border="1" height="20" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" distance="8.42579" description="" pan="-44.77" tilt="-7.16" id="Point01" title="UW Camera cable" url="{node29}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="-331.58" tilt="-25.16" id="Point02" title="The Point" url="{node17}" target=""/>
+      <hotspot skinid="ht_url" description="" pan="-22" tilt="-2.53" id="Point03" title="Live UW Camera stream" url="https://streamvdr-cns01.jcu.edu.au/eResearch/UnderwaterCam.stream/playlist.m3u8?" target="_blank"/>
+      <hotspot skinid="ht_url" description="" pan="-110.47" tilt="-38.39" id="Point04" title="Live Beach Camera" url="https://streamvdr-cns01.jcu.edu.au/eResearch/BeachCam.stream/playlist.m3u8" target="_blank"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node24">
+    <input overlap="1" width="1520" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
+      <level predecode="0" preload="0" width="1520" height="1520"/>
+      <level predecode="0" preload="0" width="760" height="760"/>
+      <level predecode="1" preload="1" width="380" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120"/>
+    </view>
+    <userdata description="" datetime="25/6/19 3:18 AM" source="" tags="New 360's for virtual tour - JPG's" latitude="-18.611944" longitude="146.494750" author="" title="Top of Island" customnodeid="" info="" altitude="99.00" copyright="" heading="0" comment="" nodeid="node24"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000" width="180" borderradius="1" textalpha="1" enabled="1" background="1" borderalpha="1" wordwrap="1" border="1" height="20" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" pan="-155.53" tilt="1.52" id="Point01" title="Research Station" url="{node1}" target=""/>
+      <hotspot skinid="ht_node" distance="503.589" description="" pan="-357.8" tilt="-7.5" id="Point02" title="Wildside Beach" url="{node31}" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node25">
+    <input overlap="1" width="1520" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
+      <level predecode="0" preload="0" width="1520" height="1520"/>
+      <level predecode="0" preload="0" width="760" height="760"/>
+      <level predecode="1" preload="1" width="380" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120"/>
+    </view>
+    <userdata description="" datetime="25/6/19 2:43 AM" source="" tags="New 360's for virtual tour - JPG's" latitude="-18.612083" longitude="146.499306" author="" title="Wildside Beach station" customnodeid="" info="" altitude="-15.70" copyright="" heading="0" comment="" nodeid="node25"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000" width="180" borderradius="1" textalpha="1" enabled="1" background="1" borderalpha="1" wordwrap="1" border="1" height="20" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_url" description="" pan="-332.09" tilt="27.95" id="Point01" title="Live Beach Camera" url="https://streamvdr-cns01.jcu.edu.au:443/eResearch/ORS-Farside.stream/playlist.m3u8" target="_blank"/>
+      <hotspot skinid="ht_node" distance="34.0096" description="" pan="-195.15" tilt="-5.88" id="Point02" title="Wildside Beach" url="{node31}" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node26">
+    <input overlap="1" width="1520" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
+      <level predecode="0" preload="0" width="1520" height="1520"/>
+      <level predecode="0" preload="0" width="760" height="760"/>
+      <level predecode="1" preload="1" width="380" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120"/>
+    </view>
+    <userdata description="" datetime="25/6/19 2:50 AM" source="" tags="New 360's for virtual tour - JPG's" latitude="-18.612194" longitude="146.498250" author="" title="Walking track to station/wildside" customnodeid="" info="" altitude="-9.40" copyright="" heading="0" comment="" nodeid="node26"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000" width="180" borderradius="1" textalpha="1" enabled="1" background="1" borderalpha="1" wordwrap="1" border="1" height="20" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node27">
+    <input overlap="1" width="1520" leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
+      <level predecode="0" preload="0" width="1520" height="1520"/>
+      <level predecode="0" preload="0" width="760" height="760"/>
+      <level predecode="1" preload="1" width="380" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-120.81" tilt="-19.93" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120"/>
+    </view>
+    <userdata description="" datetime="24/6/19 11:05 PM" source="" tags="New 360's for virtual tour - JPG's" latitude="-18.611889" longitude="146.499667" author="" title="Wildside shoreline" customnodeid="" info="" altitude="-17.10" copyright="" heading="0" comment="" nodeid="node27"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000" width="180" borderradius="1" textalpha="1" enabled="1" background="1" borderalpha="1" wordwrap="1" border="1" height="20" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" distance="14.975" description="" pan="-27.25" tilt="2.32" id="Point01" title="Wildside Beach" url="{node31}" target=""/>
+      <hotspot skinid="ht_node" distance="134.922" description="" pan="-115.35" tilt="1.32" id="Point02" title="Wildside north Shoreline" url="{node38}" target=""/>
+      <hotspot skinid="ht_url" description="" pan="-169.18" tilt="-0.47" id="Point03" title="Wildside Live UW camer" url="https://streamvdr-cns01.jcu.edu.au/eResearch/ORS-Farside-Underwater.stream/playlist.m3u8" target="_blank"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node28">
+    <input overlap="1" width="1520" leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
+      <level predecode="0" preload="0" width="1520" height="1520"/>
+      <level predecode="0" preload="0" width="760" height="760"/>
+      <level predecode="1" preload="1" width="380" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-123.64" tilt="-9.76" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120"/>
+    </view>
+    <userdata description="" datetime="24/6/19 1:45 AM" source="" tags="New 360's for virtual tour - JPG's" latitude="-18.613611" longitude="146.489472" author="" title="Volleyball court" customnodeid="" info="" altitude="10.30" copyright="" heading="0" comment="" nodeid="node28"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000" width="180" borderradius="1" textalpha="1" enabled="1" background="1" borderalpha="1" wordwrap="1" border="1" height="20" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" pan="-158.48" tilt="1.36" id="Point01" title="Arrival Point" url="{node1}" target=""/>
+      <hotspot skinid="ht_node" distance="67.3665" description="" pan="-340.07" tilt="-1.58" id="Point02" title="Communal Area" url="{node20}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="-313.86" tilt="11.44" id="Point03" title="" url="" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node29">
+    <input overlap="1" width="1520" leveltileurl="tiles/node29/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
+      <level predecode="0" preload="0" width="1520" height="1520"/>
+      <level predecode="0" preload="0" width="760" height="760"/>
+      <level predecode="1" preload="1" width="380" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-78.42" tilt="-21.5" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120"/>
+    </view>
+    <userdata description="" datetime="25/6/19 5:27 AM" source="" tags="New 360's for virtual tour - JPG's" latitude="-18.612722" longitude="146.484611" author="" title="UW camera cable" customnodeid="" info="" altitude="9.20" copyright="" heading="0" comment="" nodeid="node29"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000" width="180" borderradius="1" textalpha="1" enabled="1" background="1" borderalpha="1" wordwrap="1" border="1" height="20" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" distance="8.42579" description="" pan="-63.75" tilt="4.06" id="Point01" title="Beach station" url="{node22}" target=""/>
+      <hotspot skinid="ht_url" description="" pan="-230.01" tilt="-2" id="Point02" title="Live UW camera" url="https://streamvdr-cns01.jcu.edu.au/eResearch/UnderwaterCam.stream/playlist.m3u8?" target="_blank"/>
+      <hotspot skinid="ht_node" description="" pan="-75.43" tilt="2.64" id="Point03" title="The Point" url="{node17}" target=""/>
+      <hotspot skinid="ht_node" distance="19963.9" description="" pan="-113.87" tilt="1.67" id="Point04" title="Dungeness Berth" url="{node30}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="-258.86" tilt="-0.93" id="Point05" title="Giant Clam garden" url="{node18}" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node30">
+    <input overlap="1" width="1520" leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
+      <level predecode="0" preload="0" width="1520" height="1520"/>
+      <level predecode="0" preload="0" width="760" height="760"/>
+      <level predecode="1" preload="1" width="380" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="137.53" tilt="-23.71" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120"/>
+    </view>
+    <userdata description="" datetime="25/6/19 9:04 PM" source="" tags="New 360's for virtual tour - JPG's" latitude="-18.526611" longitude="146.318417" author="" title="Dungeness Berth" customnodeid="" info="" altitude="5.10" copyright="" heading="0" comment="" nodeid="node30"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000" width="180" borderradius="1" textalpha="1" enabled="1" background="1" borderalpha="1" wordwrap="1" border="1" height="20" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" pan="-208.72" tilt="-4.85" id="Point01" title="Challenger" url="{node9}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="-30.09" tilt="1.81" id="Point02" title="Orpheus Island" url="{node1}" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node31">
+    <input overlap="1" width="1520" leveltileurl="tiles/node31/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
+      <level predecode="0" preload="0" width="1520" height="1520"/>
+      <level predecode="0" preload="0" width="760" height="760"/>
+      <level predecode="1" preload="1" width="380" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="76.32" tilt="-19.13" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120"/>
+    </view>
+    <userdata description="" datetime="24/6/19 11:39 PM" source="" tags="New 360's for virtual tour - JPG's" latitude="-18.611861" longitude="146.499528" author="" title="Willdside Beach" customnodeid="" info="" altitude="-15.50" copyright="" heading="0" comment="" nodeid="node31"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000" width="180" borderradius="1" textalpha="1" enabled="1" background="1" borderalpha="1" wordwrap="1" border="1" height="20" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" distance="34.0096" description="" pan="-69.91" tilt="6.34" id="Point01" title="Beach Station" url="{node25}" target=""/>
+      <hotspot skinid="ht_node" distance="135.226" description="" pan="-200.9" tilt="-1.62" id="Point02" title="Wildside north Shore " url="{node38}" target=""/>
+      <hotspot skinid="ht_node" distance="503.589" description="" pan="-61.29" tilt="14.64" id="Point03" title="Top of Island" url="{node24}" target=""/>
+      <hotspot skinid="ht_url" description="" pan="-254.69" tilt="-4.67" id="Point04" title="" url="https://streamvdr-cns01.jcu.edu.au/eResearch/ORS-Farside-Underwater.stream/playlist.m3u8" target="_blank"/>
+      <hotspot skinid="ht_node" distance="14.975" description="" pan="-267.28" tilt="-10.64" id="Point05" title="Wildside shoreline" url="{node27}" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node32">
+    <input overlap="1" width="1520" leveltileurl="tiles/node32/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
+      <level predecode="0" preload="0" width="1520" height="1520"/>
+      <level predecode="0" preload="0" width="760" height="760"/>
+      <level predecode="1" preload="1" width="380" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120"/>
+    </view>
+    <userdata description="" datetime="25/6/19 5:46 AM" source="" tags="New 360's for virtual tour - JPG's" latitude="-18.614194" longitude="146.489556" author="" title="Havannah house room" customnodeid="" info="" altitude="14.90" copyright="" heading="0" comment="" nodeid="node32"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000" width="180" borderradius="1" textalpha="1" enabled="1" background="1" borderalpha="1" wordwrap="1" border="1" height="20" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" distance="19.8714" description="" pan="-119.02" tilt="1.59" id="Point01" title="Veranda" url="{node36}" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node33">
+    <input overlap="1" width="1520" leveltileurl="tiles/node33/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
+      <level predecode="0" preload="0" width="1520" height="1520"/>
+      <level predecode="0" preload="0" width="760" height="760"/>
+      <level predecode="1" preload="1" width="380" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120"/>
+    </view>
+    <userdata description="" datetime="24/6/19 5:59 AM" source="" tags="New 360's for virtual tour - JPG's" latitude="-18.613333" longitude="146.489056" author="" title="Mangroves" customnodeid="" info="" altitude="4.70" copyright="" heading="0" comment="" nodeid="node33"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000" width="180" borderradius="1" textalpha="1" enabled="1" background="1" borderalpha="1" wordwrap="1" border="1" height="20" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" distance="86.7036" description="" pan="-15.67" tilt="7.4" id="Point01" title="Communal area" url="{node20}" target=""/>
+      <hotspot skinid="ht_node" distance="26.5436" description="" pan="-138.98" tilt="0.22" id="Point02" title="Reef-flat outside Havannah" url="{node37}" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node34">
+    <input overlap="1" width="1520" leveltileurl="tiles/node34/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
+      <level predecode="0" preload="0" width="1520" height="1520"/>
+      <level predecode="0" preload="0" width="760" height="760"/>
+      <level predecode="1" preload="1" width="380" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-171.89" tilt="-9" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120"/>
+    </view>
+    <userdata description="" datetime="24/6/19 3:09 AM" source="" tags="New 360's for virtual tour - JPG's" latitude="-18.614167" longitude="146.488889" author="" title="Pelorus bedroom" customnodeid="" info="" altitude="9.50" copyright="" heading="0" comment="" nodeid="node34"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000" width="180" borderradius="1" textalpha="1" enabled="1" background="1" borderalpha="1" wordwrap="1" border="1" height="20" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" pan="-259.11" tilt="-8.2" id="Point01" title="Pelorus Veranda" url="{node15}" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node35">
+    <input overlap="1" width="1520" leveltileurl="tiles/node35/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
+      <level predecode="0" preload="0" width="1520" height="1520"/>
+      <level predecode="0" preload="0" width="760" height="760"/>
+      <level predecode="1" preload="1" width="380" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120"/>
+    </view>
+    <userdata description="" datetime="24/6/19 1:07 AM" source="" tags="New 360's for virtual tour - JPG's" latitude="-18.614167" longitude="146.488917" author="" title="Pelorus dining" customnodeid="" info="" altitude="9.90" copyright="" heading="0" comment="" nodeid="node35"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000" width="180" borderradius="1" textalpha="1" enabled="1" background="1" borderalpha="1" wordwrap="1" border="1" height="20" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node36">
+    <input overlap="1" width="1520" leveltileurl="tiles/node36/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
+      <level predecode="0" preload="0" width="1520" height="1520"/>
+      <level predecode="0" preload="0" width="760" height="760"/>
+      <level predecode="1" preload="1" width="380" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120"/>
+    </view>
+    <userdata description="" datetime="24/6/19 1:36 AM" source="" tags="New 360's for virtual tour - JPG's" latitude="-18.614111" longitude="146.489389" author="" title="Havannah House veranda upstairs" customnodeid="" info="" altitude="13.20" copyright="" heading="0" comment="" nodeid="node36"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000" width="180" borderradius="1" textalpha="1" enabled="1" background="1" borderalpha="1" wordwrap="1" border="1" height="20" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" pan="-6.01" tilt="-3.9" id="Point01" title="Reef Flat" url="{node11}" target=""/>
+      <hotspot skinid="ht_node" distance="29.2952" description="" pan="-342.9" tilt="-11.25" id="Point02" title="Communal" url="{node20}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="-152.1" tilt="-21.38" id="Point03" title="Havannah House downstairs" url="{node12}" target=""/>
+      <hotspot skinid="ht_node" distance="19.8714" description="" pan="-264.22" tilt="-5.74" id="Point04" title="Havannah House room" url="{node32}" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node37">
+    <input overlap="1" width="1520" leveltileurl="tiles/node37/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
+      <level predecode="0" preload="0" width="1520" height="1520"/>
+      <level predecode="0" preload="0" width="760" height="760"/>
+      <level predecode="1" preload="1" width="380" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120"/>
+    </view>
+    <userdata description="" datetime="24/6/19 1:29 AM" source="" tags="New 360's for virtual tour - JPG's" latitude="-18.613444" longitude="146.488833" author="" title="Reef-flat outside Havannah" customnodeid="" info="" altitude="3.50" copyright="" heading="0" comment="" nodeid="node37"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000" width="180" borderradius="1" textalpha="1" enabled="1" background="1" borderalpha="1" wordwrap="1" border="1" height="20" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" distance="79.7431" description="" pan="-196.34" tilt="3.07" id="Point01" title="Communal area" url="{node20}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="-188.4" tilt="4.35" id="Point02" title="Havannah house" url="{node12}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="-67.65" tilt="0.99" id="Point03" title="Giant Clam garden" url="{node18}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="-329.38" tilt="-1.4" id="Point04" title="The Point" url="{node17}" target=""/>
+      <hotspot skinid="ht_node" distance="20393.3" description="" pan="-344.82" tilt="-1.57" id="Point05" title="Dungeness" url="{node30}" target=""/>
+      <hotspot skinid="ht_node" distance="34.5274" description="" pan="-135.89" tilt="2.46" id="Point06" title="Mangroves" url="{node40}" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node38">
+    <input overlap="1" width="1520" leveltileurl="tiles/node38/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
+      <level predecode="0" preload="0" width="1520" height="1520"/>
+      <level predecode="0" preload="0" width="760" height="760"/>
+      <level predecode="1" preload="1" width="380" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="103.56" tilt="-24.43" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120"/>
+    </view>
+    <userdata description="" datetime="24/6/19 11:25 PM" source="" tags="New 360's for virtual tour - JPG's" latitude="-18.610694" longitude="146.499889" author="" title="Wildside north Shore" customnodeid="" info="" altitude="-11.80" copyright="" heading="0" comment="" nodeid="node38"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000" width="180" borderradius="1" textalpha="1" enabled="1" background="1" borderalpha="1" wordwrap="1" border="1" height="20" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" distance="135.226" description="" pan="-291.26" tilt="-2.11" id="Point01" title="Wildside Beach" url="{node31}" target=""/>
+      <hotspot skinid="ht_node" distance="134.922" description="" pan="-277.74" tilt="-3.71" id="Point02" title="Wildside shore" url="{node27}" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node39">
+    <input overlap="1" width="1520" leveltileurl="tiles/node39/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
+      <level predecode="0" preload="0" width="1520" height="1520"/>
+      <level predecode="0" preload="0" width="760" height="760"/>
+      <level predecode="1" preload="1" width="380" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-145.4" tilt="-11.3" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120"/>
+    </view>
+    <userdata description="" datetime="24/6/19 1:52 AM" source="" tags="New 360's for virtual tour - JPG's" latitude="-18.613333" longitude="146.490083" author="" title="Merchendise Store" customnodeid="" info="" altitude="8.80" copyright="" heading="0" comment="" nodeid="node39"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000" width="180" borderradius="1" textalpha="1" enabled="1" background="1" borderalpha="1" wordwrap="1" border="1" height="20" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" description="" pan="-279.43" tilt="-5.51" id="Point01" title="Lecture Theatre" url="{node6}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="-332.75" tilt="-2.79" id="Point02" title="Dive Shed" url="{node7}" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node40">
+    <input overlap="1" width="1520" leveltileurl="tiles/node40/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="0.400" levelingroll="0" height="1520" leveltilesize="510" levelbias="0.400" levelingpitch="0">
+      <level predecode="0" preload="0" width="1520" height="1520"/>
+      <level predecode="0" preload="0" width="760" height="760"/>
+      <level predecode="1" preload="1" width="380" height="380"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fovfisheye="360" fovstereographic="270" scaletofit="1" fov="120"/>
+    </view>
+    <userdata description="" datetime="24/6/19 5:52 AM" source="" tags="New 360's for virtual tour - JPG's" latitude="-18.613333" longitude="146.489139" author="" title="Mangroves" customnodeid="" info="" altitude="5.60" copyright="" heading="0" comment="" nodeid="node40"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000" width="180" borderradius="1" textalpha="1" enabled="1" background="1" borderalpha="1" wordwrap="1" border="1" height="20" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" distance="86.56" description="" pan="-55.97" tilt="4.4" id="Point01" title="Communal Area" url="{node20}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="-41.77" tilt="4.99" id="Point02" title="Havannah House" url="{node12}" target=""/>
+      <hotspot skinid="ht_node" description="" pan="-328.76" tilt="0.33" id="Point03" title="Arrival Point" url="{node1}" target=""/>
+      <hotspot skinid="ht_node" distance="34.5274" description="" pan="-188.08" tilt="-0.57" id="Point04" title="Reef flat" url="{node37}" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" zoomfov="20" zoomafterinfov="90" zoomout="0" zoomspeed="2" softedge="0" zoomoutpause="1" zoomafteroutfov="20" enabled="0" blendtime="1" type="crossdissolve" blendcolor="0x000000"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control speedwheel="1" contextfullscreen="0" lockedmouse="0" contextprojections="0" dblclickfullscreen="0" lockedkeyboardzoom="0" lockedwheel="0" invertcontrol="1" contextvr="1" rubberband="0" simulatemass="1" invertwheel="0" sensitivity="8" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <masternode>
+    <userdata description="" datetime="" source="" tags="" latitude="" longitude="" author="" title="" customnodeid="" info="" copyright="" heading="0" comment="" nodeid="master"/>
+  </masternode>
+</tour>
